@@ -1,0 +1,13 @@
+name: Get json file and lastUpdate
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  
+jobs:
+  download-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run Python script
+        run: |
+          python getPlaterInfo.py.py
