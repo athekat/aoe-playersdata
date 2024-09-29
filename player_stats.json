@@ -6,13 +6,13 @@
             "win": 159,
             "losses": 156,
             "rating": 1130,
-            "lastmatchdate": 1627513167
+            "lastmatchdate": "28/07/2021"
         },
         "4": {
             "win": 123,
             "losses": 88,
             "rating": 1377,
-            "lastmatchdate": 1690671263
+            "lastmatchdate": "29/07/2023"
         }
     },
     "dicopato_2": {
@@ -22,13 +22,13 @@
             "win": 536,
             "losses": 445,
             "rating": 1166,
-            "lastmatchdate": 1727229302
+            "lastmatchdate": "25/09/2024"
         },
         "3": {
             "win": 355,
             "losses": 334,
             "rating": 1470,
-            "lastmatchdate": 1727086404
+            "lastmatchdate": "23/09/2024"
         }
     },
     "sir_monkey": {
@@ -38,13 +38,13 @@
             "win": 1053,
             "losses": 1143,
             "rating": 1130,
-            "lastmatchdate": 1707879072
+            "lastmatchdate": "14/02/2024"
         },
         "3": {
             "win": 3,
             "losses": 5,
             "rating": 847,
-            "lastmatchdate": 1583913359
+            "lastmatchdate": "11/03/2020"
         }
     },
     "nanox": {
@@ -54,13 +54,13 @@
             "win": 829,
             "losses": 958,
             "rating": 1032,
-            "lastmatchdate": 1727229302
+            "lastmatchdate": "25/09/2024"
         },
         "3": {
             "win": 5,
             "losses": 13,
             "rating": 823,
-            "lastmatchdate": 1727189749
+            "lastmatchdate": "24/09/2024"
         }
     },
     "alanthekat": {
@@ -70,13 +70,13 @@
             "win": 43,
             "losses": 28,
             "rating": 1152,
-            "lastmatchdate": 1654828620
+            "lastmatchdate": "10/06/2022"
         },
         "3": {
             "win": 13,
             "losses": 10,
             "rating": 1104,
-            "lastmatchdate": 1720495960
+            "lastmatchdate": "09/07/2024"
         }
     },
     "carpincho": {
@@ -86,13 +86,13 @@
             "win": 172,
             "losses": 155,
             "rating": 1119,
-            "lastmatchdate": 1727229302
+            "lastmatchdate": "25/09/2024"
         },
         "3": {
             "win": 9,
             "losses": 6,
             "rating": 1165,
-            "lastmatchdate": 1720497072
+            "lastmatchdate": "09/07/2024"
         }
     },
     "thexcarpincho": {
@@ -102,13 +102,13 @@
             "win": 8,
             "losses": 6,
             "rating": 1094,
-            "lastmatchdate": 1718419538
+            "lastmatchdate": "15/06/2024"
         },
         "3": {
             "win": 6,
             "losses": 2,
             "rating": 1178,
-            "lastmatchdate": 1720573586
+            "lastmatchdate": "10/07/2024"
         }
     }
 }
