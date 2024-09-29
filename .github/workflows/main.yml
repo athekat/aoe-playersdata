@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: "30 * * * *"
+    - cron: "0/5 * * * *"
 jobs:
   download-json:
     runs-on: ubuntu-latest
