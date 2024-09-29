@@ -2,7 +2,7 @@ name: Get json file and lastUpdate
 
 on:
   schedule:
-    - cron: "25 * * * *"  
+    - cron: "0 30 * * *"
 jobs:
   download-json:
     runs-on: ubuntu-latest
