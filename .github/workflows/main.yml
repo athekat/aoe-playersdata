@@ -10,12 +10,12 @@ jobs:
         run: |
           python getPlaterInfo.py
 
-  name: Commit changes
+      - name: Commit changes
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
           git add date.txt
           git commit -m "Update date to $(date +%Y-%m-%d)" || echo "No changes to commit"
 
-       name: Push changes
+      - name: Push changes
         run: git push
