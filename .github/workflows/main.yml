@@ -1,0 +1,11 @@
+on:
+  schedule:
+    - cron: "30 * * * *"
+jobs:
+  download-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run Python script
+        run: |
+          python getPlaterInfo.py
