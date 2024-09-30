@@ -5,7 +5,14 @@ import datetime
 # Define player information dictionary
 players = {}
 
-today = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+# Get your local time offset (in hours, -3 for GMT-3)
+local_offset = -3
+# Get current local time
+now_local = datetime.now()
+# Calculate GMT-3 time by adding offset
+now_gmt3 = now_local + datetime.timedelta(hours=local_offset)
+# Format the time in GMT-3
+gmt3_formatted = now_gmt3.strftime("%Y-%m-%d %H:%M:%S")
 
 # Define API endpoints for each player
 player_urls = {
@@ -74,6 +81,6 @@ with open("player_stats.json", "w") as outfile:
   json.dump(players, outfile, indent=4)
 
 with open("lastUpdated.txt", "w") as outfile:
-    outfile.write(today)
+    outfile.write(gmt3_formatted)
 
 print("Player stats successfully written to player_stats.json")
