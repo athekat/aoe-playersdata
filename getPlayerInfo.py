@@ -4,15 +4,7 @@ import datetime
 
 # Define player information dictionary
 players = {}
-
-# Get your local time offset (in hours, -3 for GMT-3)
-local_offset = -3
-# Get current local time
-now_local = datetime.now()
-# Calculate GMT-3 time by adding offset
-now_gmt3 = now_local + datetime.timedelta(hours=local_offset)
-# Format the time in GMT-3
-gmt3_formatted = now_gmt3.strftime("%Y-%m-%d %H:%M:%S")
+today = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 # Define API endpoints for each player
 player_urls = {
@@ -24,7 +16,6 @@ player_urls = {
     "carpincho": "https://aoe-api.worldsedgelink.com/community/leaderboard/GetPersonalStat?title=age2&profile_names=[%22/steam/76561199207580572%22]",
     "thexcarpincho": "https://aoe-api.worldsedgelink.com/community/leaderboard/GetPersonalStat?title=age2&profile_names=[%22/xboxlive/F7577FE856E4AEDA15094BF4CEA3610BA6403A5D%22]",
 }
-
 
 def get_player_stats(url):
   """Fetches player stats from the provided API URL.
