@@ -72,6 +72,6 @@ with open("player_stats.json", "w") as outfile:
   json.dump(players, outfile, indent=4)
 
 with open("lastUpdated.txt", "w") as outfile:
-    outfile.write(gmt3_formatted)
+    outfile.write(today)
 
 print("Player stats successfully written to player_stats.json")
