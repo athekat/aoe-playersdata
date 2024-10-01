@@ -4,7 +4,7 @@ import datetime
 
 # Define player information dictionary
 players = {}
-today = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+today = (datetime.now() + timedelta(hours=-3)).strftime("%Y-%m-%d %H:%M:%S GMT-3") 
 
 # Define API endpoints for each player
 player_urls = {
