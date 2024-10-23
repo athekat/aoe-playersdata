@@ -1,7 +1,5 @@
 {
     "dicopato_1": {
-        "leaderboard3": {},
-        "leaderboard4": {},
         "3": {
             "win": 159,
             "losses": 156,
@@ -16,8 +14,6 @@
         }
     },
     "dicopato_2": {
-        "leaderboard3": {},
-        "leaderboard4": {},
         "4": {
             "win": 538,
             "losses": 446,
@@ -32,8 +28,6 @@
         }
     },
     "sir_monkey": {
-        "leaderboard3": {},
-        "leaderboard4": {},
         "4": {
             "win": 1053,
             "losses": 1143,
@@ -48,8 +42,6 @@
         }
     },
     "nanox": {
-        "leaderboard3": {},
-        "leaderboard4": {},
         "4": {
             "win": 831,
             "losses": 960,
@@ -64,8 +56,6 @@
         }
     },
     "alanthekat": {
-        "leaderboard3": {},
-        "leaderboard4": {},
         "4": {
             "win": 43,
             "losses": 28,
@@ -80,8 +70,6 @@
         }
     },
     "carpincho": {
-        "leaderboard3": {},
-        "leaderboard4": {},
         "4": {
             "win": 174,
             "losses": 156,
@@ -95,9 +83,21 @@
             "lastmatchdate": "23/10/2024"
         }
     },
+    "emo": {
+        "3": {
+            "win": 1,
+            "losses": 2,
+            "rating": 962,
+            "lastmatchdate": "21/05/2020"
+        },
+        "4": {
+            "win": 4,
+            "losses": 1,
+            "rating": 1001,
+            "lastmatchdate": "19/05/2020"
+        }
+    },
     "thexcarpincho": {
-        "leaderboard3": {},
-        "leaderboard4": {},
         "4": {
             "win": 8,
             "losses": 6,
