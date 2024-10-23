@@ -43,11 +43,11 @@ def get_player_stats(url):
     ]
 
     # Extract desired information and store in separate dictionaries
-    player_data = {"leaderboard3": {}, "leaderboard4": {}}
+    player_data = {}
     for stat in relevant_stats:
         leaderboard_id = stat["leaderboard_id"]
-    # Create the dictionary entry for the specific leaderboard_id if it doesn't exist
-        player_data.setdefault(leaderboard_id, {})  # This creates an empty dictionary if the key doesn't exist
+    
+        player_data.setdefault(leaderboard_id, {})  
         player_data[leaderboard_id].update({
             "win": stat["wins"],
             "losses": stat["losses"],
