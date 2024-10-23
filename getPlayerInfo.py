@@ -14,6 +14,7 @@ player_urls = {
     "nanox": "https://aoe-api.worldsedgelink.com/community/leaderboard/GetPersonalStat?title=age2&profile_names=[%22/steam/76561198191637438%22]",
     "alanthekat": "https://aoe-api.worldsedgelink.com/community/leaderboard/GetPersonalStat?title=age2&profile_names=[%22/steam/76561198153797281%22]",
     "carpincho": "https://aoe-api.worldsedgelink.com/community/leaderboard/GetPersonalStat?title=age2&profile_names=[%22/steam/76561199207580572%22]",
+    "emo": "https://aoe-api.worldsedgelink.com/community/leaderboard/GetPersonalStat?title=age2&profile_names=[%22/steam/76561198399299731%22]",
     "thexcarpincho": "https://aoe-api.worldsedgelink.com/community/leaderboard/GetPersonalStat?title=age2&profile_names=[%22/xboxlive/F7577FE856E4AEDA15094BF4CEA3610BA6403A5D%22]",
 }
 
