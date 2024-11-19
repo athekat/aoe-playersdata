@@ -60,12 +60,20 @@ for player_name, player_id in player_ids.items():
         for member in most_recent_match.get('matchhistorymember', []):
             matchhistory_id=member['matchhistory_id']
             profile_id = member['profile_id']
+            outcome = member['outcome']
             civ_name = civ_list.get(member.get('civilization_id', -1), "Unknown")
             alias = profile_id_to_alias.get(member.get('profile_id'), "Unknown Alias")
             elo = member.get('oldrating', "Unknown")
             team_id = member.get('teamid', -1)
-            player_info = f"{alias} ({elo}) - {civ_name}"
-
+            if outcome == 1:
+                outcome = "&#128081;"
+            else:
+                outcome = "&#128128;"            
+            player_info = f"{alias} ({elo}) - {civ_name} {outcome}"
+            if outcome == 1:
+                outcome = "&#128081;"
+            else:
+                outcome = "&#128128;"
             if team_id not in grouped_by_team:
                 grouped_by_team[team_id] = []
             grouped_by_team[team_id].append(player_info)
