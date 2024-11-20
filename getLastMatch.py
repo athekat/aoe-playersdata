@@ -6,17 +6,18 @@ from datetime import datetime
 def convert_timestamp_to_date(timestamp):
     return datetime.utcfromtimestamp(timestamp).strftime('%Y-%m-%d, %H:%M:%S')
 
-# Civ Mapping (might change with new civs DLC)
+# Civ Mapping (might change with new civs DLC. For reference: https://github.com/athekat/aoc-reference-data/blob/master/data/datasets/100.json )
 civ_list = {
-    1: "Aztecs", 2: "Bengalis", 3: "Berbers", 4: "Bohemians", 5: "Britons",
-    6: "Bulgarians", 7: "Burgundians", 8: "Burmese", 9: "Byzantines", 10: "Celts",
-    11: "Chinese", 12: "Cumans", 13: "Dravidians", 14: "Ethiopians", 15: "Franks",
-    17: "Goths", 18: "Gurjaras", 19: "Huns", 20: "Incas", 21: "Hindustanis", 22: "Italians",
-    23: "Japanese", 24: "Khmer", 25: "Koreans", 26: "Lithuanians", 27: "Magyars",
-    28: "Malay", 29: "Malians", 30: "Mayans", 31: "Mongols", 32: "Persians",
-    33: "Poles", 34: "Portuguese", 36: "Saracens", 37: "Sicilians", 38: "Slavs",
-    39: "Spanish", 40: "Tatars", 41: "Teutons", 42: "Turks", 43: "Vietnamese",
-    44: "Vikings", 35: "Romans", 0: "Armenians", 16: "Georgians"
+    1: "Britons", 2: "Franks", 3: "Goths", 4: "Teutons", 5: "Japanese",
+6: "Chinese", 7: "Byzantines", 8: "Persians", 9: "Saracens", 10: "Turks",
+11: "Vikings", 12: "Mongols", 13: "Celts", 14: "Spanish", 15: "Aztecs",
+16: "Mayans", 17: "Huns", 18: "Koreans", 19: "Italians", 20: "Hindustanis",
+21: "Incas", 22: "Magyars", 23: "Slavs", 24: "Portuguese", 25: "Ethiopians",
+26: "Malians", 27: "Berbers", 28: "Khmer", 29: "Malay", 30: "Burmese",
+31: "Vietnamese", 32: "Bulgarians", 33: "Tatars", 34: "Cumans", 35: "Lithuanians",
+36: "Burgundians", 37: "Sicilians", 38: "Poles", 39: "Bohemians", 40: "Dravidians",
+41: "Bengalis", 42: "Gurjaras", 43: "Romans", 44: "Armenians", 45: "Georgians",
+46: "Achaemenids", 47: "Athenians", 48: "Spartans"
 }
 
 # Player IDs with desired names as keys
