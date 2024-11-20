@@ -17,7 +17,7 @@ civ_list = {
     33: "Poles", 34: "Portuguese", 36: "Saracens", 37: "Sicilians", 38: "Slavs",
     39: "Spanish", 40: "Tatars", 41: "Teutons", 42: "Turks", 43: "Vietnamese",
     44: "Vikings", 35: "Romans", 0: "Armenians", 16: "Georgians"
-
+}
 # Player IDs with desired names as keys
 player_ids = {
     "Carpincho": "76561199207580572",
