@@ -70,10 +70,6 @@ for player_name, player_id in player_ids.items():
             else:
                 outcome = "&#128128;"            
             player_info = f"{alias} ({elo}) - {civ_name} {outcome}"
-            if outcome == 1:
-                outcome = "&#128081;"
-            else:
-                outcome = "&#128128;"
             if team_id not in grouped_by_team:
                 grouped_by_team[team_id] = []
             grouped_by_team[team_id].append(player_info)
