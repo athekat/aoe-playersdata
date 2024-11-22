@@ -12,15 +12,15 @@
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=353190353&profileId=439001'>Download Rec</a>"
     },
     "SirMonkey": {
-        "LastMatch": "<b>Last Match</b><br>Map: nomad.rms<br>",
-        "Team 2": "K_mo0 (1223) - Ethiopians &#128081;<br>LVDB_Curandero (1222) - Slavs &#128081;<br>Nanox (1197) - Mayans &#128081;<br>Sir Monkey (1234) - Khmer &#128081;",
-        "Team 1": "RobTheBuilder (1227) - Ethiopians &#128128;<br>Pyrgus (1125) - Goths &#128128;<br>Ronar (1250) - Persians &#128128;<br>WaiWai (1255) - Saracens &#128128;",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=353741160&profileId=903496'>Download Rec</a>"
+        "LastMatch": "<b>Last Match</b><br>Map: LandNomad.rms<br>",
+        "Team 2": "Nanox (1214) - Huns &#128128;<br>DrRille (1201) - Aztecs &#128128;<br>aq.gjoel (1228) - Chinese &#128128;<br>Sir Monkey (1249) - Khmer &#128128;",
+        "Team 1": "iboisis (1250) - Japanese &#128081;<br>[OTM]thebearjew (1235) - Teutons &#128081;<br>BigKingXXL (1245) - Persians &#128081;<br>BenAfflex (1231) - Khmer &#128081;",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=353747793&profileId=1149023'>Download Rec</a>"
     },
     "Nanox": {
-        "LastMatch": "<b>Last Match</b><br>Map: nomad.rms<br>",
-        "Team 2": "K_mo0 (1223) - Ethiopians &#128081;<br>LVDB_Curandero (1222) - Slavs &#128081;<br>Nanox (1197) - Mayans &#128081;<br>Sir Monkey (1234) - Khmer &#128081;",
-        "Team 1": "RobTheBuilder (1227) - Ethiopians &#128128;<br>Pyrgus (1125) - Goths &#128128;<br>Ronar (1250) - Persians &#128128;<br>WaiWai (1255) - Saracens &#128128;",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=353741160&profileId=903496'>Download Rec</a>"
+        "LastMatch": "<b>Last Match</b><br>Map: LandNomad.rms<br>",
+        "Team 2": "Nanox (1214) - Huns &#128128;<br>DrRille (1201) - Aztecs &#128128;<br>aq.gjoel (1228) - Chinese &#128128;<br>Sir Monkey (1249) - Khmer &#128128;",
+        "Team 1": "iboisis (1250) - Japanese &#128081;<br>[OTM]thebearjew (1235) - Teutons &#128081;<br>BigKingXXL (1245) - Persians &#128081;<br>BenAfflex (1231) - Khmer &#128081;",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=353747793&profileId=1149023'>Download Rec</a>"
     }
 }
