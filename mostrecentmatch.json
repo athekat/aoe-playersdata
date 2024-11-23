@@ -12,15 +12,15 @@
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=353190353&profileId=439001'>Download Rec</a>"
     },
     "SirMonkey": {
-        "LastMatch": "<b>Last Match</b><br>Map: LandNomad.rms<br>",
-        "Team 2": "Nanox (1214) - Huns &#128128;<br>DrRille (1201) - Aztecs &#128128;<br>aq.gjoel (1228) - Chinese &#128128;<br>Sir Monkey (1249) - Khmer &#128128;",
-        "Team 1": "iboisis (1250) - Japanese &#128081;<br>[OTM]thebearjew (1235) - Teutons &#128081;<br>BigKingXXL (1245) - Persians &#128081;<br>BenAfflex (1231) - Khmer &#128081;",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=353747793&profileId=1149023'>Download Rec</a>"
+        "LastMatch": "<b>Last Match</b><br>Map: nomad.rms<br>",
+        "Team 2": "Nanox (1199) - Mayans &#128128;<br>ScrotiMcBoogerballs (1212) - Berbers &#128128;<br>PickledCheese (1211) - Saracens &#128128;<br>Sir Monkey (1233) - Khmer &#128128;",
+        "Team 1": "[BY] Blopa (1186) - Franks &#128081;<br>[BY] miguel_jm23 (1304) - Lithuanians &#128081;<br>[BY] damilongi (1284) - Saracens &#128081;<br>[BY] rebecamontiel (1112) - Persians &#128081;",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=353812873&profileId=903496'>Download Rec</a>"
     },
     "Nanox": {
-        "LastMatch": "<b>Last Match</b><br>Map: LandNomad.rms<br>",
-        "Team 2": "Nanox (1214) - Huns &#128128;<br>DrRille (1201) - Aztecs &#128128;<br>aq.gjoel (1228) - Chinese &#128128;<br>Sir Monkey (1249) - Khmer &#128128;",
-        "Team 1": "iboisis (1250) - Japanese &#128081;<br>[OTM]thebearjew (1235) - Teutons &#128081;<br>BigKingXXL (1245) - Persians &#128081;<br>BenAfflex (1231) - Khmer &#128081;",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=353747793&profileId=1149023'>Download Rec</a>"
+        "LastMatch": "<b>Last Match</b><br>Map: nomad.rms<br>",
+        "Team 2": "Nanox (1199) - Mayans &#128128;<br>ScrotiMcBoogerballs (1212) - Berbers &#128128;<br>PickledCheese (1211) - Saracens &#128128;<br>Sir Monkey (1233) - Khmer &#128128;",
+        "Team 1": "[BY] Blopa (1186) - Franks &#128081;<br>[BY] miguel_jm23 (1304) - Lithuanians &#128081;<br>[BY] damilongi (1284) - Saracens &#128081;<br>[BY] rebecamontiel (1112) - Persians &#128081;",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=353812873&profileId=903496'>Download Rec</a>"
     }
 }
