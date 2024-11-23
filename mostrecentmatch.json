@@ -12,15 +12,15 @@
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=353190353&profileId=439001'>Download Rec</a>"
     },
     "SirMonkey": {
-        "LastMatch": "<b>Last Match</b><br>Map: nomad.rms<br>",
-        "Team 2": "Nanox (1199) - Mayans &#128128;<br>ScrotiMcBoogerballs (1212) - Berbers &#128128;<br>PickledCheese (1211) - Saracens &#128128;<br>Sir Monkey (1233) - Khmer &#128128;",
-        "Team 1": "[BY] Blopa (1186) - Franks &#128081;<br>[BY] miguel_jm23 (1304) - Lithuanians &#128081;<br>[BY] damilongi (1284) - Saracens &#128081;<br>[BY] rebecamontiel (1112) - Persians &#128081;",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=353812873&profileId=903496'>Download Rec</a>"
+        "LastMatch": "<b>Last Match</b><br>Map: LandNomad.rms<br>",
+        "Team 2": "Nanox (1168) - Huns &#128128;<br>Sir Monkey (1199) - Khmer &#128128;<br>Alpenhime (1187) - Tatars &#128128;<br>Chris.S (1222) - Mongols &#128128;",
+        "Team 1": "kat_not_dog (1155) - Japanese &#128081;<br>GREATWHITE (1154) - Tatars &#128081;<br>fidel8a (1187) - Lithuanians &#128081;<br>\u7206\u6c41\u756a\u8304 (1232) - Mongols &#128081;",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=353823904&profileId=8941710'>Download Rec</a>"
     },
     "Nanox": {
-        "LastMatch": "<b>Last Match</b><br>Map: nomad.rms<br>",
-        "Team 2": "Nanox (1199) - Mayans &#128128;<br>ScrotiMcBoogerballs (1212) - Berbers &#128128;<br>PickledCheese (1211) - Saracens &#128128;<br>Sir Monkey (1233) - Khmer &#128128;",
-        "Team 1": "[BY] Blopa (1186) - Franks &#128081;<br>[BY] miguel_jm23 (1304) - Lithuanians &#128081;<br>[BY] damilongi (1284) - Saracens &#128081;<br>[BY] rebecamontiel (1112) - Persians &#128081;",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=353812873&profileId=903496'>Download Rec</a>"
+        "LastMatch": "<b>Last Match</b><br>Map: LandNomad.rms<br>",
+        "Team 2": "Nanox (1168) - Huns &#128128;<br>Sir Monkey (1199) - Khmer &#128128;<br>Alpenhime (1187) - Tatars &#128128;<br>Chris.S (1222) - Mongols &#128128;",
+        "Team 1": "kat_not_dog (1155) - Japanese &#128081;<br>GREATWHITE (1154) - Tatars &#128081;<br>fidel8a (1187) - Lithuanians &#128081;<br>\u7206\u6c41\u756a\u8304 (1232) - Mongols &#128081;",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=353823904&profileId=8941710'>Download Rec</a>"
     }
 }
