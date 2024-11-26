@@ -79,8 +79,14 @@ for player_name, player_id in player_ids.items():
             teams_output[f"Team {team_id + 1}"] = "<br>".join(players)
 
         # Store data using player_name as key
+        mapname = most_recent_match.get('mapname', 'Unknown')
+        if mapname == "Mediterranean.rms":
+            mapname = "lombardia.rms2"
+        elif mapname == "lombardia.rms2":
+            mapname = "Mediterranean.rms"
+        
         all_player_data[player_name] = {
-            "LastMatch": f"<b>Last Match</b><br>Map: {most_recent_match.get('mapname', 'Unknown')}<br>",
+            "LastMatch": f"<b>Last Match</b><br>Map: {mapname}<br>",
             **teams_output,
             "DownloadRecLink": f"<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId={matchhistory_id}&profileId={profile_id}'>Download Rec</a>"
         }
