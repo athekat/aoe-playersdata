@@ -12,15 +12,15 @@
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=354713326&profileId=3280008'>Download Rec</a>"
     },
     "SirMonkey": {
-        "LastMatch": "<b>Last Match</b><br>Map: Mountain_Dunes.rms<br>",
-        "Team 1": "Nanox (1215) - Turks &#128128;<br>ChR13 (1169) - Persians &#128128;<br>Sir Monkey (1236) - Khmer &#128128;<br>onion1414 (1121) - Burgundians &#128128;",
-        "Team 2": "MCccaaaa (1140) - Persians &#128081;<br>revistatriunfomusical (1184) - Franks &#128081;<br>joseporfirio86 (1112) - Magyars &#128081;<br>Matthew 0911 (1107) - Bengalis &#128081;",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=354872293&profileId=19175696'>Download Rec</a>"
+        "LastMatch": "<b>Last Match</b><br>Map: steppe.rms2<br>",
+        "Team 2": "Nanox (1161) - Malians &#128128;<br>316770388 (1173) - Mongols &#128128;<br>\u5559\u7ab3\u5927\u5927 (1197) - Magyars &#128128;<br>Sir Monkey (1179) - Khmer &#128128;",
+        "Team 1": "\u00df\u00dfTomb (1164) - Mongols &#128081;<br>American (1202) - Cumans &#128081;<br>cavidal1 (1190) - Mongols &#128081;<br>Buforbotzo (1169) - Teutons &#128081;",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=354894206&profileId=394947'>Download Rec</a>"
     },
     "Nanox": {
-        "LastMatch": "<b>Last Match</b><br>Map: Mountain_Dunes.rms<br>",
-        "Team 1": "Nanox (1215) - Turks &#128128;<br>ChR13 (1169) - Persians &#128128;<br>Sir Monkey (1236) - Khmer &#128128;<br>onion1414 (1121) - Burgundians &#128128;",
-        "Team 2": "MCccaaaa (1140) - Persians &#128081;<br>revistatriunfomusical (1184) - Franks &#128081;<br>joseporfirio86 (1112) - Magyars &#128081;<br>Matthew 0911 (1107) - Bengalis &#128081;",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=354872293&profileId=19175696'>Download Rec</a>"
+        "LastMatch": "<b>Last Match</b><br>Map: steppe.rms2<br>",
+        "Team 2": "Nanox (1161) - Malians &#128128;<br>316770388 (1173) - Mongols &#128128;<br>\u5559\u7ab3\u5927\u5927 (1197) - Magyars &#128128;<br>Sir Monkey (1179) - Khmer &#128128;",
+        "Team 1": "\u00df\u00dfTomb (1164) - Mongols &#128081;<br>American (1202) - Cumans &#128081;<br>cavidal1 (1190) - Mongols &#128081;<br>Buforbotzo (1169) - Teutons &#128081;",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=354894206&profileId=394947'>Download Rec</a>"
     }
 }
