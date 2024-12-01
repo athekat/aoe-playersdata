@@ -42,8 +42,8 @@ def fetch_and_save_player_data(players):
 
               final_json = {
                   player_name: {
-                      "LastMatch": f"Last Match<br><img src='{last_match['mapImageUrl']}' alt=''>",
-                      "DownloadRecLink": f"<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId={last_match['matchId']}&profileId={profileId}'>&#128190;</a>",  # Download replay link
+                      "LastMatch": f"<img src='{last_match['mapImageUrl']}' width='150rem' alt=''>",
+                      "DownloadRecLink": f"<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId={last_match['matchId']}&profileId={profileId}'>Download &#128190;</a>",  # Download replay link
                       **teams
                   }
               }
@@ -66,7 +66,7 @@ players = [
     {"name": "Carpincho", "api_url": "https://data.aoe2companion.com/api/matches?profile_ids=6446904&search=&page=1"},
     {"name": "Nanox", "api_url": "https://data.aoe2companion.com/api/matches?profile_ids=439001&search=&page=1"},
     {"name": "dicopatito", "api_url": "https://data.aoe2companion.com/api/matches?profile_ids=6237950&search=&page=1"},
-    {"name": "Sir Monkey", "api_url": "https://data.aoe2companion.com/api/matches?profile_ids=903496&search=&page=1"}
+    {"name": "SirMonkey", "api_url": "https://data.aoe2companion.com/api/matches?profile_ids=903496&search=&page=1"}
 ]
 
 fetch_and_save_player_data(players)
