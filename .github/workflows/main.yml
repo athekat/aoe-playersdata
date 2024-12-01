@@ -12,7 +12,7 @@ jobs:
           python getPlayerInfo.py
       - name: Run Python recentmatch script
         run: |
-          python getLastMatch.py
+          python getlastmatch-old.py
       - name: Commit changes
         run: |
           git config --local user.name "github-actions"
