@@ -34,18 +34,22 @@ def fetch_and_save_player_data(players):
                           outcome = "&#128081;"  # Victory emoji
                       else:
                           outcome = "&#128128;"  # Defeat emoji
-                      teams[f"Team {team_id}"].append(f"{player_name_in_match} ({elo}) - {civ_name} {outcome}<br>")
+                      teams[f"Team {team_id}"].append(f"{player_name_in_match} ({elo}) - {civ_name} {outcome}")
+
+            # Join the team members with newline characters, without extra commas
+              for team_id in teams:
+                  teams[team_id] = "<br>".join(teams[team_id])
 
               final_json = {
                   player_name: {
-                      "LastMatch": last_match['mapName'],
-                      **teams,
-                      "DownloadRecLink": f"<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId={last_match['matchId']}&profileId={profileId}'>&#128190;</a>"  # Download replay link
+                      "LastMatch": f"Last Match<br><img src='{last_match['mapImageUrl']}' alt=''>",
+                      "DownloadRecLink": f"<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId={last_match['matchId']}&profileId={profileId}'>&#128190;</a>",  # Download replay link
+                      **teams
                   }
               }
-              player_data.update(final_json)  # Add player data to the dictionary
+              player_data.update(final_json)
 
-          else:
+          else: 
               print(f"No recent matches found for player: {player_name}")
 
       except requests.exceptions.RequestException as e:
