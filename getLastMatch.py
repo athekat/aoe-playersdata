@@ -1,103 +1,68 @@
-import json
 import requests
-from datetime import datetime
+import json
 
-# Convert timestamp to date
-def convert_timestamp_to_date(timestamp):
-    return datetime.utcfromtimestamp(timestamp).strftime('%Y-%m-%d, %H:%M:%S')
+def fetch_and_save_player_data(players):
+  """Fetches match data for multiple players and saves it to a JSON file.
 
-# Civ Mapping (might change with new civs DLC)
-civ_list = {
-    1: "Aztecs", 2: "Bengalis", 3: "Berbers", 4: "Bohemians", 5: "Britons",
-    6: "Bulgarians", 7: "Burgundians", 8: "Burmese", 9: "Byzantines", 10: "Celts",
-    11: "Chinese", 12: "Cumans", 13: "Dravidians", 14: "Ethiopians", 15: "Franks",
-    17: "Goths", 18: "Gurjaras", 19: "Huns", 20: "Incas", 21: "Hindustanis", 22: "Italians",
-    23: "Japanese", 24: "Khmer", 25: "Koreans", 26: "Lithuanians", 27: "Magyars",
-    28: "Malay", 29: "Malians", 30: "Mayans", 31: "Mongols", 32: "Persians",
-    33: "Poles", 34: "Portuguese", 36: "Saracens", 37: "Sicilians", 38: "Slavs",
-    39: "Spanish", 40: "Tatars", 41: "Teutons", 42: "Turks", 43: "Vietnamese",
-    44: "Vikings", 35: "Romans", 0: "Armenians", 16: "Georgians"
-}
-# Player IDs with desired names as keys
-player_ids = {
-    "Carpincho": "76561199207580572",
-    "Dicopatito": "76561199195740571",
-    "SirMonkey": "76561198163778606",
-    "Nanox": "76561198191637438"
-}
+  Args:
+      players (list): A list of dictionaries containing player name and API URL.
+  """
 
-# Main dictionary to hold data for each player
-all_player_data = {}
+  player_data = {}
+  for player in players:
+      player_name = player['name']
+      api_url = player['api_url']
 
-# Loop through each player name and ID in the dictionary
-for player_name, player_id in player_ids.items():
-    # API URL for each player using the correct player_id
-    URL = f"https://aoe-api.worldsedgelink.com/community/leaderboard/getRecentMatchHistory?title=age2&profile_names=[%22/steam/{player_id}%22]"
-    
-    try:
-        # Make the request
-        response = requests.get(URL, timeout=10)
-        player_data = response.json()
+      try:
+          response = requests.get(api_url)
+          response.raise_for_status()  # Raise an exception for error HTTP statuses
+          data = response.json()
 
-        # Check if 'matchHistoryStats' key is present
-        if 'matchHistoryStats' not in player_data:
-            print(f"No 'matchHistoryStats' key found for {player_name}. Skipping...")
-            continue
-        
-        matches = player_data['matchHistoryStats']
-        profiles = player_data.get('profiles', [])
-        
-        # Map profile_id to alias
-        profile_id_to_alias = {profile['profile_id']: profile['alias'] for profile in profiles}
+          if data['matches']:
+              last_match = data['matches'][0]
+              teams = {}
+              for team in last_match['teams']:
+                  team_id = team['teamId']
+                  teams[f"Team {team_id}"] = []
+                  for player in team['players']:
+                      player_name_in_match = player['name']
+                      civ_name = player['civName']
+                      elo = player['rating']
+                      outcome = player['won']
+                      profileId = player['profileId']
+                      if outcome is True:
+                          outcome = "&#128081;"  # Victory emoji
+                      else:
+                          outcome = "&#128128;"  # Defeat emoji
+                      teams[f"Team {team_id}"].append(f"{player_name_in_match} ({elo}) - {civ_name} {outcome}<br>")
 
-        # Find the most recent match
-        most_recent_match = max(matches, key=lambda x: x.get('startgametime', 0))
-        match_date = convert_timestamp_to_date(most_recent_match.get('startgametime', 0))
+              final_json = {
+                  player_name: {
+                      "LastMatch": last_match['mapName'],
+                      **teams,
+                      "DownloadRecLink": f"<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId={last_match['matchId']}&profileId={profileId}'>&#128190;</a>"  # Download replay link
+                  }
+              }
+              player_data.update(final_json)  # Add player data to the dictionary
 
-        # Team info
-        grouped_by_team = {}
-        for member in most_recent_match.get('matchhistorymember', []):
-            matchhistory_id=member['matchhistory_id']
-            profile_id = member['profile_id']
-            outcome = member['outcome']
-            civ_name = civ_list.get(member.get('civilization_id', -1), "Unknown")
-            alias = profile_id_to_alias.get(member.get('profile_id'), "Unknown Alias")
-            elo = member.get('oldrating', "Unknown")
-            team_id = member.get('teamid', -1)
-            if outcome == 1:
-                outcome = "&#128081;"
-            else:
-                outcome = "&#128128;"            
-            player_info = f"{alias} ({elo}) - {civ_name} {outcome}"
-            if team_id not in grouped_by_team:
-                grouped_by_team[team_id] = []
-            grouped_by_team[team_id].append(player_info)
+          else:
+              print(f"No recent matches found for player: {player_name}")
 
-        # Format team information
-        teams_output = {}
-        for team_id, players in grouped_by_team.items():
-            teams_output[f"Team {team_id + 1}"] = "<br>".join(players)
+      except requests.exceptions.RequestException as e:
+          print(f"Error fetching data for player {player_name}: {e}")
 
-        # Store data using player_name as key
-        mapname = most_recent_match.get('mapname', 'Unknown')
-        if mapname == "Mediterranean.rms":
-            mapname = "lombardia.rms2"
-        elif mapname == "lombardia.rms2":
-            mapname = "Mediterranean.rms"
-        
-        all_player_data[player_name] = {
-            "LastMatch": f"<b>Last Match</b><br>Map: {mapname}<br>",
-            **teams_output,
-            "DownloadRecLink": f"<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId={matchhistory_id}&profileId={profile_id}'>Download Rec</a>"
-        }
+  # Save the player data to a JSON file
+  if player_data:  # Check if any player data was collected
+      with open('mostrecentmatch.json', 'w') as f:
+          json.dump(player_data, f, indent=4)
+      print("Player match data saved to player_matches.json")
 
-    except requests.RequestException as e:
-        print(f"Request failed for {player_name}: {e}")
-    except KeyError as e:
-        print(f"Key error for {player_name}: {e}")
-    except Exception as e:
-        print(f"An unexpected error occurred for {player_name}: {e}")
+# Replace with your list of players in dictionary format
+players = [
+    {"name": "Carpincho", "api_url": "https://data.aoe2companion.com/api/matches?profile_ids=6446904&search=&page=1"},
+    {"name": "Nanox", "api_url": "https://data.aoe2companion.com/api/matches?profile_ids=439001&search=&page=1"},
+    {"name": "dicopatito", "api_url": "https://data.aoe2companion.com/api/matches?profile_ids=6237950&search=&page=1"},
+    {"name": "Sir Monkey", "api_url": "https://data.aoe2companion.com/api/matches?profile_ids=903496&search=&page=1"}
+]
 
-# Write the data to a JSON file
-with open("mostrecentmatch.json", "w") as outfile:
-    json.dump(all_player_data, outfile, indent=4)
+fetch_and_save_player_data(players)
