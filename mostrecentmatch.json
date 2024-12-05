@@ -12,15 +12,15 @@
         "Team 2": "dicopatito (1180) - Bulgarians &#128081;<br>Nanox (1047) - Mayans &#128081;<br>Sir Monkey (1032) - Khmer &#128081;<br>Carpincho (1177) - Franks &#128081;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=356167231&profileId=14854981'>Download &#128190;</a>",
-        "Team 1": "Cabeza (1181) - Spanish &#128128;<br>Sir Monkey (1069) - Malay &#128128;<br>Nanox (1083) - Huns &#128128;<br>Carpincho (1201) - Persians &#128128;",
-        "Team 2": "Dafixios (1153) - Vietnamese &#128081;<br>DkDave (1143) - Malians &#128081;<br>yo (1112) - Dravidians &#128081;<br>fredys123654 (1161) - Bohemians &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_socotra.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=356354777&profileId=5822604'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1071) - Malay &#128128;<br>TVHG.Yacare Melkor (1149) - Gurjaras &#128128;<br>Nanox (1085) - Malians &#128128;<br>YuriTatis (1151) - Mongols &#128128;",
+        "Team 2": "\u9ad8\u8001\u5934 (1079) - Vikings &#128081;<br>xlEspectro (1128) - Goths &#128081;<br>DrGary (1148) - Portuguese &#128081;<br>kindAAAAAAAAAA (1150) - Franks &#128081;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=356167231&profileId=3148059'>Download &#128190;</a>",
-        "Team 1": "Cabeza (1181) - Spanish &#128128;<br>Carpincho (1201) - Persians &#128128;<br>Nanox (1083) - Huns &#128128;<br>Sir Monkey (1069) - Malay &#128128;",
-        "Team 2": "DkDave (1143) - Malians &#128081;<br>Dafixios (1153) - Vietnamese &#128081;<br>fredys123654 (1161) - Bohemians &#128081;<br>yo (1112) - Dravidians &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_socotra.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=356354777&profileId=4216671'>Download &#128190;</a>",
+        "Team 1": "YuriTatis (1151) - Mongols &#128128;<br>Sir Monkey (1071) - Malay &#128128;<br>TVHG.Yacare Melkor (1149) - Gurjaras &#128128;<br>Nanox (1085) - Malians &#128128;",
+        "Team 2": "kindAAAAAAAAAA (1150) - Franks &#128081;<br>xlEspectro (1128) - Goths &#128081;<br>DrGary (1148) - Portuguese &#128081;<br>\u9ad8\u8001\u5934 (1079) - Vikings &#128081;"
     }
 }
