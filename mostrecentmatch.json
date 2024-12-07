@@ -14,13 +14,13 @@
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_steppe.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=356762547&profileId=6112143'>Download &#128190;</a>",
-        "Team 1": "carlosalvarez (None) - Incas &#128128;<br>Sir Monkey (1063) - Khmer &#128128;<br>Nanox (1075) - Mayans &#128128;<br>lovenut (1073) - Slavs &#128128;",
-        "Team 2": "MezcalChief (895) - Bulgarians &#128128;<br>lalulelilo (930) - Persians &#128128;<br>Nezdeshni (982) - Mongols &#128128;<br>\u62c9\u98ce\u7684\u7537\u4eba (1069) - Franks &#128128;"
+        "Team 1": "carlosalvarez (1000) - Incas &#128128;<br>Sir Monkey (1063) - Khmer &#128128;<br>Nanox (1075) - Mayans &#128128;<br>lovenut (1073) - Slavs &#128128;",
+        "Team 2": "MezcalChief (895) - Bulgarians &#128081;<br>lalulelilo (930) - Persians &#128081;<br>Nezdeshni (982) - Mongols &#128081;<br>\u62c9\u98ce\u7684\u7537\u4eba (1069) - Franks &#128081;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_steppe.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=356762547&profileId=356360'>Download &#128190;</a>",
-        "Team 1": "Nanox (1075) - Mayans &#128128;<br>Sir Monkey (1063) - Khmer &#128128;<br>lovenut (1073) - Slavs &#128128;<br>carlosalvarez (None) - Incas &#128128;",
-        "Team 2": "\u62c9\u98ce\u7684\u7537\u4eba (1069) - Franks &#128128;<br>MezcalChief (895) - Bulgarians &#128128;<br>lalulelilo (930) - Persians &#128128;<br>Nezdeshni (982) - Mongols &#128128;"
+        "Team 1": "Nanox (1075) - Mayans &#128128;<br>Sir Monkey (1063) - Khmer &#128128;<br>lovenut (1073) - Slavs &#128128;<br>carlosalvarez (1000) - Incas &#128128;",
+        "Team 2": "\u62c9\u98ce\u7684\u7537\u4eba (1069) - Franks &#128081;<br>MezcalChief (895) - Bulgarians &#128081;<br>lalulelilo (930) - Persians &#128081;<br>Nezdeshni (982) - Mongols &#128081;"
     }
 }
