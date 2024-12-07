@@ -12,15 +12,15 @@
         "Team 2": "dicopatito (1180) - Bulgarians &#128081;<br>Nanox (1047) - Mayans &#128081;<br>Sir Monkey (1032) - Khmer &#128081;<br>Carpincho (1177) - Franks &#128081;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_steppe.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=356762547&profileId=6112143'>Download &#128190;</a>",
-        "Team 1": "carlosalvarez (1000) - Incas &#128128;<br>Sir Monkey (1063) - Khmer &#128128;<br>Nanox (1075) - Mayans &#128128;<br>lovenut (1073) - Slavs &#128128;",
-        "Team 2": "MezcalChief (895) - Bulgarians &#128081;<br>lalulelilo (930) - Persians &#128081;<br>Nezdeshni (982) - Mongols &#128081;<br>\u62c9\u98ce\u7684\u7537\u4eba (1069) - Franks &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=356908106&profileId=18795703'>Download &#128190;</a>",
+        "Team 1": "sw_1989 (961) - Huns &#128128;<br>Senate (1057) - Portuguese &#128128;<br>Feichtel (1091) - Spanish &#128128;<br>Guladriel (1047) - Britons &#128128;",
+        "Team 2": "Nanox (1054) - Turks &#128128;<br>DurbanThunder (1039) - Ethiopians &#128128;<br>Sir Monkey (1043) - Khmer &#128128;<br>Bug (1038) - Persians &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_steppe.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=356762547&profileId=356360'>Download &#128190;</a>",
-        "Team 1": "Nanox (1075) - Mayans &#128128;<br>Sir Monkey (1063) - Khmer &#128128;<br>lovenut (1073) - Slavs &#128128;<br>carlosalvarez (1000) - Incas &#128128;",
-        "Team 2": "\u62c9\u98ce\u7684\u7537\u4eba (1069) - Franks &#128081;<br>MezcalChief (895) - Bulgarians &#128081;<br>lalulelilo (930) - Persians &#128081;<br>Nezdeshni (982) - Mongols &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=356908106&profileId=903496'>Download &#128190;</a>",
+        "Team 1": "Guladriel (1047) - Britons &#128128;<br>sw_1989 (961) - Huns &#128128;<br>Senate (1057) - Portuguese &#128128;<br>Feichtel (1091) - Spanish &#128128;",
+        "Team 2": "Nanox (1054) - Turks &#128128;<br>Bug (1038) - Persians &#128128;<br>DurbanThunder (1039) - Ethiopians &#128128;<br>Sir Monkey (1043) - Khmer &#128128;"
     }
 }
