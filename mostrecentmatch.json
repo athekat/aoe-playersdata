@@ -15,12 +15,12 @@
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=358648572&profileId=15510007'>Download &#128190;</a>",
         "Team 1": "D.I Sammi (1086) - Saracens &#128128;<br>Sir Monkey (1022) - Khmer &#128128;<br>Nanox (1084) - Mayans &#128128;<br>Ruipue (1080) - Persians &#128128;",
-        "Team 2": "Boba (1057) - Spanish &#128128;<br>Unity (1065) - Hindustanis &#128128;<br>[WaW] Vinncce (1079) - Byzantines &#128128;<br>S4voy (1039) - Italians &#128128;"
+        "Team 2": "Boba (1057) - Spanish &#128081;<br>Unity (1065) - Hindustanis &#128081;<br>[WaW] Vinncce (1079) - Byzantines &#128081;<br>S4voy (1056) - Italians &#128081;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=358648572&profileId=585670'>Download &#128190;</a>",
         "Team 1": "Sir Monkey (1022) - Khmer &#128128;<br>Nanox (1084) - Mayans &#128128;<br>Ruipue (1080) - Persians &#128128;<br>D.I Sammi (1086) - Saracens &#128128;",
-        "Team 2": "S4voy (1039) - Italians &#128128;<br>Boba (1057) - Spanish &#128128;<br>Unity (1065) - Hindustanis &#128128;<br>[WaW] Vinncce (1079) - Byzantines &#128128;"
+        "Team 2": "S4voy (1056) - Italians &#128081;<br>Boba (1057) - Spanish &#128081;<br>Unity (1065) - Hindustanis &#128081;<br>[WaW] Vinncce (1079) - Byzantines &#128081;"
     }
 }
