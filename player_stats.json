@@ -1,10 +1,10 @@
 {
     "dicopato_1": {
         "3": {
-            "win": 200,
+            "win": 201,
             "losses": 176,
-            "rating": 1436,
-            "lastmatchdate": "15/12/2024"
+            "rating": 1451,
+            "lastmatchdate": "19/12/2024"
         },
         "4": {
             "win": 123,
@@ -29,9 +29,9 @@
     },
     "sir_monkey": {
         "4": {
-            "win": 1118,
+            "win": 1119,
             "losses": 1212,
-            "rating": 1057,
+            "rating": 1071,
             "lastmatchdate": "19/12/2024"
         },
         "3": {
