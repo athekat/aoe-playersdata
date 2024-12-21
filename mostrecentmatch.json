@@ -12,15 +12,15 @@
         "Team 2": "Sir Monkey (984) - Khmer &#128128;<br>Carpincho (1165) - Burgundians &#128128;<br>Nanox (1083) - Mayans &#128128;<br>dicopatito (1172) - Koreans &#128128;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=359754895&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "kyy (1105) - Persians &#128081;<br>\u4e73\u4e0d\u5de8\u4f55\u4ee5\u805a\u4eba\u5fc3 (1141) - Tatars &#128081;<br>Kn\u00fc (1035) - Franks &#128081;<br>\u540a\u4e0d\u7c97\u4f55\u4ee5\u51fa\u570b\u9580 (990) - Teutons &#128081;",
-        "Team 2": "MrSensational (1035) - Italians &#128128;<br>unique (1074) - Malians &#128128;<br>Nanox (1108) - Huns &#128128;<br>Sir Monkey (1058) - Malay &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=359763210&profileId=2353255'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1042) - Khmer &#128128;<br>Nanox (1090) - Mayans &#128128;<br>\u633a\u738bSoyo (1085) - Cumans &#128128;<br>Hurtex (1075) - Mongols &#128128;",
+        "Team 2": "pixoum (1083) - Goths &#128081;<br>DD (1066) - Persians &#128081;<br>devilishnutcracker (1040) - Aztecs &#128081;<br>John S.  [ITA] (1066) - Italians &#128081;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=359754895&profileId=439001'>Download &#128190;</a>",
-        "Team 1": "Kn\u00fc (1035) - Franks &#128081;<br>\u540a\u4e0d\u7c97\u4f55\u4ee5\u51fa\u570b\u9580 (990) - Teutons &#128081;<br>kyy (1105) - Persians &#128081;<br>\u4e73\u4e0d\u5de8\u4f55\u4ee5\u805a\u4eba\u5fc3 (1141) - Tatars &#128081;",
-        "Team 2": "Sir Monkey (1058) - Malay &#128128;<br>unique (1074) - Malians &#128128;<br>MrSensational (1035) - Italians &#128128;<br>Nanox (1108) - Huns &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=359763210&profileId=5209644'>Download &#128190;</a>",
+        "Team 1": "Hurtex (1075) - Mongols &#128128;<br>\u633a\u738bSoyo (1085) - Cumans &#128128;<br>Nanox (1090) - Mayans &#128128;<br>Sir Monkey (1042) - Khmer &#128128;",
+        "Team 2": "John S.  [ITA] (1066) - Italians &#128081;<br>devilishnutcracker (1040) - Aztecs &#128081;<br>DD (1066) - Persians &#128081;<br>pixoum (1083) - Goths &#128081;"
     }
 }
