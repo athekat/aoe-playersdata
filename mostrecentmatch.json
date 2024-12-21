@@ -12,15 +12,15 @@
         "Team 2": "Sir Monkey (984) - Khmer &#128128;<br>Carpincho (1165) - Burgundians &#128128;<br>Nanox (1083) - Mayans &#128128;<br>dicopatito (1172) - Koreans &#128128;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=359210873&profileId=439001'>Download &#128190;</a>",
-        "Team 1": "jcubilloso (1170) - Saracens &#128128;<br>XioFabrY (982) - Vikings &#128128;<br>epic shit (907) - Persians &#128128;<br>[CTMWN]Andiwarrior (1044) - Franks &#128128;",
-        "Team 2": "Carpunio (928) - Goths &#128081;<br>Mst Hatd (995) - Ethiopians &#128081;<br>Sir Monkey (1042) - Vietnamese &#128081;<br>Nanox (1095) - Huns &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=359754895&profileId=903496'>Download &#128190;</a>",
+        "Team 1": "kyy (1105) - Persians &#128081;<br>\u4e73\u4e0d\u5de8\u4f55\u4ee5\u805a\u4eba\u5fc3 (1141) - Tatars &#128081;<br>Kn\u00fc (1035) - Franks &#128081;<br>\u540a\u4e0d\u7c97\u4f55\u4ee5\u51fa\u570b\u9580 (990) - Teutons &#128081;",
+        "Team 2": "MrSensational (1035) - Italians &#128128;<br>unique (1074) - Malians &#128128;<br>Nanox (1108) - Huns &#128128;<br>Sir Monkey (1058) - Malay &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=359648602&profileId=10055240'>Download &#128190;</a>",
-        "Team 1": "Robertson (1056) - Koreans &#128081;<br>Sir Monkey (1042) - Malay &#128081;<br>\u53eb\u58f0\u4e4c\u9e26\u54e5 (1115) - Bulgarians &#128081;<br>aikaka (1072) - Mongols &#128081;",
-        "Team 2": "\u7ffb\u6597\u82b1\u56ed\u725b\u7237\u7237 (1017) - Celts &#128128;<br>donnapety (1066) - Sicilians &#128128;<br>Estoy como loquita (1087) - Japanese &#128128;<br>MCT Paradoja (1006) - Turks &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=359754895&profileId=439001'>Download &#128190;</a>",
+        "Team 1": "Kn\u00fc (1035) - Franks &#128081;<br>\u540a\u4e0d\u7c97\u4f55\u4ee5\u51fa\u570b\u9580 (990) - Teutons &#128081;<br>kyy (1105) - Persians &#128081;<br>\u4e73\u4e0d\u5de8\u4f55\u4ee5\u805a\u4eba\u5fc3 (1141) - Tatars &#128081;",
+        "Team 2": "Sir Monkey (1058) - Malay &#128128;<br>unique (1074) - Malians &#128128;<br>MrSensational (1035) - Italians &#128128;<br>Nanox (1108) - Huns &#128128;"
     }
 }
