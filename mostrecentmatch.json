@@ -9,18 +9,18 @@
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=360694589&profileId=6273597'>Download &#128190;</a>",
         "Team 1": "Sir Monkey (1158) - Malay &#128128;<br>Nanox (1150) - Turks &#128128;<br>dicopatito (1192) - Lithuanians &#128128;<br>Gui BLK (1118) - Bohemians &#128128;",
-        "Team 2": "[MCT].Javo90 (1111) - Poles &#128128;<br>TioNachoooi (1181) - Italians &#128128;<br>junior_nyc (1187) - Bulgarians &#128128;<br>G4guillermo (1111) - Mayans &#128128;"
+        "Team 2": "[MCT].Javo90 (1111) - Poles &#128081;<br>TioNachoooi (1181) - Italians &#128081;<br>junior_nyc (1187) - Bulgarians &#128081;<br>G4guillermo (1125) - Mayans &#128081;"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=360694589&profileId=2161078'>Download &#128190;</a>",
         "Team 1": "Gui BLK (1118) - Bohemians &#128128;<br>Sir Monkey (1158) - Malay &#128128;<br>Nanox (1150) - Turks &#128128;<br>dicopatito (1192) - Lithuanians &#128128;",
-        "Team 2": "G4guillermo (1111) - Mayans &#128128;<br>junior_nyc (1187) - Bulgarians &#128128;<br>[MCT].Javo90 (1111) - Poles &#128128;<br>TioNachoooi (1181) - Italians &#128128;"
+        "Team 2": "G4guillermo (1125) - Mayans &#128081;<br>junior_nyc (1187) - Bulgarians &#128081;<br>[MCT].Javo90 (1111) - Poles &#128081;<br>TioNachoooi (1181) - Italians &#128081;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=360694589&profileId=2161078'>Download &#128190;</a>",
         "Team 1": "Gui BLK (1118) - Bohemians &#128128;<br>Sir Monkey (1158) - Malay &#128128;<br>dicopatito (1192) - Lithuanians &#128128;<br>Nanox (1150) - Turks &#128128;",
-        "Team 2": "[MCT].Javo90 (1111) - Poles &#128128;<br>G4guillermo (1111) - Mayans &#128128;<br>junior_nyc (1187) - Bulgarians &#128128;<br>TioNachoooi (1181) - Italians &#128128;"
+        "Team 2": "[MCT].Javo90 (1111) - Poles &#128081;<br>G4guillermo (1125) - Mayans &#128081;<br>junior_nyc (1187) - Bulgarians &#128081;<br>TioNachoooi (1181) - Italians &#128081;"
     }
 }
