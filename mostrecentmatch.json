@@ -9,18 +9,18 @@
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=360925521&profileId=903496'>Download &#128190;</a>",
         "Team 1": "[aKing] Uncle Rico (1329) - Persians &#128128;<br>[aKing] SteelWoolHurts (1160) - Saracens &#128128;<br>rebelfriend25 (1119) - Byzantines &#128128;<br>bwhanson27 (1087) - Poles &#128128;",
-        "Team 2": "dicopatito (1197) - Georgians &#128128;<br>JARV (1195) - Vietnamese &#128128;<br>Nanox (1138) - Mayans &#128128;<br>Sir Monkey (1146) - Khmer &#128128;"
+        "Team 2": "dicopatito (1197) - Georgians &#128081;<br>JARV (1195) - Vietnamese &#128081;<br>Nanox (1138) - Mayans &#128081;<br>Sir Monkey (1146) - Khmer &#128081;"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=360925521&profileId=6237950'>Download &#128190;</a>",
         "Team 1": "[aKing] Uncle Rico (1329) - Persians &#128128;<br>rebelfriend25 (1119) - Byzantines &#128128;<br>[aKing] SteelWoolHurts (1160) - Saracens &#128128;<br>bwhanson27 (1087) - Poles &#128128;",
-        "Team 2": "JARV (1195) - Vietnamese &#128128;<br>Sir Monkey (1146) - Khmer &#128128;<br>Nanox (1138) - Mayans &#128128;<br>dicopatito (1197) - Georgians &#128128;"
+        "Team 2": "JARV (1195) - Vietnamese &#128081;<br>Sir Monkey (1146) - Khmer &#128081;<br>Nanox (1138) - Mayans &#128081;<br>dicopatito (1197) - Georgians &#128081;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=360925521&profileId=903496'>Download &#128190;</a>",
         "Team 1": "[aKing] Uncle Rico (1329) - Persians &#128128;<br>[aKing] SteelWoolHurts (1160) - Saracens &#128128;<br>bwhanson27 (1087) - Poles &#128128;<br>rebelfriend25 (1119) - Byzantines &#128128;",
-        "Team 2": "JARV (1195) - Vietnamese &#128128;<br>dicopatito (1197) - Georgians &#128128;<br>Nanox (1138) - Mayans &#128128;<br>Sir Monkey (1146) - Khmer &#128128;"
+        "Team 2": "JARV (1195) - Vietnamese &#128081;<br>dicopatito (1197) - Georgians &#128081;<br>Nanox (1138) - Mayans &#128081;<br>Sir Monkey (1146) - Khmer &#128081;"
     }
 }
