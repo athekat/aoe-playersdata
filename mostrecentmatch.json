@@ -6,21 +6,21 @@
         "Team 2": "ozzyhapdo (1206) - Tatars &#128128;<br>[AP] Boromir (1195) - Goths &#128128;<br>The Kraken (1238) - Incas &#128128;<br>[A&P] El Espa\u00f1ol (1202) - Britons &#128128;"
     },
     "Dicopatito": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=361928356&profileId=2069892'>Download &#128190;</a>",
-        "Team 1": "dicopatito (1220) - Bengalis &#128128;<br>Nanox (1117) - Huns &#128128;<br>Sir Monkey (1123) - Vietnamese &#128128;",
-        "Team 2": "\u55b5\u4e86\u4e2a\u54aa (1063) - Mongols &#128128;<br>Zakaveli (1084) - Britons &#128128;<br>Grug (1160) - Huns &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=361933746&profileId=5922536'>Download &#128190;</a>",
+        "Team 1": "dicopatito (1231) - Britons &#128081;<br>Sir Monkey (1138) - Malay &#128081;<br>Chacha (1218) - Persians &#128081;<br>Nanox (1132) - Franks &#128081;",
+        "Team 2": "CID PERRO (1200) - Spanish &#128128;<br>OneHandMen (1203) - Gurjaras &#128128;<br>The Kraken (1199) - Mayans &#128128;<br>junior_nyc (1184) - Bohemians &#128128;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=361928356&profileId=2069892'>Download &#128190;</a>",
-        "Team 1": "dicopatito (1220) - Bengalis &#128128;<br>Nanox (1117) - Huns &#128128;<br>Sir Monkey (1123) - Vietnamese &#128128;",
-        "Team 2": "\u55b5\u4e86\u4e2a\u54aa (1063) - Mongols &#128128;<br>Zakaveli (1084) - Britons &#128128;<br>Grug (1160) - Huns &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=361933746&profileId=2070684'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1138) - Malay &#128081;<br>Nanox (1132) - Franks &#128081;<br>dicopatito (1231) - Britons &#128081;<br>Chacha (1218) - Persians &#128081;",
+        "Team 2": "CID PERRO (1200) - Spanish &#128128;<br>OneHandMen (1203) - Gurjaras &#128128;<br>junior_nyc (1184) - Bohemians &#128128;<br>The Kraken (1199) - Mayans &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=361928356&profileId=5767873'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1123) - Vietnamese &#128128;<br>Nanox (1117) - Huns &#128128;<br>dicopatito (1220) - Bengalis &#128128;",
-        "Team 2": "Grug (1160) - Huns &#128128;<br>Zakaveli (1084) - Britons &#128128;<br>\u55b5\u4e86\u4e2a\u54aa (1063) - Mongols &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=361933746&profileId=15286236'>Download &#128190;</a>",
+        "Team 1": "dicopatito (1231) - Britons &#128081;<br>Chacha (1218) - Persians &#128081;<br>Sir Monkey (1138) - Malay &#128081;<br>Nanox (1132) - Franks &#128081;",
+        "Team 2": "junior_nyc (1184) - Bohemians &#128128;<br>The Kraken (1199) - Mayans &#128128;<br>OneHandMen (1203) - Gurjaras &#128128;<br>CID PERRO (1200) - Spanish &#128128;"
     }
 }
