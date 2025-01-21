@@ -30,10 +30,12 @@ def fetch_and_save_player_data(players):
                       elo = player['rating']
                       outcome = player['won']
                       profileId = player['profileId']
-                      if outcome is True:
+                      if outcome:
                           outcome = "&#128081;"  # Victory emoji
-                      else:
+                      elif outcome is False:
                           outcome = "&#128128;"  # Defeat emoji
+                      else:
+                          outcome = "&#128355"
                       teams[f"Team {team_id}"].append(f"{player_name_in_match} ({elo}) - {civ_name} {outcome}")
 
             # Join the team members with newline characters, without extra commas
