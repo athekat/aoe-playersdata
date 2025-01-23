@@ -14,13 +14,13 @@
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_yucatan.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=367144345&profileId=3322957'>Download &#128190;</a>",
-        "Team 1": "Daralion (1117) - Dravidians &#128355<br>Zuil (1099) - Persians &#128355<br>WaunMan (1105) - Burmese &#128355<br>MettatostonRay (1122) - Poles &#128355",
-        "Team 2": "Romancho (1150) - Aztecs &#128355<br>Sir Monkey (1114) - Celts &#128355<br>Nanox (1141) - Byzantines &#128355<br>Stalk (1115) - Khmer &#128355"
+        "Team 1": "Daralion (1117) - Dravidians &#128081;<br>Zuil (1099) - Persians &#128081;<br>WaunMan (1105) - Burmese &#128081;<br>MettatostonRay (1122) - Poles &#128081;",
+        "Team 2": "Romancho (1150) - Aztecs &#128128;<br>Sir Monkey (1114) - Celts &#128128;<br>Nanox (1141) - Byzantines &#128128;<br>Stalk (1115) - Khmer &#128128;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_yucatan.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=367144345&profileId=3322957'>Download &#128190;</a>",
-        "Team 1": "Daralion (1117) - Dravidians &#128355<br>Zuil (1099) - Persians &#128355<br>WaunMan (1105) - Burmese &#128355<br>MettatostonRay (1122) - Poles &#128355",
-        "Team 2": "Romancho (1150) - Aztecs &#128355<br>Sir Monkey (1114) - Celts &#128355<br>Nanox (1141) - Byzantines &#128355<br>Stalk (1115) - Khmer &#128355"
+        "Team 1": "Daralion (1117) - Dravidians &#128081;<br>Zuil (1099) - Persians &#128081;<br>WaunMan (1105) - Burmese &#128081;<br>MettatostonRay (1122) - Poles &#128081;",
+        "Team 2": "Romancho (1150) - Aztecs &#128128;<br>Sir Monkey (1114) - Celts &#128128;<br>Nanox (1141) - Byzantines &#128128;<br>Stalk (1115) - Khmer &#128128;"
     }
 }
