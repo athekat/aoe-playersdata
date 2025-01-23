@@ -12,15 +12,15 @@
         "Team 2": "sandu (1131) - Persians &#128128;<br>MamaPencil (1107) - Romans &#128128;<br>N9801 (1241) - Gurjaras &#128128;<br>StoneCold (1246) - Vietnamese &#128128;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_megarandom.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=366971044&profileId=4831657'>Download &#128190;</a>",
-        "Team 1": "Carpincho (1213) - Mongols &#128081;<br>dicopatito (1240) - Bengalis &#128081;<br>Sir Monkey (1106) - Khmer &#128081;<br>Nanox (1139) - Hindustanis &#128081;",
-        "Team 2": "StoneCold (1246) - Vietnamese &#128128;<br>N9801 (1241) - Gurjaras &#128128;<br>sandu (1131) - Persians &#128128;<br>MamaPencil (1107) - Romans &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=367132310&profileId=5300676'>Download &#128190;</a>",
+        "Team 1": "H3ll Skull (1178) - Franks &#128355<br>Sir Monkey (1144) - Vietnamese &#128355<br>kaybee (1191) - Spanish &#128355<br>Nanox (1174) - Huns &#128355",
+        "Team 2": "jAvi (1328) - Persians &#128355<br>ADDDDDDDDDD (1068) - Ethiopians &#128355<br>Orion (1209) - Chinese &#128355<br>Mari4N (1140) - Saracens &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_megarandom.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=366971044&profileId=1307192'>Download &#128190;</a>",
-        "Team 1": "dicopatito (1240) - Bengalis &#128081;<br>Sir Monkey (1106) - Khmer &#128081;<br>Nanox (1139) - Hindustanis &#128081;<br>Carpincho (1213) - Mongols &#128081;",
-        "Team 2": "sandu (1131) - Persians &#128128;<br>MamaPencil (1107) - Romans &#128128;<br>StoneCold (1246) - Vietnamese &#128128;<br>N9801 (1241) - Gurjaras &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=367132310&profileId=6499149'>Download &#128190;</a>",
+        "Team 1": "Nanox (1174) - Huns &#128355<br>H3ll Skull (1178) - Franks &#128355<br>Sir Monkey (1144) - Vietnamese &#128355<br>kaybee (1191) - Spanish &#128355",
+        "Team 2": "Mari4N (1140) - Saracens &#128355<br>jAvi (1328) - Persians &#128355<br>ADDDDDDDDDD (1068) - Ethiopians &#128355<br>Orion (1209) - Chinese &#128355"
     }
 }
