@@ -2,25 +2,25 @@
     "Carpincho": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=368546379&profileId=13725865'>Download &#128190;</a>",
-        "Team 1": "dicopatito (1220) - Armenians &#128355<br>Nanox (1093) - Hindustanis &#128355<br>Sir Monkey (1136) - Khmer &#128355<br>Carpincho (1200) - Vietnamese &#128355",
-        "Team 2": "KarlStrange (1239) - Britons &#128355<br>SirLeinad3455 (1170) - Bulgarians &#128355<br>Hades (1235) - Turks &#128355<br>MaximusRagnar (1197) - Poles &#128355"
+        "Team 1": "dicopatito (1220) - Armenians &#128081;<br>Nanox (1093) - Hindustanis &#128081;<br>Sir Monkey (1136) - Khmer &#128081;<br>Carpincho (1200) - Vietnamese &#128081;",
+        "Team 2": "KarlStrange (1239) - Britons &#128128;<br>SirLeinad3455 (1170) - Bulgarians &#128128;<br>Hades (1235) - Turks &#128128;<br>MaximusRagnar (1197) - Poles &#128128;"
     },
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=368546379&profileId=2306642'>Download &#128190;</a>",
-        "Team 1": "dicopatito (1220) - Armenians &#128355<br>Nanox (1093) - Hindustanis &#128355<br>Carpincho (1200) - Vietnamese &#128355<br>Sir Monkey (1136) - Khmer &#128355",
-        "Team 2": "Hades (1235) - Turks &#128355<br>KarlStrange (1239) - Britons &#128355<br>MaximusRagnar (1197) - Poles &#128355<br>SirLeinad3455 (1170) - Bulgarians &#128355"
+        "Team 1": "dicopatito (1220) - Armenians &#128081;<br>Nanox (1093) - Hindustanis &#128081;<br>Carpincho (1200) - Vietnamese &#128081;<br>Sir Monkey (1136) - Khmer &#128081;",
+        "Team 2": "Hades (1235) - Turks &#128128;<br>KarlStrange (1239) - Britons &#128128;<br>MaximusRagnar (1197) - Poles &#128128;<br>SirLeinad3455 (1170) - Bulgarians &#128128;"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=368546379&profileId=13573382'>Download &#128190;</a>",
-        "Team 1": "dicopatito (1220) - Armenians &#128355<br>Nanox (1093) - Hindustanis &#128355<br>Carpincho (1200) - Vietnamese &#128355<br>Sir Monkey (1136) - Khmer &#128355",
-        "Team 2": "KarlStrange (1239) - Britons &#128355<br>MaximusRagnar (1197) - Poles &#128355<br>SirLeinad3455 (1170) - Bulgarians &#128355<br>Hades (1235) - Turks &#128355"
+        "Team 1": "dicopatito (1220) - Armenians &#128081;<br>Nanox (1093) - Hindustanis &#128081;<br>Carpincho (1200) - Vietnamese &#128081;<br>Sir Monkey (1136) - Khmer &#128081;",
+        "Team 2": "KarlStrange (1239) - Britons &#128128;<br>MaximusRagnar (1197) - Poles &#128128;<br>SirLeinad3455 (1170) - Bulgarians &#128128;<br>Hades (1235) - Turks &#128128;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=368546379&profileId=13573382'>Download &#128190;</a>",
-        "Team 1": "dicopatito (1220) - Armenians &#128355<br>Nanox (1093) - Hindustanis &#128355<br>Carpincho (1200) - Vietnamese &#128355<br>Sir Monkey (1136) - Khmer &#128355",
-        "Team 2": "KarlStrange (1239) - Britons &#128355<br>MaximusRagnar (1197) - Poles &#128355<br>SirLeinad3455 (1170) - Bulgarians &#128355<br>Hades (1235) - Turks &#128355"
+        "Team 1": "dicopatito (1220) - Armenians &#128081;<br>Nanox (1093) - Hindustanis &#128081;<br>Carpincho (1200) - Vietnamese &#128081;<br>Sir Monkey (1136) - Khmer &#128081;",
+        "Team 2": "KarlStrange (1239) - Britons &#128128;<br>MaximusRagnar (1197) - Poles &#128128;<br>SirLeinad3455 (1170) - Bulgarians &#128128;<br>Hades (1235) - Turks &#128128;"
     }
 }
