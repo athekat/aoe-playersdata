@@ -13,14 +13,14 @@
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=368546379&profileId=13573382'>Download &#128190;</a>",
-        "Team 1": "dicopatito (1220) - Armenians &#128081;<br>Nanox (1093) - Hindustanis &#128081;<br>Carpincho (1200) - Vietnamese &#128081;<br>Sir Monkey (1136) - Khmer &#128081;",
-        "Team 2": "KarlStrange (1239) - Britons &#128128;<br>MaximusRagnar (1197) - Poles &#128128;<br>SirLeinad3455 (1170) - Bulgarians &#128128;<br>Hades (1235) - Turks &#128128;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=368737794&profileId=439001'>Download &#128190;</a>",
+        "Team 1": "Vinalin (1321) - Goths &#128355<br>lonely (1015) - Vietnamese &#128355<br>tholytom (1255) - Turks &#128355<br>Drizzie (992) - Franks &#128355",
+        "Team 2": "Sir Monkey (1166) - Malay &#128355<br>w45512816 (1131) - Ethiopians &#128355<br>T90'sMustache (1138) - Burgundians &#128355<br>Nanox (1114) - Hindustanis &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_yucatan.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=368684628&profileId=2627602'>Download &#128190;</a>",
-        "Team 1": "Warking (1166) - Mongols &#128081;<br>Non faux pa (1106) - Gurjaras &#128081;<br>sus (1195) - Persians &#128081;<br>ObeyedStream9 (1152) - Malians &#128081;",
-        "Team 2": "\u539f\u6765\u8fd9\u6e38\u620f\u6709AI\u548c\u4eba\u673a (1151) - Turks &#128128;<br>DS_RaulitoMD (1175) - Vikings &#128128;<br>Sir Monkey (1183) - Khmer &#128128;<br>TheBigStiggg (1197) - Georgians &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=368737794&profileId=2489949'>Download &#128190;</a>",
+        "Team 1": "tholytom (1255) - Turks &#128355<br>Drizzie (992) - Franks &#128355<br>Vinalin (1321) - Goths &#128355<br>lonely (1015) - Vietnamese &#128355",
+        "Team 2": "Nanox (1114) - Hindustanis &#128355<br>Sir Monkey (1166) - Malay &#128355<br>w45512816 (1131) - Ethiopians &#128355<br>T90'sMustache (1138) - Burgundians &#128355"
     }
 }
