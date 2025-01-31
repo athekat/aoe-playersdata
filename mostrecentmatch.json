@@ -13,14 +13,14 @@
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=368751854&profileId=3879438'>Download &#128190;</a>",
-        "Team 1": "ICEMANIAN (1226) - Britons &#128128;<br>Pe | xfirecorsair (1187) - Poles &#128128;<br>Sir Monkey (1185) - Malay &#128128;<br>Nanox (1140) - Hindustanis &#128128;",
-        "Team 2": "\u9047\u5230\u667a\u969c\u76f4\u63a5\u6295\u964d (1182) - Byzantines &#128081;<br>\u30b7\u30aa\u30ea (1293) - Italians &#128081;<br>[VL] Kraven__ (1553) - Bulgarians &#128081;<br>[VL] Dr Cascote (1054) - Burgundians &#128081;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=369126232&profileId=439001'>Download &#128190;</a>",
+        "Team 1": "BURAK (1087) - Celts &#128355<br>Konulu (1251) - Turks &#128355<br>frht (1040) - Portuguese &#128355<br>SaloWarrior (1137) - Dravidians &#128355",
+        "Team 2": "Sir Monkey (1172) - Khmer &#128355<br>UzuI (1213) - Sicilians &#128355<br>founderr (1154) - Goths &#128355<br>Nanox (1116) - Hindustanis &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=369117945&profileId=6755978'>Download &#128190;</a>",
-        "Team 1": "halfdanburak (1225) - Aztecs &#128355<br>UzuI (1230) - Sicilians &#128355<br>lovelypiggy (1226) - Persians &#128355<br>Sir Monkey (1187) - Khmer &#128355",
-        "Team 2": "Johnny B. Goode (1211) - Britons &#128355<br>\u5dee\u4e0d\u591a\u5148\u751f (1218) - Franks &#128355<br>KhmerEmpire9164 (1182) - Khmer &#128355<br>JorgeQuins (1232) - Goths &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=369126232&profileId=8858676'>Download &#128190;</a>",
+        "Team 1": "BURAK (1087) - Celts &#128355<br>SaloWarrior (1137) - Dravidians &#128355<br>Konulu (1251) - Turks &#128355<br>frht (1040) - Portuguese &#128355",
+        "Team 2": "Sir Monkey (1172) - Khmer &#128355<br>Nanox (1116) - Hindustanis &#128355<br>founderr (1154) - Goths &#128355<br>UzuI (1213) - Sicilians &#128355"
     }
 }
