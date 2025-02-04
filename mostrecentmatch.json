@@ -12,15 +12,15 @@
         "Team 2": "Hades (1235) - Turks &#128128;<br>KarlStrange (1239) - Britons &#128128;<br>THSs_MaximusRagnar (1197) - Poles &#128128;<br>SirLeinad3455 (1170) - Bulgarians &#128128;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=369900996&profileId=21758886'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1088) - Vietnamese &#128355<br>UzuI (1177) - Spanish &#128355<br>Nanox (1087) - Huns &#128355<br>dkmatias20 (1125) - Burgundians &#128355",
-        "Team 2": "[GDL] ChOaTzO (1232) - Vietnamese &#128355<br>[GDL] Axolotl (1150) - Persians &#128355<br>[GDL]Melkor (1105) - Italians &#128355<br>[GDL] ing_rago (1044) - Franks &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_mediterranean.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=369905936&profileId=903496'>Download &#128190;</a>",
+        "Team 1": "[GDL] Axolotl (1133) - Goths &#128128;<br>[GDL]Melkor (1090) - Celts &#128128;<br>[GDL] ChOaTzO (1211) - Vietnamese &#128128;<br>[GDL] ing_rago (1030) - Franks &#128128;",
+        "Team 2": "UzuI (1191) - Dravidians &#128081;<br>Nanox (1105) - Mayans &#128081;<br>dkmatias20 (1141) - Vikings &#128081;<br>Sir Monkey (1106) - Khmer &#128081;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=369900996&profileId=21758886'>Download &#128190;</a>",
-        "Team 1": "dkmatias20 (1125) - Burgundians &#128355<br>Sir Monkey (1088) - Vietnamese &#128355<br>UzuI (1177) - Spanish &#128355<br>Nanox (1087) - Huns &#128355",
-        "Team 2": "[GDL] ChOaTzO (1232) - Vietnamese &#128355<br>[GDL] Axolotl (1150) - Persians &#128355<br>[GDL]Melkor (1105) - Italians &#128355<br>[GDL] ing_rago (1044) - Franks &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_mediterranean.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=369905936&profileId=3175871'>Download &#128190;</a>",
+        "Team 1": "[GDL]Melkor (1090) - Celts &#128128;<br>[GDL] Axolotl (1133) - Goths &#128128;<br>[GDL] ing_rago (1030) - Franks &#128128;<br>[GDL] ChOaTzO (1211) - Vietnamese &#128128;",
+        "Team 2": "Nanox (1105) - Mayans &#128081;<br>UzuI (1191) - Dravidians &#128081;<br>Sir Monkey (1106) - Khmer &#128081;<br>dkmatias20 (1141) - Vikings &#128081;"
     }
 }
