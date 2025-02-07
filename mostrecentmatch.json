@@ -12,15 +12,15 @@
         "Team 2": "dicopatito (1262) - Tatars &#128128;<br>Sir Monkey (1155) - Khmer &#128128;<br>Carpincho (1243) - Burgundians &#128128;<br>Nanox (1158) - Mayans &#128128;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=370499435&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "Diegot (1138) - Berbers &#128081;<br>tholytom (1174) - Turks &#128081;<br>lonely (1066) - Teutons &#128081;<br>Vinalin (1188) - Spanish &#128081;",
-        "Team 2": "Nanox (1161) - Hindustanis &#128128;<br>UzuI (1226) - Spanish &#128128;<br>winghei00045 (1124) - Persians &#128128;<br>Sir Monkey (1127) - Malay &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=370506960&profileId=439001'>Download &#128190;</a>",
+        "Team 1": "The Babuino1162 (1223) - Celts &#128355<br>Ingent (1208) - Dravidians &#128355<br>Tormund (974) - Burgundians &#128355<br>Gus_Fring (1154) - Franks &#128355",
+        "Team 2": "UzuI (1219) - Vietnamese &#128355<br>Sir Monkey (1130) - Khmer &#128355<br>OhmmhO (1161) - Magyars &#128355<br>Nanox (1160) - Mayans &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=370499435&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "Diegot (1138) - Berbers &#128081;<br>tholytom (1174) - Turks &#128081;<br>lonely (1066) - Teutons &#128081;<br>Vinalin (1188) - Spanish &#128081;",
-        "Team 2": "Nanox (1161) - Hindustanis &#128128;<br>UzuI (1226) - Spanish &#128128;<br>winghei00045 (1124) - Persians &#128128;<br>Sir Monkey (1127) - Malay &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=370506960&profileId=903496'>Download &#128190;</a>",
+        "Team 1": "Gus_Fring (1154) - Franks &#128355<br>Tormund (974) - Burgundians &#128355<br>The Babuino1162 (1223) - Celts &#128355<br>Ingent (1208) - Dravidians &#128355",
+        "Team 2": "UzuI (1219) - Vietnamese &#128355<br>Nanox (1160) - Mayans &#128355<br>OhmmhO (1161) - Magyars &#128355<br>Sir Monkey (1130) - Khmer &#128355"
     }
 }
