@@ -6,21 +6,21 @@
         "Team 2": "Nanox (1158) - Mayans &#128128;<br>Carpincho (1243) - Burgundians &#128128;<br>Sir Monkey (1155) - Khmer &#128128;<br>dicopatito (1262) - Tatars &#128128;"
     },
     "Dicopatito": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=371017488&profileId=3170073'>Download &#128190;</a>",
-        "Team 1": "Mr_Freedom (1250) - Burgundians &#128128;<br>\u9f99\u57ce\u98de\u5c06\u519b (1229) - Franks &#128128;<br>\u67d1\u67d1\u8c9d\u723e\u00fc (1226) - Persians &#128128;<br>\u5e1d\u56fd\u5927\u4ef2\u9a6c (1237) - Poles &#128128;",
-        "Team 2": "dicopatito (1243) - Bulgarians &#128081;<br>bleakshadow (1229) - Britons &#128081;<br>chacho (1241) - Bohemians &#128081;<br>[Infaa] Jusecace (1253) - Slavs &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=371654592&profileId=19012079'>Download &#128190;</a>",
+        "Team 1": "Nanox (1180) - Turks &#128355<br>dicopatito (1259) - Lithuanians &#128355<br>Sir Monkey (1149) - Malay &#128355",
+        "Team 2": "lcastillov22 (1261) - Spanish &#128355<br>Inkas | Don \u03c0J (1238) - Franks &#128355<br>Urubu (1234) - Dravidians &#128355"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=371612144&profileId=439001'>Download &#128190;</a>",
-        "Team 1": "how do you turn this on (1138) - Portuguese &#128128;<br>liangzai (1180) - Mongols &#128128;<br>CrankyJoker (1092) - Romans &#128128;<br>RR_Wolf (1163) - Britons &#128128;",
-        "Team 2": "UzuI (1200) - Sicilians &#128081;<br>Elseweyr (1183) - Spanish &#128081;<br>Sir Monkey (1133) - Khmer &#128081;<br>Nanox (1165) - Turks &#128081;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=371654592&profileId=11220223'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1149) - Malay &#128355<br>dicopatito (1259) - Lithuanians &#128355<br>Nanox (1180) - Turks &#128355",
+        "Team 2": "Urubu (1234) - Dravidians &#128355<br>Inkas | Don \u03c0J (1238) - Franks &#128355<br>lcastillov22 (1261) - Spanish &#128355"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=371612144&profileId=8858676'>Download &#128190;</a>",
-        "Team 1": "liangzai (1180) - Mongols &#128128;<br>CrankyJoker (1092) - Romans &#128128;<br>RR_Wolf (1163) - Britons &#128128;<br>how do you turn this on (1138) - Portuguese &#128128;",
-        "Team 2": "Elseweyr (1183) - Spanish &#128081;<br>Sir Monkey (1133) - Khmer &#128081;<br>Nanox (1165) - Turks &#128081;<br>UzuI (1200) - Sicilians &#128081;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=371654592&profileId=19012079'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1149) - Malay &#128355<br>Nanox (1180) - Turks &#128355<br>dicopatito (1259) - Lithuanians &#128355",
+        "Team 2": "lcastillov22 (1261) - Spanish &#128355<br>Inkas | Don \u03c0J (1238) - Franks &#128355<br>Urubu (1234) - Dravidians &#128355"
     }
 }
