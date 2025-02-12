@@ -8,19 +8,19 @@
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_enclosed.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=371662720&profileId=2843150'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1152) - Khmer &#128355<br>Zeusman (1002) - Chinese &#128355<br>Nanox (1181) - Mayans &#128355<br>dicopatito (1242) - Vietnamese &#128355",
-        "Team 2": "ModelGs2007 (1207) - Ethiopians &#128355<br>Moster (1211) - Khmer &#128355<br>reiner48001 (1211) - Spanish &#128355<br>R MikuN (1241) - Huns &#128355"
+        "Team 1": "Sir Monkey (1152) - Khmer &#128128;<br>Zeusman (1002) - Chinese &#128128;<br>Nanox (1181) - Mayans &#128128;<br>dicopatito (1252) - Vietnamese &#128128;",
+        "Team 2": "ModelGs2007 (1207) - Ethiopians &#128081;<br>Moster (1211) - Khmer &#128081;<br>reiner48001 (1211) - Spanish &#128081;<br>R MikuN (1241) - Huns &#128081;"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_enclosed.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=371662720&profileId=15546984'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1152) - Khmer &#128355<br>Nanox (1181) - Mayans &#128355<br>Zeusman (1002) - Chinese &#128355<br>dicopatito (1242) - Vietnamese &#128355",
-        "Team 2": "R MikuN (1241) - Huns &#128355<br>reiner48001 (1211) - Spanish &#128355<br>ModelGs2007 (1207) - Ethiopians &#128355<br>Moster (1211) - Khmer &#128355"
+        "Team 1": "Sir Monkey (1152) - Khmer &#128128;<br>Nanox (1181) - Mayans &#128128;<br>Zeusman (1002) - Chinese &#128128;<br>dicopatito (1252) - Vietnamese &#128128;",
+        "Team 2": "R MikuN (1241) - Huns &#128081;<br>reiner48001 (1211) - Spanish &#128081;<br>ModelGs2007 (1207) - Ethiopians &#128081;<br>Moster (1211) - Khmer &#128081;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_enclosed.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=371662720&profileId=2843150'>Download &#128190;</a>",
-        "Team 1": "dicopatito (1242) - Vietnamese &#128355<br>Zeusman (1002) - Chinese &#128355<br>Nanox (1181) - Mayans &#128355<br>Sir Monkey (1152) - Khmer &#128355",
-        "Team 2": "Moster (1211) - Khmer &#128355<br>ModelGs2007 (1207) - Ethiopians &#128355<br>reiner48001 (1211) - Spanish &#128355<br>R MikuN (1241) - Huns &#128355"
+        "Team 1": "dicopatito (1252) - Vietnamese &#128128;<br>Zeusman (1002) - Chinese &#128128;<br>Nanox (1181) - Mayans &#128128;<br>Sir Monkey (1152) - Khmer &#128128;",
+        "Team 2": "Moster (1211) - Khmer &#128081;<br>ModelGs2007 (1207) - Ethiopians &#128081;<br>reiner48001 (1211) - Spanish &#128081;<br>R MikuN (1241) - Huns &#128081;"
     }
 }
