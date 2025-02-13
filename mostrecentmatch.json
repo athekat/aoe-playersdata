@@ -6,21 +6,21 @@
         "Team 2": "Nanox (1158) - Mayans &#128128;<br>Carpincho (1243) - Burgundians &#128128;<br>Sir Monkey (1155) - Khmer &#128128;<br>dicopatito (1262) - Tatars &#128128;"
     },
     "Dicopatito": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=371855786&profileId=1712247'>Download &#128190;</a>",
-        "Team 1": "cachai (1218) - Goths &#128128;<br>PapaDurba (1086) - Bulgarians &#128128;<br>Mr. Persa (1240) - Cumans &#128128;<br>Ignaqcio (1186) - Byzantines &#128128;",
-        "Team 2": "dicopatito (1234) - Armenians &#128081;<br>Nanox (1167) - Hindustanis &#128081;<br>Sir Monkey (1155) - Malay &#128081;<br>Tio Iroh. (1205) - Berbers &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=371862739&profileId=903496'>Download &#128190;</a>",
+        "Team 1": "Ironbelly (1168) - Huns &#128355<br>datouyu (1168) - Japanese &#128355<br>\u516d\u4e2a\u516d (1165) - Incas &#128355<br>\u6211\u6765\u52a9\u4f60 (1162) - Koreans &#128355",
+        "Team 2": "telavasatomartodachinwenwencha (1196) - Japanese &#128355<br>dicopatito (1248) - Armenians &#128355<br>Nanox (1184) - Huns &#128355<br>Sir Monkey (1172) - Vietnamese &#128355"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=371855786&profileId=6237950'>Download &#128190;</a>",
-        "Team 1": "Ignaqcio (1186) - Byzantines &#128128;<br>cachai (1218) - Goths &#128128;<br>PapaDurba (1086) - Bulgarians &#128128;<br>Mr. Persa (1240) - Cumans &#128128;",
-        "Team 2": "Tio Iroh. (1205) - Berbers &#128081;<br>Nanox (1167) - Hindustanis &#128081;<br>Sir Monkey (1155) - Malay &#128081;<br>dicopatito (1234) - Armenians &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=371862739&profileId=6237950'>Download &#128190;</a>",
+        "Team 1": "\u516d\u4e2a\u516d (1165) - Incas &#128355<br>datouyu (1168) - Japanese &#128355<br>\u6211\u6765\u52a9\u4f60 (1162) - Koreans &#128355<br>Ironbelly (1168) - Huns &#128355",
+        "Team 2": "Nanox (1184) - Huns &#128355<br>Sir Monkey (1172) - Vietnamese &#128355<br>telavasatomartodachinwenwencha (1196) - Japanese &#128355<br>dicopatito (1248) - Armenians &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=371855786&profileId=1712247'>Download &#128190;</a>",
-        "Team 1": "Mr. Persa (1240) - Cumans &#128128;<br>PapaDurba (1086) - Bulgarians &#128128;<br>cachai (1218) - Goths &#128128;<br>Ignaqcio (1186) - Byzantines &#128128;",
-        "Team 2": "dicopatito (1234) - Armenians &#128081;<br>Sir Monkey (1155) - Malay &#128081;<br>Nanox (1167) - Hindustanis &#128081;<br>Tio Iroh. (1205) - Berbers &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=371862739&profileId=439001'>Download &#128190;</a>",
+        "Team 1": "\u516d\u4e2a\u516d (1165) - Incas &#128355<br>Ironbelly (1168) - Huns &#128355<br>\u6211\u6765\u52a9\u4f60 (1162) - Koreans &#128355<br>datouyu (1168) - Japanese &#128355",
+        "Team 2": "dicopatito (1248) - Armenians &#128355<br>telavasatomartodachinwenwencha (1196) - Japanese &#128355<br>Sir Monkey (1172) - Vietnamese &#128355<br>Nanox (1184) - Huns &#128355"
     }
 }
