@@ -1,9 +1,9 @@
 {
     "dicopato": {
         "3": {
-            "win": 263,
-            "losses": 235,
-            "rating": 1443,
+            "win": 264,
+            "losses": 237,
+            "rating": 1431,
             "lastmatchdate": "13/02/2025"
         },
         "4": {
@@ -15,10 +15,10 @@
     },
     "dicopatito": {
         "4": {
-            "win": 583,
+            "win": 584,
             "losses": 480,
-            "rating": 1234,
-            "lastmatchdate": "12/02/2025"
+            "rating": 1248,
+            "lastmatchdate": "13/02/2025"
         },
         "3": {
             "win": 364,
@@ -29,10 +29,10 @@
     },
     "sir_monkey": {
         "4": {
-            "win": 1210,
+            "win": 1211,
             "losses": 1303,
-            "rating": 1155,
-            "lastmatchdate": "12/02/2025"
+            "rating": 1172,
+            "lastmatchdate": "13/02/2025"
         },
         "3": {
             "win": 3,
@@ -43,10 +43,10 @@
     },
     "nanox": {
         "4": {
-            "win": 928,
+            "win": 929,
             "losses": 1059,
-            "rating": 1167,
-            "lastmatchdate": "12/02/2025"
+            "rating": 1184,
+            "lastmatchdate": "13/02/2025"
         },
         "3": {
             "win": 7,
