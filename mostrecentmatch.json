@@ -12,15 +12,15 @@
         "Team 2": "ComandanteSierra (1243) - Poles &#128081;<br>coyotenss (1175) - Bohemians &#128081;<br>Leif_erickssson (1212) - Persians &#128081;<br>.cHikaNo. (1312) - Japanese &#128081;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=372059535&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "Darcksold (1192) - Ethiopians &#128128;<br>PapaDurba (1100) - Bulgarians &#128128;<br>Ignaqcio (1251) - Teutons &#128128;<br>Al Ghouti (1208) - Tatars &#128128;",
-        "Team 2": "TPE-\u5e8a\u4e0a\u5c0f\u65cb\u98a8 (1194) - Teutons &#128081;<br>Nanox (1201) - Hindustanis &#128081;<br>\u897f\u590f\u666f\u5b97-Lee (1174) - Turks &#128081;<br>Sir Monkey (1190) - Malay &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=372063841&profileId=903496'>Download &#128190;</a>",
+        "Team 1": "jAvi (1330) - Cumans &#128081;<br>Jogadinha do Paqueta (1331) - Portuguese &#128081;<br>MAXXX (1088) - Saracens &#128081;<br>Mari4N (1194) - Magyars &#128081;",
+        "Team 2": "UzuI (1201) - Cumans &#128128;<br>Nanox (1216) - Mayans &#128128;<br>cortes.av (1216) - Sicilians &#128128;<br>Sir Monkey (1206) - Khmer &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=372059535&profileId=8174585'>Download &#128190;</a>",
-        "Team 1": "Darcksold (1192) - Ethiopians &#128128;<br>Al Ghouti (1208) - Tatars &#128128;<br>Ignaqcio (1251) - Teutons &#128128;<br>PapaDurba (1100) - Bulgarians &#128128;",
-        "Team 2": "Nanox (1201) - Hindustanis &#128081;<br>TPE-\u5e8a\u4e0a\u5c0f\u65cb\u98a8 (1194) - Teutons &#128081;<br>Sir Monkey (1190) - Malay &#128081;<br>\u897f\u590f\u666f\u5b97-Lee (1174) - Turks &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=372063841&profileId=3436772'>Download &#128190;</a>",
+        "Team 1": "jAvi (1330) - Cumans &#128081;<br>Mari4N (1194) - Magyars &#128081;<br>Jogadinha do Paqueta (1331) - Portuguese &#128081;<br>MAXXX (1088) - Saracens &#128081;",
+        "Team 2": "Sir Monkey (1206) - Khmer &#128128;<br>UzuI (1201) - Cumans &#128128;<br>Nanox (1216) - Mayans &#128128;<br>cortes.av (1216) - Sicilians &#128128;"
     }
 }
