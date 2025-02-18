@@ -12,15 +12,15 @@
         "Team 2": "\u30a4\u30c0\u30ad\u30b6 (1143) - Burgundians &#128081;<br>dicopatito (1240) - Turks &#128081;<br>Diamond0101 (1107) - Persians &#128081;<br>thedungsps (1154) - Mayans &#128081;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_enclosed.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=372243600&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "Dreadnaught (1183) - Ethiopians &#128081;<br>ScrotiMcBoogerballs (1233) - Britons &#128081;<br>Petgol (1194) - Mongols &#128081;<br>Mena (1168) - Franks &#128081;",
-        "Team 2": "Nanox (1230) - Mayans &#128128;<br>Yunus emre aoe2 (1200) - Persians &#128128;<br>M\u00e1ximo D\u00e9cimo Meridio (1192) - Mongols &#128128;<br>Sir Monkey (1192) - Khmer &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=373014297&profileId=17858150'>Download &#128190;</a>",
+        "Team 1": "Surtido Bagley (1159) - Franks &#128355<br>ChichitaD'Jora (1180) - Celts &#128355<br>\u6211\u7231\u53bb\u706b\u661f (1099) - Huns &#128355<br>NPC Corky (1141) - Malay &#128355",
+        "Team 2": "Sir Monkey (1147) - Vietnamese &#128355<br>Nanox (1180) - Huns &#128355<br>KARA (1150) - Hindustanis &#128355<br>SeaTurtle (1181) - Malians &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_enclosed.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=372243600&profileId=439001'>Download &#128190;</a>",
-        "Team 1": "Mena (1168) - Franks &#128081;<br>Petgol (1194) - Mongols &#128081;<br>ScrotiMcBoogerballs (1233) - Britons &#128081;<br>Dreadnaught (1183) - Ethiopians &#128081;",
-        "Team 2": "Sir Monkey (1192) - Khmer &#128128;<br>M\u00e1ximo D\u00e9cimo Meridio (1192) - Mongols &#128128;<br>Yunus emre aoe2 (1200) - Persians &#128128;<br>Nanox (1230) - Mayans &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=373014297&profileId=903496'>Download &#128190;</a>",
+        "Team 1": "Surtido Bagley (1159) - Franks &#128355<br>NPC Corky (1141) - Malay &#128355<br>\u6211\u7231\u53bb\u706b\u661f (1099) - Huns &#128355<br>ChichitaD'Jora (1180) - Celts &#128355",
+        "Team 2": "SeaTurtle (1181) - Malians &#128355<br>KARA (1150) - Hindustanis &#128355<br>Nanox (1180) - Huns &#128355<br>Sir Monkey (1147) - Vietnamese &#128355"
     }
 }
