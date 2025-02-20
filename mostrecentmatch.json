@@ -12,15 +12,15 @@
         "Team 2": "Percy (1169) - Celts &#128128;<br>\u8c26\u865a\u4f4e\u8c03\u5173\u4e91\u957f (1243) - Chinese &#128128;<br>litchi (1190) - Romans &#128128;<br>Liiiiiiu (1181) - Franks &#128128;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=373561642&profileId=4114303'>Download &#128190;</a>",
-        "Team 1": "Nicosio (1119) - Khmer &#128355<br>dtoan (1147) - Turks &#128355<br>Sir Monkey (1155) - Malay &#128355<br>Nanox (1154) - Hindustanis &#128355",
-        "Team 2": "fer (1123) - Slavs &#128355<br>LeGoLaS (1102) - Cumans &#128355<br>BejgLee (1039) - Goths &#128355<br>Pellaeon (1115) - Teutons &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=373569563&profileId=21996631'>Download &#128190;</a>",
+        "Team 1": "Nanox (1136) - Huns &#128355<br>MatiasMRTZ (1103) - Burgundians &#128355<br>YanisVS (1105) - Slavs &#128355<br>Sir Monkey (1137) - Vietnamese &#128355",
+        "Team 2": "Rpt (1060) - Persians &#128355<br>PALITOMAN (1112) - Romans &#128355<br>ELTRAVERO (1142) - Teutons &#128355<br>xvadash (1096) - Turks &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=373561642&profileId=3179815'>Download &#128190;</a>",
-        "Team 1": "Nanox (1154) - Hindustanis &#128355<br>Sir Monkey (1155) - Malay &#128355<br>dtoan (1147) - Turks &#128355<br>Nicosio (1119) - Khmer &#128355",
-        "Team 2": "Pellaeon (1115) - Teutons &#128355<br>BejgLee (1039) - Goths &#128355<br>LeGoLaS (1102) - Cumans &#128355<br>fer (1123) - Slavs &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=373569563&profileId=2542489'>Download &#128190;</a>",
+        "Team 1": "Nanox (1136) - Huns &#128355<br>Sir Monkey (1137) - Vietnamese &#128355<br>YanisVS (1105) - Slavs &#128355<br>MatiasMRTZ (1103) - Burgundians &#128355",
+        "Team 2": "xvadash (1096) - Turks &#128355<br>ELTRAVERO (1142) - Teutons &#128355<br>PALITOMAN (1112) - Romans &#128355<br>Rpt (1060) - Persians &#128355"
     }
 }
