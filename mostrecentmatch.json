@@ -13,14 +13,14 @@
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=373391735&profileId=2693872'>Download &#128190;</a>",
-        "Team 1": "arna_roman (1146) - Ethiopians &#128128;<br>Sir Monkey (1154) - Malay &#128128;<br>Nanox (1171) - Hindustanis &#128128;<br>Mister Cap (1218) - Teutons &#128128;",
-        "Team 2": "\u9ec4\u74dc (1125) - Khmer &#128081;<br>Alucard_alg (1126) - Georgians &#128081;<br>santi_rmz (1142) - Bengalis &#128081;<br>SombreWeb (1195) - Persians &#128081;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=373561642&profileId=4114303'>Download &#128190;</a>",
+        "Team 1": "Nicosio (1119) - Khmer &#128355<br>dtoan (1147) - Turks &#128355<br>Sir Monkey (1155) - Malay &#128355<br>Nanox (1154) - Hindustanis &#128355",
+        "Team 2": "fer (1123) - Slavs &#128355<br>LeGoLaS (1102) - Cumans &#128355<br>BejgLee (1039) - Goths &#128355<br>Pellaeon (1115) - Teutons &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=373533597&profileId=2852505'>Download &#128190;</a>",
-        "Team 1": "OrcoDues (1194) - Persians &#128081;<br>Aztecus (1148) - Huns &#128081;<br>Mr. Magno (1191) - Mongols &#128081;<br>Spadinix (1229) - Italians &#128081;",
-        "Team 2": "SPQR Attila (1234) - Mayans &#128128;<br>Oblivionrising75 (1060) - Huns &#128128;<br>Sir Monkey (1168) - Vietnamese &#128128;<br>L3m0nRoCk (1250) - Mongols &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=373561642&profileId=3179815'>Download &#128190;</a>",
+        "Team 1": "Nanox (1154) - Hindustanis &#128355<br>Sir Monkey (1155) - Malay &#128355<br>dtoan (1147) - Turks &#128355<br>Nicosio (1119) - Khmer &#128355",
+        "Team 2": "Pellaeon (1115) - Teutons &#128355<br>BejgLee (1039) - Goths &#128355<br>LeGoLaS (1102) - Cumans &#128355<br>fer (1123) - Slavs &#128355"
     }
 }
