@@ -14,13 +14,13 @@
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=373569563&profileId=21996631'>Download &#128190;</a>",
-        "Team 1": "Nanox (1136) - Huns &#128355<br>MatiasMRTZ (1103) - Burgundians &#128355<br>YanisVS (1105) - Slavs &#128355<br>Sir Monkey (1137) - Vietnamese &#128355",
-        "Team 2": "Rpt (1060) - Persians &#128355<br>PALITOMAN (1112) - Romans &#128355<br>ELTRAVERO (1142) - Teutons &#128355<br>xvadash (1096) - Turks &#128355"
+        "Team 1": "Nanox (1136) - Huns &#128128;<br>MatiasMRTZ (1103) - Burgundians &#128128;<br>YanisVS (1105) - Slavs &#128128;<br>Sir Monkey (1137) - Vietnamese &#128128;",
+        "Team 2": "Rpt (1060) - Persians &#128081;<br>PALITOMAN (1112) - Romans &#128081;<br>ELTRAVERO (1142) - Teutons &#128081;<br>xvadash (1096) - Turks &#128081;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=373569563&profileId=2542489'>Download &#128190;</a>",
-        "Team 1": "Nanox (1136) - Huns &#128355<br>Sir Monkey (1137) - Vietnamese &#128355<br>YanisVS (1105) - Slavs &#128355<br>MatiasMRTZ (1103) - Burgundians &#128355",
-        "Team 2": "xvadash (1096) - Turks &#128355<br>ELTRAVERO (1142) - Teutons &#128355<br>PALITOMAN (1112) - Romans &#128355<br>Rpt (1060) - Persians &#128355"
+        "Team 1": "Nanox (1136) - Huns &#128128;<br>Sir Monkey (1137) - Vietnamese &#128128;<br>YanisVS (1105) - Slavs &#128128;<br>MatiasMRTZ (1103) - Burgundians &#128128;",
+        "Team 2": "xvadash (1096) - Turks &#128081;<br>ELTRAVERO (1142) - Teutons &#128081;<br>PALITOMAN (1112) - Romans &#128081;<br>Rpt (1060) - Persians &#128081;"
     }
 }
