@@ -14,13 +14,13 @@
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=374524354&profileId=8213913'>Download &#128190;</a>",
-        "Team 1": "PW.ReDw1nG (1192) - Huns &#128355<br>MisterGabby (1207) - Persians &#128355<br>TTeba (1117) - Mongols &#128355<br>KingZottMonte (1152) - Magyars &#128355",
-        "Team 2": "Sir Monkey (1099) - Vietnamese &#128355<br>Nanox (1089) - Huns &#128355<br>indiuste (1096) - Franks &#128355<br>Bug Spencer (1188) - Sicilians &#128355"
+        "Team 1": "PW.ReDw1nG (1192) - Huns &#128081;<br>MisterGabby (1207) - Persians &#128081;<br>TTeba (1117) - Mongols &#128081;<br>KingZottMonte (1152) - Magyars &#128081;",
+        "Team 2": "Sir Monkey (1099) - Vietnamese &#128128;<br>Nanox (1089) - Huns &#128128;<br>indiuste (1096) - Franks &#128128;<br>Bug Spencer (1188) - Sicilians &#128128;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=374524354&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "PW.ReDw1nG (1192) - Huns &#128355<br>KingZottMonte (1152) - Magyars &#128355<br>TTeba (1117) - Mongols &#128355<br>MisterGabby (1207) - Persians &#128355",
-        "Team 2": "Bug Spencer (1188) - Sicilians &#128355<br>indiuste (1096) - Franks &#128355<br>Nanox (1089) - Huns &#128355<br>Sir Monkey (1099) - Vietnamese &#128355"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=374533519&profileId=22147522'>Download &#128190;</a>",
+        "Team 1": "Nahup (1104) - Mongols &#128355<br>JAGR / GoodByeWorld (1147) - Magyars &#128355<br>Sir Monkey (1086) - Vietnamese &#128355<br>JAGR | HIPERYON (1015) - Huns &#128355",
+        "Team 2": "Es Pablo (1101) - Khmer &#128355<br>NTM.Antkaped (1074) - Georgians &#128355<br>adessomariano (1081) - Mongols &#128355<br>Zed (1056) - Berbers &#128355"
     }
 }
