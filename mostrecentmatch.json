@@ -14,13 +14,13 @@
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=375174150&profileId=439001'>Download &#128190;</a>",
-        "Team 1": "Dean (1045) - Huns &#128355<br>Aegon the Conqueror (1181) - Spanish &#128355<br>[WWW - KT] Er MaRdiTho! (1132) - Huns &#128355<br>\u51c6\u7537 (1100) - Franks &#128355",
-        "Team 2": "Sir Monkey (1113) - Vietnamese &#128355<br>SirTedementa (1089) - Berbers &#128355<br>Tritto (1108) - Magyars &#128355<br>Nanox (1113) - Huns &#128355"
+        "Team 1": "Dean (1045) - Huns &#128128;<br>Aegon the Conqueror (1181) - Spanish &#128128;<br>[WWW - KT] Er MaRdiTho! (1132) - Huns &#128128;<br>\u51c6\u7537 (1100) - Franks &#128128;",
+        "Team 2": "Sir Monkey (1113) - Vietnamese &#128081;<br>SirTedementa (1089) - Berbers &#128081;<br>Tritto (1108) - Magyars &#128081;<br>Nanox (1113) - Huns &#128081;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=375174150&profileId=439001'>Download &#128190;</a>",
-        "Team 1": "Dean (1045) - Huns &#128355<br>Aegon the Conqueror (1181) - Spanish &#128355<br>[WWW - KT] Er MaRdiTho! (1132) - Huns &#128355<br>\u51c6\u7537 (1100) - Franks &#128355",
-        "Team 2": "Sir Monkey (1113) - Vietnamese &#128355<br>SirTedementa (1089) - Berbers &#128355<br>Tritto (1108) - Magyars &#128355<br>Nanox (1113) - Huns &#128355"
+        "Team 1": "Dean (1045) - Huns &#128128;<br>Aegon the Conqueror (1181) - Spanish &#128128;<br>[WWW - KT] Er MaRdiTho! (1132) - Huns &#128128;<br>\u51c6\u7537 (1100) - Franks &#128128;",
+        "Team 2": "Sir Monkey (1113) - Vietnamese &#128081;<br>SirTedementa (1089) - Berbers &#128081;<br>Tritto (1108) - Magyars &#128081;<br>Nanox (1113) - Huns &#128081;"
     }
 }
