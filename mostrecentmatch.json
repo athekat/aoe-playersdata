@@ -14,13 +14,13 @@
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=376674107&profileId=67467'>Download &#128190;</a>",
-        "Team 1": "matu_as (1212) - Britons &#128355<br>Cacique_Yatel (1066) - Goths &#128355<br>Paiza (1329) - Turks &#128355<br>Cooper (1137) - Slavs &#128355",
-        "Team 2": "Nanox (1165) - Hindustanis &#128355<br>Sir Monkey (1190) - Malay &#128355<br>McLagan (1168) - Spanish &#128355<br>zachhalil (1196) - Magyars &#128355"
+        "Team 1": "matu_as (1212) - Britons &#128081;<br>Cacique_Yatel (1066) - Goths &#128081;<br>Paiza (1329) - Turks &#128081;<br>Cooper (1137) - Slavs &#128081;",
+        "Team 2": "Nanox (1165) - Hindustanis &#128128;<br>Sir Monkey (1190) - Malay &#128128;<br>McLagan (1168) - Spanish &#128128;<br>zachhalil (1196) - Magyars &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=376674107&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "matu_as (1212) - Britons &#128355<br>Cooper (1137) - Slavs &#128355<br>Paiza (1329) - Turks &#128355<br>Cacique_Yatel (1066) - Goths &#128355",
-        "Team 2": "Nanox (1165) - Hindustanis &#128355<br>zachhalil (1196) - Magyars &#128355<br>McLagan (1168) - Spanish &#128355<br>Sir Monkey (1190) - Malay &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=376694365&profileId=6628791'>Download &#128190;</a>",
+        "Team 1": "MR.@Manuel (1190) - Goths &#128355<br>Zaphtark (1140) - Portuguese &#128355<br>HotHardFatherDaddy (1138) - Magyars &#128355<br>Sir Monkey (1174) - Khmer &#128355",
+        "Team 2": "anrp (1195) - Hindustanis &#128355<br>juan.py (1173) - Italians &#128355<br>Tello (1183) - Franks &#128355<br>Astian (1188) - Byzantines &#128355"
     }
 }
