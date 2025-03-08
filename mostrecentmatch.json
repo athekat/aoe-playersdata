@@ -7,9 +7,9 @@
     },
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=376317392&profileId=6446904'>Download &#128190;</a>",
-        "Team 1": "CMD_Tar-Palantir (1340) - Khmer &#128128;<br>CMD_negroterrazas (895) - Italians &#128128;<br>CMD_Black_Legion (1334) - Teutons &#128128;<br>CMD_perro_loco (1123) - Portuguese &#128128;",
-        "Team 2": "dicopatito (1190) - Armenians &#128081;<br>UzuI (1296) - Sicilians &#128081;<br>Nanox (1097) - Hindustanis &#128081;<br>Carpincho (1178) - Burgundians &#128081;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=376921038&profileId=5958591'>Download &#128190;</a>",
+        "Team 1": "dicopatito (1205) - Armenians &#128355<br>Sir Monkey (1158) - Persians &#128355<br>Holden (1175) - Vietnamese &#128355",
+        "Team 2": "HollowCider121 (1139) - Cumans &#128355<br>Shawn96 (1140) - Italians &#128355<br>slug_hat (1152) - Bohemians &#128355"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
@@ -18,9 +18,9 @@
         "Team 2": "Nanox (1165) - Hindustanis &#128128;<br>Sir Monkey (1190) - Malay &#128128;<br>McLagan (1168) - Spanish &#128128;<br>zachhalil (1196) - Magyars &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=376694365&profileId=6628791'>Download &#128190;</a>",
-        "Team 1": "MR.@Manuel (1190) - Goths &#128128;<br>Zaphtark (1140) - Portuguese &#128128;<br>HotHardFatherDaddy (1154) - Magyars &#128128;<br>Sir Monkey (1174) - Khmer &#128128;",
-        "Team 2": "anrp (1195) - Hindustanis &#128081;<br>juan.py (1173) - Italians &#128081;<br>Tello (1183) - Franks &#128081;<br>Astian (1188) - Byzantines &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=376921038&profileId=12845395'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1158) - Persians &#128355<br>dicopatito (1205) - Armenians &#128355<br>Holden (1175) - Vietnamese &#128355",
+        "Team 2": "HollowCider121 (1139) - Cumans &#128355<br>slug_hat (1152) - Bohemians &#128355<br>Shawn96 (1140) - Italians &#128355"
     }
 }
