@@ -14,13 +14,13 @@
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=377064922&profileId=1720345'>Download &#128190;</a>",
-        "Team 1": "ElMonje (1160) - Bengalis &#128355<br>remi (1106) - Malay &#128355<br>gato romano (1066) - Gurjaras &#128355<br>.|. (1100) - Celts &#128355",
-        "Team 2": "2913739211 (1102) - Ethiopians &#128355<br>Sir Monkey (1100) - Malay &#128355<br>Nanox (1119) - Hindustanis &#128355<br>Rommel (1076) - Persians &#128355"
+        "Team 1": "ElMonje (1160) - Bengalis &#128128;<br>remi (1106) - Malay &#128128;<br>gato romano (1066) - Gurjaras &#128128;<br>.|. (1100) - Celts &#128128;",
+        "Team 2": "2913739211 (1102) - Ethiopians &#128081;<br>Sir Monkey (1100) - Malay &#128081;<br>Nanox (1119) - Hindustanis &#128081;<br>Rommel (1076) - Persians &#128081;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=377064922&profileId=10507497'>Download &#128190;</a>",
-        "Team 1": "ElMonje (1160) - Bengalis &#128355<br>.|. (1100) - Celts &#128355<br>gato romano (1066) - Gurjaras &#128355<br>remi (1106) - Malay &#128355",
-        "Team 2": "Rommel (1076) - Persians &#128355<br>Nanox (1119) - Hindustanis &#128355<br>Sir Monkey (1100) - Malay &#128355<br>2913739211 (1102) - Ethiopians &#128355"
+        "Team 1": "ElMonje (1160) - Bengalis &#128128;<br>.|. (1100) - Celts &#128128;<br>gato romano (1066) - Gurjaras &#128128;<br>remi (1106) - Malay &#128128;",
+        "Team 2": "Rommel (1076) - Persians &#128081;<br>Nanox (1119) - Hindustanis &#128081;<br>Sir Monkey (1100) - Malay &#128081;<br>2913739211 (1102) - Ethiopians &#128081;"
     }
 }
