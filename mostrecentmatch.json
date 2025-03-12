@@ -6,21 +6,21 @@
         "Team 2": "UzuI (1296) - Sicilians &#128081;<br>Nanox (1097) - Hindustanis &#128081;<br>Carpincho (1178) - Burgundians &#128081;<br>dicopatito (1190) - Armenians &#128081;"
     },
     "Dicopatito": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=377821890&profileId=21913290'>Download &#128190;</a>",
-        "Team 1": "Nanox (1134) - Huns &#128355<br>UzuI (1336) - Portuguese &#128355<br>dicopatito (1187) - Armenians &#128355<br>Sir Monkey (1116) - Vietnamese &#128355",
-        "Team 2": "Dejame ganar (1315) - Teutons &#128355<br>Oki Doki (1060) - Hindustanis &#128355<br>La Torta Cosmica (1191) - Vikings &#128355<br>knack (1148) - Britons &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arabia.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=377840888&profileId=439001'>Download &#128190;</a>",
+        "Team 1": "GL.Lalo (1246) - Khmer &#128355<br>fhgebert (919) - Mongols &#128355<br>olivieri2904 (1218) - Ethiopians &#128355<br>Siqueira (1066) - Franks &#128355",
+        "Team 2": "Sir Monkey (1108) - Lithuanians &#128355<br>\u795e\u5723\u7f57\u9a6c\u5e1d\u56fd | Holy Roman (1127) - Franks &#128355<br>dicopatito (1170) - Vikings &#128355<br>Nanox (1124) - Mayans &#128355"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=377821890&profileId=6330685'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1116) - Vietnamese &#128355<br>Nanox (1134) - Huns &#128355<br>UzuI (1336) - Portuguese &#128355<br>dicopatito (1187) - Armenians &#128355",
-        "Team 2": "knack (1148) - Britons &#128355<br>Dejame ganar (1315) - Teutons &#128355<br>Oki Doki (1060) - Hindustanis &#128355<br>La Torta Cosmica (1191) - Vikings &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arabia.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=377840888&profileId=6237950'>Download &#128190;</a>",
+        "Team 1": "GL.Lalo (1246) - Khmer &#128355<br>Siqueira (1066) - Franks &#128355<br>olivieri2904 (1218) - Ethiopians &#128355<br>fhgebert (919) - Mongols &#128355",
+        "Team 2": "\u795e\u5723\u7f57\u9a6c\u5e1d\u56fd | Holy Roman (1127) - Franks &#128355<br>Sir Monkey (1108) - Lithuanians &#128355<br>Nanox (1124) - Mayans &#128355<br>dicopatito (1170) - Vikings &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=377821890&profileId=21913290'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1116) - Vietnamese &#128355<br>dicopatito (1187) - Armenians &#128355<br>UzuI (1336) - Portuguese &#128355<br>Nanox (1134) - Huns &#128355",
-        "Team 2": "La Torta Cosmica (1191) - Vikings &#128355<br>Oki Doki (1060) - Hindustanis &#128355<br>Dejame ganar (1315) - Teutons &#128355<br>knack (1148) - Britons &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arabia.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=377840888&profileId=903496'>Download &#128190;</a>",
+        "Team 1": "GL.Lalo (1246) - Khmer &#128355<br>fhgebert (919) - Mongols &#128355<br>olivieri2904 (1218) - Ethiopians &#128355<br>Siqueira (1066) - Franks &#128355",
+        "Team 2": "\u795e\u5723\u7f57\u9a6c\u5e1d\u56fd | Holy Roman (1127) - Franks &#128355<br>dicopatito (1170) - Vikings &#128355<br>Nanox (1124) - Mayans &#128355<br>Sir Monkey (1108) - Lithuanians &#128355"
     }
 }
