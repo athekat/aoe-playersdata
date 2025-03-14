@@ -8,19 +8,19 @@
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378239522&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "fblumetti (1122) - Malians &#128355<br>Tulkas (1140) - Vietnamese &#128355<br>rusguillermo (1131) - Italians &#128355<br>Alfil (1142) - Persians &#128355",
-        "Team 2": "Nanox (1105) - Huns &#128355<br>JimmyRz (1153) - Persians &#128355<br>dicopatito (1177) - Italians &#128355<br>Sir Monkey (1106) - Vietnamese &#128355"
+        "Team 1": "fblumetti (1122) - Malians &#128081;<br>Tulkas (1140) - Vietnamese &#128081;<br>rusguillermo (1131) - Italians &#128081;<br>Alfil (1142) - Persians &#128081;",
+        "Team 2": "Nanox (1105) - Huns &#128128;<br>JimmyRz (1153) - Persians &#128128;<br>dicopatito (1177) - Italians &#128128;<br>Sir Monkey (1106) - Vietnamese &#128128;"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378239522&profileId=2557452'>Download &#128190;</a>",
-        "Team 1": "Alfil (1142) - Persians &#128355<br>fblumetti (1122) - Malians &#128355<br>Tulkas (1140) - Vietnamese &#128355<br>rusguillermo (1131) - Italians &#128355",
-        "Team 2": "dicopatito (1177) - Italians &#128355<br>Sir Monkey (1106) - Vietnamese &#128355<br>Nanox (1105) - Huns &#128355<br>JimmyRz (1153) - Persians &#128355"
+        "Team 1": "Alfil (1142) - Persians &#128081;<br>fblumetti (1122) - Malians &#128081;<br>Tulkas (1140) - Vietnamese &#128081;<br>rusguillermo (1131) - Italians &#128081;",
+        "Team 2": "dicopatito (1177) - Italians &#128128;<br>Sir Monkey (1106) - Vietnamese &#128128;<br>Nanox (1105) - Huns &#128128;<br>JimmyRz (1153) - Persians &#128128;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378239522&profileId=2557452'>Download &#128190;</a>",
-        "Team 1": "Alfil (1142) - Persians &#128355<br>fblumetti (1122) - Malians &#128355<br>Tulkas (1140) - Vietnamese &#128355<br>rusguillermo (1131) - Italians &#128355",
-        "Team 2": "dicopatito (1177) - Italians &#128355<br>Sir Monkey (1106) - Vietnamese &#128355<br>Nanox (1105) - Huns &#128355<br>JimmyRz (1153) - Persians &#128355"
+        "Team 1": "Alfil (1142) - Persians &#128081;<br>fblumetti (1122) - Malians &#128081;<br>Tulkas (1140) - Vietnamese &#128081;<br>rusguillermo (1131) - Italians &#128081;",
+        "Team 2": "dicopatito (1177) - Italians &#128128;<br>Sir Monkey (1106) - Vietnamese &#128128;<br>Nanox (1105) - Huns &#128128;<br>JimmyRz (1153) - Persians &#128128;"
     }
 }
