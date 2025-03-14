@@ -7,20 +7,20 @@
     },
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378238882&profileId=4864349'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1105) - Vietnamese &#128355<br>dicopatito (1183) - Koreans &#128355<br>edgardo (1163) - Ethiopians &#128355<br>Nanox (1104) - Huns &#128355",
-        "Team 2": "[GDL] Axolotl (1145) - Persians &#128355<br>SolviturAmbulando (1146) - Celts &#128355<br>culturaparacas (1129) - Malay &#128355<br>coverme (1154) - Goths &#128355"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378239522&profileId=903496'>Download &#128190;</a>",
+        "Team 1": "fblumetti (1122) - Malians &#128355<br>Tulkas (1140) - Vietnamese &#128355<br>rusguillermo (1131) - Italians &#128355<br>Alfil (1142) - Persians &#128355",
+        "Team 2": "Nanox (1105) - Huns &#128355<br>JimmyRz (1153) - Persians &#128355<br>dicopatito (1177) - Italians &#128355<br>Sir Monkey (1106) - Vietnamese &#128355"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378238882&profileId=2642268'>Download &#128190;</a>",
-        "Team 1": "edgardo (1163) - Ethiopians &#128355<br>Nanox (1104) - Huns &#128355<br>Sir Monkey (1105) - Vietnamese &#128355<br>dicopatito (1183) - Koreans &#128355",
-        "Team 2": "culturaparacas (1129) - Malay &#128355<br>coverme (1154) - Goths &#128355<br>[GDL] Axolotl (1145) - Persians &#128355<br>SolviturAmbulando (1146) - Celts &#128355"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378239522&profileId=2557452'>Download &#128190;</a>",
+        "Team 1": "Alfil (1142) - Persians &#128355<br>fblumetti (1122) - Malians &#128355<br>Tulkas (1140) - Vietnamese &#128355<br>rusguillermo (1131) - Italians &#128355",
+        "Team 2": "dicopatito (1177) - Italians &#128355<br>Sir Monkey (1106) - Vietnamese &#128355<br>Nanox (1105) - Huns &#128355<br>JimmyRz (1153) - Persians &#128355"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378238882&profileId=4864349'>Download &#128190;</a>",
-        "Team 1": "edgardo (1163) - Ethiopians &#128355<br>dicopatito (1183) - Koreans &#128355<br>Sir Monkey (1105) - Vietnamese &#128355<br>Nanox (1104) - Huns &#128355",
-        "Team 2": "culturaparacas (1129) - Malay &#128355<br>SolviturAmbulando (1146) - Celts &#128355<br>[GDL] Axolotl (1145) - Persians &#128355<br>coverme (1154) - Goths &#128355"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378239522&profileId=2557452'>Download &#128190;</a>",
+        "Team 1": "Alfil (1142) - Persians &#128355<br>fblumetti (1122) - Malians &#128355<br>Tulkas (1140) - Vietnamese &#128355<br>rusguillermo (1131) - Italians &#128355",
+        "Team 2": "dicopatito (1177) - Italians &#128355<br>Sir Monkey (1106) - Vietnamese &#128355<br>Nanox (1105) - Huns &#128355<br>JimmyRz (1153) - Persians &#128355"
     }
 }
