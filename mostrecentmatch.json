@@ -14,13 +14,13 @@
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_crater-lake.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378650352&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "Vandefilm (1148) - Koreans &#128355<br>Remco (1056) - Cumans &#128355<br>Alfred (1081) - Mayans &#128355<br>Deko (1143) - Burmese &#128355",
-        "Team 2": "Nanox (1091) - Slavs &#128355<br>TRA (1092) - Huns &#128355<br>usmizeed (1118) - Poles &#128355<br>Sir Monkey (1121) - Malians &#128355"
+        "Team 1": "Vandefilm (1148) - Koreans &#128081;<br>Remco (1056) - Cumans &#128081;<br>Alfred (1081) - Mayans &#128081;<br>Deko (1143) - Burmese &#128081;",
+        "Team 2": "Nanox (1076) - Slavs &#128128;<br>TRA (1092) - Huns &#128128;<br>usmizeed (1118) - Poles &#128128;<br>Sir Monkey (1107) - Malians &#128128;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_crater-lake.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378650352&profileId=6853965'>Download &#128190;</a>",
-        "Team 1": "Deko (1143) - Burmese &#128355<br>Alfred (1081) - Mayans &#128355<br>Remco (1056) - Cumans &#128355<br>Vandefilm (1148) - Koreans &#128355",
-        "Team 2": "Nanox (1091) - Slavs &#128355<br>Sir Monkey (1121) - Malians &#128355<br>usmizeed (1118) - Poles &#128355<br>TRA (1092) - Huns &#128355"
+        "Team 1": "Deko (1143) - Burmese &#128081;<br>Alfred (1081) - Mayans &#128081;<br>Remco (1056) - Cumans &#128081;<br>Vandefilm (1148) - Koreans &#128081;",
+        "Team 2": "Nanox (1076) - Slavs &#128128;<br>Sir Monkey (1107) - Malians &#128128;<br>usmizeed (1118) - Poles &#128128;<br>TRA (1092) - Huns &#128128;"
     }
 }
