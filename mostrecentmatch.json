@@ -8,8 +8,8 @@
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arabia.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378461758&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "coolmoose101 (1096) - Vietnamese &#128355<br>TacticalCx (1055) - Ethiopians &#128355<br>Trailmaker (1203) - Cumans &#128355<br>heartless (1179) - Franks &#128355",
-        "Team 2": "Rubis (1180) - Huns &#128355<br>UzuI (1274) - Mongols &#128355<br>dicopatito (1161) - Britons &#128355<br>Sir Monkey (1108) - Lithuanians &#128355"
+        "Team 1": "coolmoose101 (1096) - Vietnamese &#128128;<br>TacticalCx (1055) - Ethiopians &#128128;<br>Trailmaker (1203) - Cumans &#128128;<br>heartless (1179) - Franks &#128128;",
+        "Team 2": "Rubis (1180) - Huns &#128081;<br>UzuI (1274) - Mongols &#128081;<br>dicopatito (1161) - Britons &#128081;<br>Sir Monkey (1108) - Lithuanians &#128081;"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
@@ -18,9 +18,9 @@
         "Team 2": "dicopatito (1177) - Italians &#128128;<br>Sir Monkey (1106) - Vietnamese &#128128;<br>Nanox (1105) - Huns &#128128;<br>JimmyRz (1153) - Persians &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arabia.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378461758&profileId=8858676'>Download &#128190;</a>",
-        "Team 1": "coolmoose101 (1096) - Vietnamese &#128355<br>heartless (1179) - Franks &#128355<br>TacticalCx (1055) - Ethiopians &#128355<br>Trailmaker (1203) - Cumans &#128355",
-        "Team 2": "dicopatito (1161) - Britons &#128355<br>Rubis (1180) - Huns &#128355<br>Sir Monkey (1108) - Lithuanians &#128355<br>UzuI (1274) - Mongols &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378465915&profileId=1354875'>Download &#128190;</a>",
+        "Team 1": "UzuI (1284) - Teutons &#128128;<br>Sir Monkey (1125) - Malay &#128128;<br>Pulgo (1190) - Byzantines &#128128;<br>Rubis (1194) - Vietnamese &#128128;",
+        "Team 2": "SkeeloMx (1173) - Vikings &#128081;<br>CDB | ReaperOver (1181) - Goths &#128081;<br>CDB | t1nch0 (1179) - Berbers &#128081;<br>\u540d\u5b57\u4e36\u597d\u6002 (1175) - Vietnamese &#128081;"
     }
 }
