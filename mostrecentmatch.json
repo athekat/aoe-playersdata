@@ -12,15 +12,15 @@
         "Team 2": "Rubis (1180) - Huns &#128081;<br>UzuI (1274) - Mongols &#128081;<br>dicopatito (1161) - Britons &#128081;<br>Sir Monkey (1108) - Lithuanians &#128081;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378239522&profileId=2557452'>Download &#128190;</a>",
-        "Team 1": "Alfil (1142) - Persians &#128081;<br>fblumetti (1122) - Malians &#128081;<br>Tulkas (1140) - Vietnamese &#128081;<br>rusguillermo (1131) - Italians &#128081;",
-        "Team 2": "dicopatito (1177) - Italians &#128128;<br>Sir Monkey (1106) - Vietnamese &#128128;<br>Nanox (1105) - Huns &#128128;<br>JimmyRz (1153) - Persians &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378636048&profileId=167650'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1110) - Khmer &#128081;<br>Nanox (1075) - Turks &#128081;<br>Uncle Bogdan (1120) - Armenians &#128081;<br>EagleSpinner (1145) - Persians &#128081;",
+        "Team 2": "Sohei (1082) - Bohemians &#128128;<br>JR91 (1119) - Khmer &#128128;<br>fatmuddybear (1053) - Cumans &#128128;<br>DerPuck (1117) - Persians &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378475238&profileId=15644016'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1111) - Khmer &#128081;<br>IamPonziTrader (1095) - Britons &#128081;<br>Santi164 (1085) - Teutons &#128081;<br>bluepeople (1151) - Slavs &#128081;",
-        "Team 2": "OtongSlayer (1053) - Japanese &#128128;<br>Edinson Cannabis (1089) - Gurjaras &#128128;<br>Hawking_Lee (1131) - Persians &#128128;<br>STAR_\u5317\u6d77 (1097) - Berbers &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=378636048&profileId=6389073'>Download &#128190;</a>",
+        "Team 1": "EagleSpinner (1145) - Persians &#128081;<br>Uncle Bogdan (1120) - Armenians &#128081;<br>Nanox (1075) - Turks &#128081;<br>Sir Monkey (1110) - Khmer &#128081;",
+        "Team 2": "Sohei (1082) - Bohemians &#128128;<br>fatmuddybear (1053) - Cumans &#128128;<br>DerPuck (1117) - Persians &#128128;<br>JR91 (1119) - Khmer &#128128;"
     }
 }
