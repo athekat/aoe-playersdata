@@ -13,14 +13,14 @@
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=381571943&profileId=2108061'>Download &#128190;</a>",
-        "Team 1": "fielsreno (1060) - Vikings &#128355<br>Sir Monkey (1084) - Malay &#128355<br>Nanox (1041) - Hindustanis &#128355<br>RoboG0D (1077) - Khmer &#128355",
-        "Team 2": "Creweer (1060) - Mongols &#128355<br>Dan Dan (1091) - Britons &#128355<br>Arquera Maya (1087) - Mayans &#128355<br>wmoloo (1055) - Vietnamese &#128355"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=381582316&profileId=1102226'>Download &#128190;</a>",
+        "Team 1": "CHMB Martincek (1132) - Ethiopians &#128128;<br>Matimed (1140) - Khmer &#128128;<br>CHMB_Kuc (1098) - Byzantines &#128128;<br>CHMB_Danchi (1079) - Mongols &#128128;",
+        "Team 2": "Izuru Alexandros R\u00c6 (1124) - Spanish &#128081;<br>Nanox (1058) - Hindustanis &#128081;<br>Sir Monkey (1099) - Malay &#128081;<br>MatiasMRTZ (1124) - Huns &#128081;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=381571943&profileId=183999'>Download &#128190;</a>",
-        "Team 1": "fielsreno (1060) - Vikings &#128355<br>RoboG0D (1077) - Khmer &#128355<br>Nanox (1041) - Hindustanis &#128355<br>Sir Monkey (1084) - Malay &#128355",
-        "Team 2": "Creweer (1060) - Mongols &#128355<br>wmoloo (1055) - Vietnamese &#128355<br>Arquera Maya (1087) - Mayans &#128355<br>Dan Dan (1091) - Britons &#128355"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=381582316&profileId=903496'>Download &#128190;</a>",
+        "Team 1": "CHMB Martincek (1132) - Ethiopians &#128128;<br>CHMB_Danchi (1079) - Mongols &#128128;<br>CHMB_Kuc (1098) - Byzantines &#128128;<br>Matimed (1140) - Khmer &#128128;",
+        "Team 2": "Nanox (1058) - Hindustanis &#128081;<br>Izuru Alexandros R\u00c6 (1124) - Spanish &#128081;<br>MatiasMRTZ (1124) - Huns &#128081;<br>Sir Monkey (1099) - Malay &#128081;"
     }
 }
