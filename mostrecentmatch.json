@@ -13,14 +13,14 @@
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=381417468&profileId=10172381'>Download &#128190;</a>",
-        "Team 1": "malosnov (1097) - Slavs &#128128;<br>MambaNegra (1077) - Celts &#128128;<br>MrYo94 (973) - Portuguese &#128128;<br>DaveElBarbaro95 (966) - Franks &#128128;",
-        "Team 2": "Sir Monkey (1037) - Khmer &#128081;<br>Nanox (1008) - Turks &#128081;<br>\u54c8\u5076\u7eb3\u5c3c (1021) - Portuguese &#128081;<br>you go die (1045) - Goths &#128081;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=381564031&profileId=439001'>Download &#128190;</a>",
+        "Team 1": "KINGoD (981) - Spanish &#128355<br>TheLawR\u00f8cK\u00ae (1072) - Britons &#128355<br>\u91ce\u751f\u5927\u9999\u8549 (1004) - Byzantines &#128355<br>\u91ce\u751f\u68d2\u68d2\u7cd6 (1029) - Bulgarians &#128355",
+        "Team 2": "Sir Monkey (1070) - Malay &#128355<br>Kabraxxxis (1035) - Sicilians &#128355<br>AspirinSKDanh (1052) - Khmer &#128355<br>Nanox (1025) - Hindustanis &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=381451267&profileId=3366882'>Download &#128190;</a>",
-        "Team 1": "Pontiac (1165) - Hindustanis &#128081;<br>\u6211\u7684\u8033\u673a\u5462 (1163) - Sicilians &#128081;<br>liner0219 (1163) - Spanish &#128081;<br>a2139637100 (1063) - Khmer &#128081;",
-        "Team 2": "Sir Monkey (1083) - Vietnamese &#128128;<br>crazy ant (1120) - Japanese &#128128;<br>\u5e1d\u56fd\u5c0f\u725b (1093) - Spanish &#128128;<br>uurr (1113) - Byzantines &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=381564031&profileId=2047761'>Download &#128190;</a>",
+        "Team 1": "KINGoD (981) - Spanish &#128355<br>\u91ce\u751f\u68d2\u68d2\u7cd6 (1029) - Bulgarians &#128355<br>\u91ce\u751f\u5927\u9999\u8549 (1004) - Byzantines &#128355<br>TheLawR\u00f8cK\u00ae (1072) - Britons &#128355",
+        "Team 2": "Sir Monkey (1070) - Malay &#128355<br>Nanox (1025) - Hindustanis &#128355<br>AspirinSKDanh (1052) - Khmer &#128355<br>Kabraxxxis (1035) - Sicilians &#128355"
     }
 }
