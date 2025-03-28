@@ -12,15 +12,15 @@
         "Team 2": "Rubis (1180) - Huns &#128081;<br>UzuI (1274) - Mongols &#128081;<br>dicopatito (1161) - Britons &#128081;<br>Sir Monkey (1108) - Lithuanians &#128081;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=381564031&profileId=439001'>Download &#128190;</a>",
-        "Team 1": "KINGoD (981) - Spanish &#128355<br>TheLawR\u00f8cK\u00ae (1072) - Britons &#128355<br>\u91ce\u751f\u5927\u9999\u8549 (1004) - Byzantines &#128355<br>\u91ce\u751f\u68d2\u68d2\u7cd6 (1029) - Bulgarians &#128355",
-        "Team 2": "Sir Monkey (1070) - Malay &#128355<br>Kabraxxxis (1035) - Sicilians &#128355<br>AspirinSKDanh (1052) - Khmer &#128355<br>Nanox (1025) - Hindustanis &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=381571943&profileId=2108061'>Download &#128190;</a>",
+        "Team 1": "fielsreno (1060) - Vikings &#128355<br>Sir Monkey (1084) - Malay &#128355<br>Nanox (1041) - Hindustanis &#128355<br>RoboG0D (1077) - Khmer &#128355",
+        "Team 2": "Creweer (1060) - Mongols &#128355<br>Dan Dan (1091) - Britons &#128355<br>Arquera Maya (1087) - Mayans &#128355<br>wmoloo (1055) - Vietnamese &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=381564031&profileId=2047761'>Download &#128190;</a>",
-        "Team 1": "KINGoD (981) - Spanish &#128355<br>\u91ce\u751f\u68d2\u68d2\u7cd6 (1029) - Bulgarians &#128355<br>\u91ce\u751f\u5927\u9999\u8549 (1004) - Byzantines &#128355<br>TheLawR\u00f8cK\u00ae (1072) - Britons &#128355",
-        "Team 2": "Sir Monkey (1070) - Malay &#128355<br>Nanox (1025) - Hindustanis &#128355<br>AspirinSKDanh (1052) - Khmer &#128355<br>Kabraxxxis (1035) - Sicilians &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=381571943&profileId=183999'>Download &#128190;</a>",
+        "Team 1": "fielsreno (1060) - Vikings &#128355<br>RoboG0D (1077) - Khmer &#128355<br>Nanox (1041) - Hindustanis &#128355<br>Sir Monkey (1084) - Malay &#128355",
+        "Team 2": "Creweer (1060) - Mongols &#128355<br>wmoloo (1055) - Vietnamese &#128355<br>Arquera Maya (1087) - Mayans &#128355<br>Dan Dan (1091) - Britons &#128355"
     }
 }
