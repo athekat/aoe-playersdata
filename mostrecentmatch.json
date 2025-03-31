@@ -14,13 +14,13 @@
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_lowland.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=382341619&profileId=3413687'>Download &#128190;</a>",
-        "Team 1": "Chleppa (1101) - Ethiopians &#128355<br>juan.py (1144) - Cumans &#128355<br>anrp (1128) - Magyars &#128355<br>xMEKAN\u0130Kx (1135) - Franks &#128355",
-        "Team 2": "Sir Monkey (1139) - Lithuanians &#128355<br>Nanox (1094) - Mayans &#128355<br>ElBananita (1112) - Spanish &#128355<br>monckeyrivers (1085) - Vikings &#128355"
+        "Team 1": "Chleppa (1101) - Ethiopians &#128128;<br>juan.py (1144) - Cumans &#128128;<br>anrp (1128) - Magyars &#128128;<br>xMEKAN\u0130Kx (1135) - Franks &#128128;",
+        "Team 2": "Sir Monkey (1139) - Lithuanians &#128081;<br>Nanox (1094) - Mayans &#128081;<br>ElBananita (1112) - Spanish &#128081;<br>monckeyrivers (1085) - Vikings &#128081;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_lowland.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=382341619&profileId=3413687'>Download &#128190;</a>",
-        "Team 1": "Chleppa (1101) - Ethiopians &#128355<br>juan.py (1144) - Cumans &#128355<br>anrp (1128) - Magyars &#128355<br>xMEKAN\u0130Kx (1135) - Franks &#128355",
-        "Team 2": "Sir Monkey (1139) - Lithuanians &#128355<br>Nanox (1094) - Mayans &#128355<br>ElBananita (1112) - Spanish &#128355<br>monckeyrivers (1085) - Vikings &#128355"
+        "Team 1": "Chleppa (1101) - Ethiopians &#128128;<br>juan.py (1144) - Cumans &#128128;<br>anrp (1128) - Magyars &#128128;<br>xMEKAN\u0130Kx (1135) - Franks &#128128;",
+        "Team 2": "Sir Monkey (1139) - Lithuanians &#128081;<br>Nanox (1094) - Mayans &#128081;<br>ElBananita (1112) - Spanish &#128081;<br>monckeyrivers (1085) - Vikings &#128081;"
     }
 }
