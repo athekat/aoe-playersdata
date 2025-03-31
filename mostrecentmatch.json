@@ -13,14 +13,14 @@
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_lowland.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=382173352&profileId=439001'>Download &#128190;</a>",
-        "Team 1": "P-Nachos (1041) - Magyars &#128128;<br>guilli80 (935) - Huns &#128128;<br>Manco C\u00e1pac (1074) - Portuguese &#128128;<br>shatarro (1055) - Teutons &#128128;",
-        "Team 2": "ForeskinFury (1058) - Franks &#128081;<br>notjason (1068) - Ethiopians &#128081;<br>Sir Monkey (1097) - Khmer &#128081;<br>Nanox (1061) - Mayans &#128081;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=382341619&profileId=3413687'>Download &#128190;</a>",
+        "Team 1": "Chleppa (1101) - Ethiopians &#128355<br>juan.py (1144) - Cumans &#128355<br>anrp (1128) - Magyars &#128355<br>xMEKAN\u0130Kx (1135) - Franks &#128355",
+        "Team 2": "Sir Monkey (1139) - Lithuanians &#128355<br>Nanox (1094) - Mayans &#128355<br>ElBananita (1112) - Spanish &#128355<br>monckeyrivers (1085) - Vikings &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=382195846&profileId=10953474'>Download &#128190;</a>",
-        "Team 1": "Enlightened Eye (1064) - Teutons &#128081;<br>rua (1032) - Teutons &#128081;<br>Sir Monkey (1110) - Khmer &#128081;<br>Mongoloid (1072) - Mongols &#128081;",
-        "Team 2": "\u5173\u95e8\u6253\u72d7 (1004) - Mongols &#128128;<br>fmahomedmz (1097) - Britons &#128128;<br>IrmaoDoJorel (1037) - Burgundians &#128128;<br>Dorek xD (991) - Romans &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_lowland.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=382341619&profileId=3413687'>Download &#128190;</a>",
+        "Team 1": "Chleppa (1101) - Ethiopians &#128355<br>juan.py (1144) - Cumans &#128355<br>anrp (1128) - Magyars &#128355<br>xMEKAN\u0130Kx (1135) - Franks &#128355",
+        "Team 2": "Sir Monkey (1139) - Lithuanians &#128355<br>Nanox (1094) - Mayans &#128355<br>ElBananita (1112) - Spanish &#128355<br>monckeyrivers (1085) - Vikings &#128355"
     }
 }
