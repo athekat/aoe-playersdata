@@ -12,15 +12,15 @@
         "Team 2": "Rubis (1180) - Huns &#128081;<br>UzuI (1274) - Mongols &#128081;<br>dicopatito (1161) - Britons &#128081;<br>Sir Monkey (1108) - Lithuanians &#128081;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=382369225&profileId=18295124'>Download &#128190;</a>",
-        "Team 1": "danielcv1112 (1225) - Bohemians &#128355<br>koke (1108) - Khmer &#128355<br>Dan (1170) - Teutons &#128355<br>Zx0mB0Y (1126) - Hindustanis &#128355",
-        "Team 2": "Sir Monkey (1154) - Khmer &#128355<br>Nanox (1112) - Hindustanis &#128355<br>Zen_Vampire (1178) - Japanese &#128355<br>RudeBoy (1129) - Burgundians &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=382379596&profileId=3180238'>Download &#128190;</a>",
+        "Team 1": "smart oaks (1216) - Persians &#128081;<br>\u597d\u4e00\u4e2a\u539a\u989c\u65e0\u803b\u4e4b\u5f92 (1270) - Berbers &#128081;<br>pedro eduardo (1161) - Vietnamese &#128081;<br>\u76ee\u6807\u9760\u8fd1\u4ebf\u70b9\u70b9 (1105) - Mongols &#128081;",
+        "Team 2": "Sir Monkey (1184) - Vietnamese &#128128;<br>Nanox (1145) - Huns &#128128;<br>Masacre (1208) - Persians &#128128;<br>ScrappyCoco (1194) - Spanish &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=382369225&profileId=18295124'>Download &#128190;</a>",
-        "Team 1": "Zx0mB0Y (1126) - Hindustanis &#128355<br>danielcv1112 (1225) - Bohemians &#128355<br>koke (1108) - Khmer &#128355<br>Dan (1170) - Teutons &#128355",
-        "Team 2": "Sir Monkey (1154) - Khmer &#128355<br>Nanox (1112) - Hindustanis &#128355<br>Zen_Vampire (1178) - Japanese &#128355<br>RudeBoy (1129) - Burgundians &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=382379596&profileId=439001'>Download &#128190;</a>",
+        "Team 1": "\u76ee\u6807\u9760\u8fd1\u4ebf\u70b9\u70b9 (1105) - Mongols &#128081;<br>pedro eduardo (1161) - Vietnamese &#128081;<br>\u597d\u4e00\u4e2a\u539a\u989c\u65e0\u803b\u4e4b\u5f92 (1270) - Berbers &#128081;<br>smart oaks (1216) - Persians &#128081;",
+        "Team 2": "Sir Monkey (1184) - Vietnamese &#128128;<br>ScrappyCoco (1194) - Spanish &#128128;<br>Masacre (1208) - Persians &#128128;<br>Nanox (1145) - Huns &#128128;"
     }
 }
