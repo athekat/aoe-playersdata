@@ -6,21 +6,21 @@
         "Team 2": "Sir Monkey (1198) - Vietnamese &#128081;<br>dicopatito (1193) - Armenians &#128081;<br>Carpincho (1208) - Persians &#128081;<br>Nanox (1158) - Huns &#128081;"
     },
     "Dicopatito": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=382587164&profileId=6446904'>Download &#128190;</a>",
-        "Team 1": "Ironbelly (1157) - Persians &#128128;<br>datouyu (1155) - Japanese &#128128;<br>\u6211\u6765\u52a9\u4f60 (1156) - Poles &#128128;<br>\u516d\u4e2a\u516d (1156) - Sicilians &#128128;",
-        "Team 2": "dicopatito (1193) - Armenians &#128081;<br>Nanox (1158) - Huns &#128081;<br>Sir Monkey (1198) - Vietnamese &#128081;<br>Carpincho (1208) - Persians &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_land_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=382975300&profileId=6237950'>Download &#128190;</a>",
+        "Team 1": "Tinky-Winky (1080) - Huns &#128355<br>Msc Dipsy (1274) - Incas &#128355<br>Gauderio Paraguaio (1267) - Sicilians &#128355<br>mecflu (1147) - Cumans &#128355",
+        "Team 2": "Sir Monkey (1196) - Malay &#128355<br>Nanox (1160) - Burmese &#128355<br>BEHELIT (1182) - Teutons &#128355<br>dicopatito (1191) - Malians &#128355"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=382587164&profileId=6237950'>Download &#128190;</a>",
-        "Team 1": "\u516d\u4e2a\u516d (1156) - Sicilians &#128128;<br>datouyu (1155) - Japanese &#128128;<br>\u6211\u6765\u52a9\u4f60 (1156) - Poles &#128128;<br>Ironbelly (1157) - Persians &#128128;",
-        "Team 2": "Sir Monkey (1198) - Vietnamese &#128081;<br>Nanox (1158) - Huns &#128081;<br>Carpincho (1208) - Persians &#128081;<br>dicopatito (1193) - Armenians &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_land_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=382975300&profileId=2421801'>Download &#128190;</a>",
+        "Team 1": "mecflu (1147) - Cumans &#128355<br>Tinky-Winky (1080) - Huns &#128355<br>Msc Dipsy (1274) - Incas &#128355<br>Gauderio Paraguaio (1267) - Sicilians &#128355",
+        "Team 2": "dicopatito (1191) - Malians &#128355<br>Sir Monkey (1196) - Malay &#128355<br>Nanox (1160) - Burmese &#128355<br>BEHELIT (1182) - Teutons &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=382587164&profileId=6237950'>Download &#128190;</a>",
-        "Team 1": "Ironbelly (1157) - Persians &#128128;<br>\u516d\u4e2a\u516d (1156) - Sicilians &#128128;<br>datouyu (1155) - Japanese &#128128;<br>\u6211\u6765\u52a9\u4f60 (1156) - Poles &#128128;",
-        "Team 2": "Sir Monkey (1198) - Vietnamese &#128081;<br>Nanox (1158) - Huns &#128081;<br>Carpincho (1208) - Persians &#128081;<br>dicopatito (1193) - Armenians &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_land_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=382975300&profileId=439001'>Download &#128190;</a>",
+        "Team 1": "Msc Dipsy (1274) - Incas &#128355<br>Tinky-Winky (1080) - Huns &#128355<br>mecflu (1147) - Cumans &#128355<br>Gauderio Paraguaio (1267) - Sicilians &#128355",
+        "Team 2": "BEHELIT (1182) - Teutons &#128355<br>Sir Monkey (1196) - Malay &#128355<br>dicopatito (1191) - Malians &#128355<br>Nanox (1160) - Burmese &#128355"
     }
 }
