@@ -8,8 +8,8 @@
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=383016130&profileId=2569960'>Download &#128190;</a>",
-        "Team 1": "Lobo de la Estepa (1240) - Goths &#128355<br>Coquelicot (1257) - Franks &#128355<br>theon_nd (1325) - Mongols &#128355<br>Maeglin (1154) - Romans &#128355",
-        "Team 2": "Sir Monkey (1210) - Khmer &#128355<br>\u4e0d\u5e2e\u5c31\u6295 (1215) - Japanese &#128355<br>dicopatito (1205) - Britons &#128355<br>\u5e7d\u7075 (1239) - Huns &#128355"
+        "Team 1": "Lobo de la Estepa (1240) - Goths &#128128;<br>Coquelicot (1257) - Franks &#128128;<br>theon_nd (1325) - Mongols &#128128;<br>Maeglin (1154) - Romans &#128128;",
+        "Team 2": "Sir Monkey (1210) - Khmer &#128081;<br>\u4e0d\u5e2e\u5c31\u6295 (1215) - Japanese &#128081;<br>dicopatito (1205) - Britons &#128081;<br>\u5e7d\u7075 (1239) - Huns &#128081;"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_coastal_forest.png' width='150rem' alt=''>",
@@ -20,7 +20,7 @@
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=383016130&profileId=6237950'>Download &#128190;</a>",
-        "Team 1": "Lobo de la Estepa (1240) - Goths &#128355<br>Maeglin (1154) - Romans &#128355<br>theon_nd (1325) - Mongols &#128355<br>Coquelicot (1257) - Franks &#128355",
-        "Team 2": "\u4e0d\u5e2e\u5c31\u6295 (1215) - Japanese &#128355<br>Sir Monkey (1210) - Khmer &#128355<br>\u5e7d\u7075 (1239) - Huns &#128355<br>dicopatito (1205) - Britons &#128355"
+        "Team 1": "Lobo de la Estepa (1240) - Goths &#128128;<br>Maeglin (1154) - Romans &#128128;<br>theon_nd (1325) - Mongols &#128128;<br>Coquelicot (1257) - Franks &#128128;",
+        "Team 2": "\u4e0d\u5e2e\u5c31\u6295 (1215) - Japanese &#128081;<br>Sir Monkey (1210) - Khmer &#128081;<br>\u5e7d\u7075 (1239) - Huns &#128081;<br>dicopatito (1205) - Britons &#128081;"
     }
 }
