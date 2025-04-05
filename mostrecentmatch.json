@@ -12,15 +12,15 @@
         "Team 2": "Sir Monkey (1210) - Khmer &#128081;<br>\u4e0d\u5e2e\u5c31\u6295 (1215) - Japanese &#128081;<br>dicopatito (1205) - Britons &#128081;<br>\u5e7d\u7075 (1239) - Huns &#128081;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_hideout.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=383216919&profileId=2233769'>Download &#128190;</a>",
-        "Team 1": "Gbeto Supastar (1221) - Vikings &#128081;<br>Xerg (1182) - Koreans &#128081;<br>-Jark- (1183) - Malians &#128081;<br>MM de G\u00dcEMES (1294) - Cumans &#128081;",
-        "Team 2": "jojeeojee (1288) - Khmer &#128128;<br>Nanox (1181) - Franks &#128128;<br>Sir Monkey (1211) - Malay &#128128;<br>HINDU (1191) - Khmer &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_land_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=383226193&profileId=5935484'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1178) - Vietnamese &#128355<br>Nanox (1151) - Huns &#128355<br>\u4e0d\u5e2e\u5c31\u6295 (1170) - Portuguese &#128355<br>ozzyhapdo (1147) - Celts &#128355",
+        "Team 2": "\u5341\u516b\u822c\u6b66\u827a (1161) - Franks &#128355<br>7x4ii3 (1132) - Teutons &#128355<br>Young Prince (1161) - Armenians &#128355<br>OneHandMen (1166) - Persians &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_hideout.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=383216919&profileId=4541755'>Download &#128190;</a>",
-        "Team 1": "MM de G\u00dcEMES (1294) - Cumans &#128081;<br>-Jark- (1183) - Malians &#128081;<br>Xerg (1182) - Koreans &#128081;<br>Gbeto Supastar (1221) - Vikings &#128081;",
-        "Team 2": "HINDU (1191) - Khmer &#128128;<br>Sir Monkey (1211) - Malay &#128128;<br>Nanox (1181) - Franks &#128128;<br>jojeeojee (1288) - Khmer &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_land_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=383226193&profileId=290309'>Download &#128190;</a>",
+        "Team 1": "\u4e0d\u5e2e\u5c31\u6295 (1170) - Portuguese &#128355<br>ozzyhapdo (1147) - Celts &#128355<br>Sir Monkey (1178) - Vietnamese &#128355<br>Nanox (1151) - Huns &#128355",
+        "Team 2": "OneHandMen (1166) - Persians &#128355<br>\u5341\u516b\u822c\u6b66\u827a (1161) - Franks &#128355<br>7x4ii3 (1132) - Teutons &#128355<br>Young Prince (1161) - Armenians &#128355"
     }
 }
