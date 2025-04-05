@@ -14,13 +14,13 @@
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_land_nomad.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=383226193&profileId=5935484'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1178) - Vietnamese &#128355<br>Nanox (1151) - Huns &#128355<br>\u4e0d\u5e2e\u5c31\u6295 (1170) - Portuguese &#128355<br>ozzyhapdo (1147) - Celts &#128355",
-        "Team 2": "\u5341\u516b\u822c\u6b66\u827a (1161) - Franks &#128355<br>7x4ii3 (1132) - Teutons &#128355<br>Young Prince (1161) - Armenians &#128355<br>OneHandMen (1166) - Persians &#128355"
+        "Team 1": "Sir Monkey (1178) - Vietnamese &#128128;<br>Nanox (1151) - Huns &#128128;<br>\u4e0d\u5e2e\u5c31\u6295 (1170) - Portuguese &#128128;<br>ozzyhapdo (1147) - Celts &#128128;",
+        "Team 2": "\u5341\u516b\u822c\u6b66\u827a (1161) - Franks &#128081;<br>7x4ii3 (1132) - Teutons &#128081;<br>Young Prince (1161) - Armenians &#128081;<br>OneHandMen (1166) - Persians &#128081;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_land_nomad.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=383226193&profileId=290309'>Download &#128190;</a>",
-        "Team 1": "\u4e0d\u5e2e\u5c31\u6295 (1170) - Portuguese &#128355<br>ozzyhapdo (1147) - Celts &#128355<br>Sir Monkey (1178) - Vietnamese &#128355<br>Nanox (1151) - Huns &#128355",
-        "Team 2": "OneHandMen (1166) - Persians &#128355<br>\u5341\u516b\u822c\u6b66\u827a (1161) - Franks &#128355<br>7x4ii3 (1132) - Teutons &#128355<br>Young Prince (1161) - Armenians &#128355"
+        "Team 1": "\u4e0d\u5e2e\u5c31\u6295 (1170) - Portuguese &#128128;<br>ozzyhapdo (1147) - Celts &#128128;<br>Sir Monkey (1178) - Vietnamese &#128128;<br>Nanox (1151) - Huns &#128128;",
+        "Team 2": "OneHandMen (1166) - Persians &#128081;<br>\u5341\u516b\u822c\u6b66\u827a (1161) - Franks &#128081;<br>7x4ii3 (1132) - Teutons &#128081;<br>Young Prince (1161) - Armenians &#128081;"
     }
 }
