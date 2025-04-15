@@ -12,15 +12,15 @@
         "Team 2": "It's 39 degrees here (1188) - Britons &#128128;<br>TooCool Peru (1273) - Franks &#128128;<br>Ricardo_ (1232) - Ethiopians &#128128;<br>BocaJuniorsElMasGrande (1226) - Magyars &#128128;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=385507044&profileId=4967114'>Download &#128190;</a>",
-        "Team 1": "Panamation (1267) - Cumans &#128081;<br>Crazy...!! (1166) - Bohemians &#128081;<br>Severus (1234) - Britons &#128081;<br>PuneMahaWarrior (1205) - Japanese &#128081;",
-        "Team 2": "Sir Monkey (1126) - Malay &#128128;<br>Nanox (1144) - Hindustanis &#128128;<br>WhyMe (1150) - Koreans &#128128;<br>Fs.\u00d4 FOKA (1169) - Franks &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_land_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=385530739&profileId=903496'>Download &#128190;</a>",
+        "Team 1": "T-800 (1075) - Magyars &#128355<br>djsuperguillermo (1111) - Lithuanians &#128355<br>Ninja (1121) - Teutons &#128355<br>ScrappyCoco (1127) - Saracens &#128355",
+        "Team 2": "Vagatela (1107) - Franks &#128355<br>Nanox (1131) - Huns &#128355<br>CarpKing14 (1088) - Turks &#128355<br>Sir Monkey (1114) - Vietnamese &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=385507044&profileId=439001'>Download &#128190;</a>",
-        "Team 1": "Panamation (1267) - Cumans &#128081;<br>PuneMahaWarrior (1205) - Japanese &#128081;<br>Severus (1234) - Britons &#128081;<br>Crazy...!! (1166) - Bohemians &#128081;",
-        "Team 2": "Sir Monkey (1126) - Malay &#128128;<br>Fs.\u00d4 FOKA (1169) - Franks &#128128;<br>WhyMe (1150) - Koreans &#128128;<br>Nanox (1144) - Hindustanis &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_land_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=385530739&profileId=903496'>Download &#128190;</a>",
+        "Team 1": "ScrappyCoco (1127) - Saracens &#128355<br>T-800 (1075) - Magyars &#128355<br>djsuperguillermo (1111) - Lithuanians &#128355<br>Ninja (1121) - Teutons &#128355",
+        "Team 2": "Nanox (1131) - Huns &#128355<br>Vagatela (1107) - Franks &#128355<br>CarpKing14 (1088) - Turks &#128355<br>Sir Monkey (1114) - Vietnamese &#128355"
     }
 }
