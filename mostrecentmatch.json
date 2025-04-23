@@ -8,8 +8,8 @@
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_lombardia.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=387475464&profileId=15369793'>Download &#128190;</a>",
-        "Team 1": "[\u0110a\u044fk]Carajo300>.< (1193) - Poles &#128355<br>Fridz (1227) - Turks &#128355<br>Vilela do Mato (1209) - Spanish &#128355<br>Dreamer (1241) - Saracens &#128355",
-        "Team 2": "jlk156 (1133) - Chinese &#128355<br>dicopatito (1211) - Koreans &#128355<br>Sir Monkey (1131) - Khmer &#128355<br>\u5343\u6728\u8fbe\u4eba (1212) - Ethiopians &#128355"
+        "Team 1": "[\u0110a\u044fk]Carajo300>.< (1193) - Poles &#128081;<br>Fridz (1227) - Turks &#128081;<br>Vilela do Mato (1209) - Spanish &#128081;<br>Dreamer (1241) - Saracens &#128081;",
+        "Team 2": "jlk156 (1133) - Chinese &#128128;<br>dicopatito (1211) - Koreans &#128128;<br>Sir Monkey (1131) - Khmer &#128128;<br>\u5343\u6728\u8fbe\u4eba (1212) - Ethiopians &#128128;"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
@@ -20,7 +20,7 @@
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_lombardia.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=387475464&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "Vilela do Mato (1209) - Spanish &#128355<br>Fridz (1227) - Turks &#128355<br>[\u0110a\u044fk]Carajo300>.< (1193) - Poles &#128355<br>Dreamer (1241) - Saracens &#128355",
-        "Team 2": "dicopatito (1211) - Koreans &#128355<br>jlk156 (1133) - Chinese &#128355<br>\u5343\u6728\u8fbe\u4eba (1212) - Ethiopians &#128355<br>Sir Monkey (1131) - Khmer &#128355"
+        "Team 1": "Vilela do Mato (1209) - Spanish &#128081;<br>Fridz (1227) - Turks &#128081;<br>[\u0110a\u044fk]Carajo300>.< (1193) - Poles &#128081;<br>Dreamer (1241) - Saracens &#128081;",
+        "Team 2": "dicopatito (1211) - Koreans &#128128;<br>jlk156 (1133) - Chinese &#128128;<br>\u5343\u6728\u8fbe\u4eba (1212) - Ethiopians &#128128;<br>Sir Monkey (1131) - Khmer &#128128;"
     }
 }
