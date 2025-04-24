@@ -8,19 +8,19 @@
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=387672307&profileId=19670335'>Download &#128190;</a>",
-        "Team 1": "Nanox (1175) - Huns &#128355<br>dicopatito (1196) - Dravidians &#128355<br>MrJaykey (1211) - Bengalis &#128355<br>Sir Monkey (1130) - Vietnamese &#128355",
-        "Team 2": "KootH. (1195) - Persians &#128355<br>SebaT420 (1203) - Dravidians &#128355<br>ZhuDarkBian (1167) - Persians &#128355<br>lanlinxxs (1192) - Japanese &#128355"
+        "Team 1": "Nanox (1175) - Huns &#128081;<br>dicopatito (1196) - Dravidians &#128081;<br>MrJaykey (1211) - Bengalis &#128081;<br>Sir Monkey (1130) - Vietnamese &#128081;",
+        "Team 2": "KootH. (1195) - Persians &#128128;<br>SebaT420 (1203) - Dravidians &#128128;<br>ZhuDarkBian (1167) - Persians &#128128;<br>lanlinxxs (1192) - Japanese &#128128;"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=387672307&profileId=5444451'>Download &#128190;</a>",
-        "Team 1": "dicopatito (1196) - Dravidians &#128355<br>MrJaykey (1211) - Bengalis &#128355<br>Sir Monkey (1130) - Vietnamese &#128355<br>Nanox (1175) - Huns &#128355",
-        "Team 2": "SebaT420 (1203) - Dravidians &#128355<br>lanlinxxs (1192) - Japanese &#128355<br>ZhuDarkBian (1167) - Persians &#128355<br>KootH. (1195) - Persians &#128355"
+        "Team 1": "dicopatito (1196) - Dravidians &#128081;<br>MrJaykey (1211) - Bengalis &#128081;<br>Sir Monkey (1130) - Vietnamese &#128081;<br>Nanox (1175) - Huns &#128081;",
+        "Team 2": "SebaT420 (1203) - Dravidians &#128128;<br>lanlinxxs (1192) - Japanese &#128128;<br>ZhuDarkBian (1167) - Persians &#128128;<br>KootH. (1195) - Persians &#128128;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=387672307&profileId=1570149'>Download &#128190;</a>",
-        "Team 1": "dicopatito (1196) - Dravidians &#128355<br>MrJaykey (1211) - Bengalis &#128355<br>Sir Monkey (1130) - Vietnamese &#128355<br>Nanox (1175) - Huns &#128355",
-        "Team 2": "lanlinxxs (1192) - Japanese &#128355<br>ZhuDarkBian (1167) - Persians &#128355<br>KootH. (1195) - Persians &#128355<br>SebaT420 (1203) - Dravidians &#128355"
+        "Team 1": "dicopatito (1196) - Dravidians &#128081;<br>MrJaykey (1211) - Bengalis &#128081;<br>Sir Monkey (1130) - Vietnamese &#128081;<br>Nanox (1175) - Huns &#128081;",
+        "Team 2": "lanlinxxs (1192) - Japanese &#128128;<br>ZhuDarkBian (1167) - Persians &#128128;<br>KootH. (1195) - Persians &#128128;<br>SebaT420 (1203) - Dravidians &#128128;"
     }
 }
