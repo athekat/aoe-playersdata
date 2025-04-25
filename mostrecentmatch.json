@@ -7,9 +7,9 @@
     },
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=387905723&profileId=3562330'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1177) - Khmer &#128355<br>\u80fd\u4e0d\u80fd\u8ba9\u6211\u6bcf\u6b21\u4e0d\u662fSVP (1145) - Turks &#128355<br>passerchen (1240) - Cumans &#128355<br>dicopatito (1212) - Armenians &#128355",
-        "Team 2": "\u51a0\u5e0c (1220) - Turks &#128355<br>sTaRt 2 own (1242) - Saracens &#128355<br>\u7c73\u996d (1222) - Franks &#128355<br>Taiwan_wei (1111) - Vietnamese &#128355"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=387909932&profileId=746421'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1194) - Khmer &#128128;<br>Ansscar (1173) - Lithuanians &#128128;<br>richyhit98 (1152) - Sicilians &#128128;<br>dicopatito (1227) - Armenians &#128128;",
+        "Team 2": "BadB\u00e4rchen (1210) - Cumans &#128081;<br>\u4e0d\u8981\u9b27\u4e86~\u5feb\u653b\u5566 (1190) - Persians &#128081;<br>oriogogogo (1113) - Aztecs &#128081;<br>[GAYM]AndiGoldberger (1219) - Portuguese &#128081;"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/cm_generic.png' width='150rem' alt=''>",
@@ -19,8 +19,8 @@
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=387905723&profileId=289030'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1177) - Khmer &#128355<br>dicopatito (1212) - Armenians &#128355<br>passerchen (1240) - Cumans &#128355<br>\u80fd\u4e0d\u80fd\u8ba9\u6211\u6bcf\u6b21\u4e0d\u662fSVP (1145) - Turks &#128355",
-        "Team 2": "Taiwan_wei (1111) - Vietnamese &#128355<br>\u51a0\u5e0c (1220) - Turks &#128355<br>\u7c73\u996d (1222) - Franks &#128355<br>sTaRt 2 own (1242) - Saracens &#128355"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=387909932&profileId=746421'>Download &#128190;</a>",
+        "Team 1": "dicopatito (1227) - Armenians &#128128;<br>richyhit98 (1152) - Sicilians &#128128;<br>Sir Monkey (1194) - Khmer &#128128;<br>Ansscar (1173) - Lithuanians &#128128;",
+        "Team 2": "BadB\u00e4rchen (1210) - Cumans &#128081;<br>oriogogogo (1113) - Aztecs &#128081;<br>\u4e0d\u8981\u9b27\u4e86~\u5feb\u653b\u5566 (1190) - Persians &#128081;<br>[GAYM]AndiGoldberger (1219) - Portuguese &#128081;"
     }
 }
