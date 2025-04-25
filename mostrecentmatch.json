@@ -6,10 +6,10 @@
         "Team 2": "alanrc_86 (1215) - Vietnamese &#128081;<br>\u6751\u5934\u5c0f\u6d41\u6c13 (1201) - Mayans &#128081;<br>gab0z (1184) - Saracens &#128081;<br>w45512816 (1194) - Burmese &#128081;"
     },
     "Dicopatito": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=387672307&profileId=19670335'>Download &#128190;</a>",
-        "Team 1": "Nanox (1175) - Huns &#128081;<br>dicopatito (1196) - Dravidians &#128081;<br>MrJaykey (1211) - Bengalis &#128081;<br>Sir Monkey (1130) - Vietnamese &#128081;",
-        "Team 2": "KootH. (1195) - Persians &#128128;<br>SebaT420 (1203) - Dravidians &#128128;<br>ZhuDarkBian (1167) - Persians &#128128;<br>lanlinxxs (1192) - Japanese &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=387905723&profileId=3562330'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1177) - Khmer &#128355<br>\u80fd\u4e0d\u80fd\u8ba9\u6211\u6bcf\u6b21\u4e0d\u662fSVP (1145) - Turks &#128355<br>passerchen (1240) - Cumans &#128355<br>dicopatito (1212) - Armenians &#128355",
+        "Team 2": "\u51a0\u5e0c (1220) - Turks &#128355<br>sTaRt 2 own (1242) - Saracens &#128355<br>\u7c73\u996d (1222) - Franks &#128355<br>Taiwan_wei (1111) - Vietnamese &#128355"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/cm_generic.png' width='150rem' alt=''>",
@@ -18,9 +18,9 @@
         "Team 2": "noziemann (1130) - Romans &#128128;<br>Oli (1154) - Hindustanis &#128128;<br>Sir Monkey (1147) - Khmer &#128128;<br>Nanox (1175) - Mayans &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/cm_generic.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=387843603&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "Luffy #\ud835\ude42\ud835\ude4f\ud835\ude4c\ud835\ude45\ud835\ude45 (970) - Magyars &#128128;<br>Matias11 (1100) - Bulgarians &#128128;<br>Oznerap22 (1136) - Bohemians &#128128;<br>Tio GG 800 (1219) - Gurjaras &#128128;",
-        "Team 2": "Siberianlion (1094) - Franks &#128081;<br>liujiahong833 (1166) - Saracens &#128081;<br>\u5c0f\u99ac (1085) - Mayans &#128081;<br>Sir Monkey (1146) - Khmer &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=387905723&profileId=289030'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1177) - Khmer &#128355<br>dicopatito (1212) - Armenians &#128355<br>passerchen (1240) - Cumans &#128355<br>\u80fd\u4e0d\u80fd\u8ba9\u6211\u6bcf\u6b21\u4e0d\u662fSVP (1145) - Turks &#128355",
+        "Team 2": "Taiwan_wei (1111) - Vietnamese &#128355<br>\u51a0\u5e0c (1220) - Turks &#128355<br>\u7c73\u996d (1222) - Franks &#128355<br>sTaRt 2 own (1242) - Saracens &#128355"
     }
 }
