@@ -8,8 +8,8 @@
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_lombardia.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=387917123&profileId=1680716'>Download &#128190;</a>",
-        "Team 1": "\u6296\u97f3 \u7231\u5728\u5fc3\u4e2d (1229) - Bohemians &#128355<br>Nguy\u1ec5n Nam Kh\u00e1nh (1144) - Mongols &#128355<br>367996361 (1181) - Japanese &#128355<br>N T K (1358) - Mayans &#128355",
-        "Team 2": "President47Sux (1173) - Poles &#128355<br>Sir Monkey (1196) - Khmer &#128355<br>dicopatito (1226) - Tatars &#128355<br>SlyFever (1263) - Georgians &#128355"
+        "Team 1": "\u6296\u97f3 \u7231\u5728\u5fc3\u4e2d (1229) - Bohemians &#128081;<br>Nguy\u1ec5n Nam Kh\u00e1nh (1144) - Mongols &#128081;<br>367996361 (1181) - Japanese &#128081;<br>N T K (1358) - Mayans &#128081;",
+        "Team 2": "President47Sux (1173) - Poles &#128128;<br>Sir Monkey (1196) - Khmer &#128128;<br>dicopatito (1226) - Tatars &#128128;<br>SlyFever (1263) - Georgians &#128128;"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/cm_generic.png' width='150rem' alt=''>",
@@ -20,7 +20,7 @@
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_lombardia.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=387917123&profileId=1680716'>Download &#128190;</a>",
-        "Team 1": "Nguy\u1ec5n Nam Kh\u00e1nh (1144) - Mongols &#128355<br>\u6296\u97f3 \u7231\u5728\u5fc3\u4e2d (1229) - Bohemians &#128355<br>367996361 (1181) - Japanese &#128355<br>N T K (1358) - Mayans &#128355",
-        "Team 2": "President47Sux (1173) - Poles &#128355<br>Sir Monkey (1196) - Khmer &#128355<br>dicopatito (1226) - Tatars &#128355<br>SlyFever (1263) - Georgians &#128355"
+        "Team 1": "Nguy\u1ec5n Nam Kh\u00e1nh (1144) - Mongols &#128081;<br>\u6296\u97f3 \u7231\u5728\u5fc3\u4e2d (1229) - Bohemians &#128081;<br>367996361 (1181) - Japanese &#128081;<br>N T K (1358) - Mayans &#128081;",
+        "Team 2": "President47Sux (1173) - Poles &#128128;<br>Sir Monkey (1196) - Khmer &#128128;<br>dicopatito (1226) - Tatars &#128128;<br>SlyFever (1263) - Georgians &#128128;"
     }
 }
