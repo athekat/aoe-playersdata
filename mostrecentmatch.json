@@ -13,14 +13,14 @@
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/cm_generic.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=387822807&profileId=439001'>Download &#128190;</a>",
-        "Team 1": "bossax (989) - Mongols &#128081;<br>thonec (1245) - Bulgarians &#128081;<br>Alita.de.Mosca (1130) - Byzantines &#128081;<br>Xoki Pikeman (1244) - Hindustanis &#128081;",
-        "Team 2": "noziemann (1130) - Romans &#128128;<br>Oli (1154) - Hindustanis &#128128;<br>Sir Monkey (1147) - Khmer &#128128;<br>Nanox (1175) - Mayans &#128128;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=388558621&profileId=439001'>Download &#128190;</a>",
+        "Team 1": "379027484 (1092) - Koreans &#128355<br>\u4e00\u5251\u6a2a\u5929 (1204) - Franks &#128355<br>(\u3002\u4eba\u3002) (1177) - Huns &#128355<br>Franjin (1212) - Britons &#128355",
+        "Team 2": "Schultenbr\u00e4u is King (1201) - Burgundians &#128355<br>Sir Monkey (1215) - Malay &#128355<br>YouTay (1176) - Portuguese &#128355<br>Nanox (1158) - Hindustanis &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=388447835&profileId=18807964'>Download &#128190;</a>",
-        "Team 1": "XZ.Lumber.AX (1192) - Persians &#128128;<br>\u5929\u9ed1 (1217) - Slavs &#128128;<br>JorgeQuins (1196) - Goths &#128128;<br>Sauri17 (1208) - Bengalis &#128128;",
-        "Team 2": "xinfanyo (1201) - Romans &#128081;<br>MeXxX (1194) - Mongols &#128081;<br>Sir Monkey (1199) - Khmer &#128081;<br>El coco (1214) - Celts &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/cm_generic.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=388558621&profileId=439001'>Download &#128190;</a>",
+        "Team 1": "\u4e00\u5251\u6a2a\u5929 (1204) - Franks &#128355<br>(\u3002\u4eba\u3002) (1177) - Huns &#128355<br>Franjin (1212) - Britons &#128355<br>379027484 (1092) - Koreans &#128355",
+        "Team 2": "Schultenbr\u00e4u is King (1201) - Burgundians &#128355<br>Sir Monkey (1215) - Malay &#128355<br>YouTay (1176) - Portuguese &#128355<br>Nanox (1158) - Hindustanis &#128355"
     }
 }
