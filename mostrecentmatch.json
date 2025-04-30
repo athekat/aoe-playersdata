@@ -2,25 +2,25 @@
     "Carpincho": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_lombardia.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=389064292&profileId=21711809'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1180) - Japanese &#128355<br>dicopatito (1208) - Vietnamese &#128355<br>Nanox (1154) - Malay &#128355<br>Carpincho (1209) - Byzantines &#128355",
-        "Team 2": "Noobis (1160) - Turks &#128355<br>akmfans (1219) - Dravidians &#128355<br>Browndog2_96 (1149) - Persians &#128355<br>The Michavi (1192) - Italians &#128355"
+        "Team 1": "Sir Monkey (1180) - Japanese &#128081;<br>dicopatito (1208) - Vietnamese &#128081;<br>Nanox (1154) - Malay &#128081;<br>Carpincho (1209) - Byzantines &#128081;",
+        "Team 2": "Noobis (1160) - Turks &#128128;<br>akmfans (1219) - Dravidians &#128128;<br>Browndog2_96 (1149) - Persians &#128128;<br>The Michavi (1192) - Italians &#128128;"
     },
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_lombardia.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=389064292&profileId=21711809'>Download &#128190;</a>",
-        "Team 1": "dicopatito (1208) - Vietnamese &#128355<br>Nanox (1154) - Malay &#128355<br>Carpincho (1209) - Byzantines &#128355<br>Sir Monkey (1180) - Japanese &#128355",
-        "Team 2": "Noobis (1160) - Turks &#128355<br>akmfans (1219) - Dravidians &#128355<br>Browndog2_96 (1149) - Persians &#128355<br>The Michavi (1192) - Italians &#128355"
+        "Team 1": "dicopatito (1208) - Vietnamese &#128081;<br>Nanox (1154) - Malay &#128081;<br>Carpincho (1209) - Byzantines &#128081;<br>Sir Monkey (1180) - Japanese &#128081;",
+        "Team 2": "Noobis (1160) - Turks &#128128;<br>akmfans (1219) - Dravidians &#128128;<br>Browndog2_96 (1149) - Persians &#128128;<br>The Michavi (1192) - Italians &#128128;"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_lombardia.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=389064292&profileId=21993670'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1180) - Japanese &#128355<br>dicopatito (1208) - Vietnamese &#128355<br>Nanox (1154) - Malay &#128355<br>Carpincho (1209) - Byzantines &#128355",
-        "Team 2": "akmfans (1219) - Dravidians &#128355<br>Browndog2_96 (1149) - Persians &#128355<br>The Michavi (1192) - Italians &#128355<br>Noobis (1160) - Turks &#128355"
+        "Team 1": "Sir Monkey (1180) - Japanese &#128081;<br>dicopatito (1208) - Vietnamese &#128081;<br>Nanox (1154) - Malay &#128081;<br>Carpincho (1209) - Byzantines &#128081;",
+        "Team 2": "akmfans (1219) - Dravidians &#128128;<br>Browndog2_96 (1149) - Persians &#128128;<br>The Michavi (1192) - Italians &#128128;<br>Noobis (1160) - Turks &#128128;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_lombardia.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=389064292&profileId=2262875'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1180) - Japanese &#128355<br>Carpincho (1209) - Byzantines &#128355<br>Nanox (1154) - Malay &#128355<br>dicopatito (1208) - Vietnamese &#128355",
-        "Team 2": "akmfans (1219) - Dravidians &#128355<br>Noobis (1160) - Turks &#128355<br>The Michavi (1192) - Italians &#128355<br>Browndog2_96 (1149) - Persians &#128355"
+        "Team 1": "Sir Monkey (1180) - Japanese &#128081;<br>Carpincho (1209) - Byzantines &#128081;<br>Nanox (1154) - Malay &#128081;<br>dicopatito (1208) - Vietnamese &#128081;",
+        "Team 2": "akmfans (1219) - Dravidians &#128128;<br>Noobis (1160) - Turks &#128128;<br>The Michavi (1192) - Italians &#128128;<br>Browndog2_96 (1149) - Persians &#128128;"
     }
 }
