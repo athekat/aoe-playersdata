@@ -1,15 +1,15 @@
 {
     "Carpincho": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=389788741&profileId=6446904'>Download &#128190;</a>",
-        "Team 1": "EL MANCOSAI (1210) - Khmer &#128355<br>midgardsammael (1275) - Chinese &#128355<br>Sapito (983) - Turks &#128355<br>Alejandrito (1223) - Cumans &#128355",
-        "Team 2": "dicopatito (1181) - Armenians &#128355<br>Sir Monkey (1035) - Khmer &#128355<br>Berseker39 (1168) - Burmese &#128355<br>Carpincho (1224) - Franks &#128355"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=389795498&profileId=6446904'>Download &#128190;</a>",
+        "Team 1": "Alejandrito (1204) - Cumans &#128355<br>midgardsammael (1254) - Chinese &#128355<br>Sapito (974) - Turks &#128355<br>EL MANCOSAI (1191) - Italians &#128355",
+        "Team 2": "dicopatito (1197) - Armenians &#128355<br>Therakeking (1179) - Ethiopians &#128355<br>Sir Monkey (1057) - Khmer &#128355<br>Carpincho (1238) - Franks &#128355"
     },
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=389788741&profileId=2340105'>Download &#128190;</a>",
-        "Team 1": "EL MANCOSAI (1210) - Khmer &#128355<br>Alejandrito (1223) - Cumans &#128355<br>Sapito (983) - Turks &#128355<br>midgardsammael (1275) - Chinese &#128355",
-        "Team 2": "dicopatito (1181) - Armenians &#128355<br>Sir Monkey (1035) - Khmer &#128355<br>Carpincho (1224) - Franks &#128355<br>Berseker39 (1168) - Burmese &#128355"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=389795498&profileId=6446904'>Download &#128190;</a>",
+        "Team 1": "Alejandrito (1204) - Cumans &#128355<br>midgardsammael (1254) - Chinese &#128355<br>Sapito (974) - Turks &#128355<br>EL MANCOSAI (1191) - Italians &#128355",
+        "Team 2": "dicopatito (1197) - Armenians &#128355<br>Therakeking (1179) - Ethiopians &#128355<br>Sir Monkey (1057) - Khmer &#128355<br>Carpincho (1238) - Franks &#128355"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
@@ -19,8 +19,8 @@
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=389788741&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "EL MANCOSAI (1210) - Khmer &#128355<br>midgardsammael (1275) - Chinese &#128355<br>Sapito (983) - Turks &#128355<br>Alejandrito (1223) - Cumans &#128355",
-        "Team 2": "dicopatito (1181) - Armenians &#128355<br>Berseker39 (1168) - Burmese &#128355<br>Carpincho (1224) - Franks &#128355<br>Sir Monkey (1035) - Khmer &#128355"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=389795498&profileId=6446904'>Download &#128190;</a>",
+        "Team 1": "EL MANCOSAI (1191) - Italians &#128355<br>Alejandrito (1204) - Cumans &#128355<br>midgardsammael (1254) - Chinese &#128355<br>Sapito (974) - Turks &#128355",
+        "Team 2": "dicopatito (1197) - Armenians &#128355<br>Therakeking (1179) - Ethiopians &#128355<br>Sir Monkey (1057) - Khmer &#128355<br>Carpincho (1238) - Franks &#128355"
     }
 }
