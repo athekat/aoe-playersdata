@@ -2,14 +2,14 @@
     "Carpincho": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=389795498&profileId=6446904'>Download &#128190;</a>",
-        "Team 1": "Alejandrito (1204) - Cumans &#128355<br>midgardsammael (1254) - Chinese &#128355<br>Sapito (974) - Turks &#128355<br>EL MANCOSAI (1191) - Italians &#128355",
-        "Team 2": "dicopatito (1197) - Armenians &#128355<br>Therakeking (1179) - Ethiopians &#128355<br>Sir Monkey (1057) - Khmer &#128355<br>Carpincho (1238) - Franks &#128355"
+        "Team 1": "Alejandrito (1204) - Cumans &#128128;<br>midgardsammael (1254) - Chinese &#128128;<br>Sapito (974) - Turks &#128128;<br>EL MANCOSAI (1191) - Italians &#128128;",
+        "Team 2": "dicopatito (1197) - Armenians &#128081;<br>Therakeking (1179) - Ethiopians &#128081;<br>Sir Monkey (1057) - Khmer &#128081;<br>Carpincho (1238) - Franks &#128081;"
     },
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=389795498&profileId=6446904'>Download &#128190;</a>",
-        "Team 1": "Alejandrito (1204) - Cumans &#128355<br>midgardsammael (1254) - Chinese &#128355<br>Sapito (974) - Turks &#128355<br>EL MANCOSAI (1191) - Italians &#128355",
-        "Team 2": "dicopatito (1197) - Armenians &#128355<br>Therakeking (1179) - Ethiopians &#128355<br>Sir Monkey (1057) - Khmer &#128355<br>Carpincho (1238) - Franks &#128355"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=389806800&profileId=3315566'>Download &#128190;</a>",
+        "Team 1": "Ghost_Ozz (1179) - Byzantines &#128355<br>Sir Monkey (1098) - Khmer &#128355<br>dicopatito (1226) - Armenians &#128355<br>\u82b1\u4e3d\u5a1c (1195) - Hindustanis &#128355",
+        "Team 2": "\u6e38\u5ba2\u4efb\u51b2\u4e36 (1197) - Hindustanis &#128355<br>50232516 (1180) - Spanish &#128355<br>SirEdward (1195) - Burgundians &#128355<br>SithManu (1211) - Cumans &#128355"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
@@ -19,8 +19,8 @@
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=389795498&profileId=6446904'>Download &#128190;</a>",
-        "Team 1": "EL MANCOSAI (1191) - Italians &#128355<br>Alejandrito (1204) - Cumans &#128355<br>midgardsammael (1254) - Chinese &#128355<br>Sapito (974) - Turks &#128355",
-        "Team 2": "dicopatito (1197) - Armenians &#128355<br>Therakeking (1179) - Ethiopians &#128355<br>Sir Monkey (1057) - Khmer &#128355<br>Carpincho (1238) - Franks &#128355"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=389806800&profileId=1066883'>Download &#128190;</a>",
+        "Team 1": "Ghost_Ozz (1179) - Byzantines &#128355<br>Sir Monkey (1098) - Khmer &#128355<br>dicopatito (1226) - Armenians &#128355<br>\u82b1\u4e3d\u5a1c (1195) - Hindustanis &#128355",
+        "Team 2": "50232516 (1180) - Spanish &#128355<br>SirEdward (1195) - Burgundians &#128355<br>SithManu (1211) - Cumans &#128355<br>\u6e38\u5ba2\u4efb\u51b2\u4e36 (1197) - Hindustanis &#128355"
     }
 }
