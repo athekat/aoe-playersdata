@@ -12,15 +12,15 @@
         "Team 2": "Carpincho (1272) - Mongols &#128081;<br>Nanox (1119) - Hindustanis &#128081;<br>Bug (1172) - Portuguese &#128081;<br>dicopatito (1233) - Armenians &#128081;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=390981918&profileId=766009'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (992) - Vietnamese &#128355<br>Nanox (1139) - Huns &#128355<br>aric.fredericks (1030) - Wei &#128355<br>OWL | Dr. Jesucristotl II (951) - Shu &#128355",
-        "Team 2": "frankocat (1093) - Wu &#128355<br>daitoudaguo (1077) - Berbers &#128355<br>Mysterious Case (987) - Britons &#128355<br>Gg to everyone except goths (971) - Jurchens &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=390999630&profileId=11359565'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (987) - Khmer &#128355<br>ibtip (1085) - Berbers &#128355<br>Nanox (1115) - Huns &#128355<br>tarleton25 (1050) - Vietnamese &#128355",
+        "Team 2": "SeekyPeeky (1012) - Wei &#128355<br>H3adak3 (1064) - Spanish &#128355<br>HYUCK (1111) - Celts &#128355<br>mute old six (1073) - Shu &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=390981918&profileId=3527988'>Download &#128190;</a>",
-        "Team 1": "OWL | Dr. Jesucristotl II (951) - Shu &#128355<br>aric.fredericks (1030) - Wei &#128355<br>Nanox (1139) - Huns &#128355<br>Sir Monkey (992) - Vietnamese &#128355",
-        "Team 2": "Gg to everyone except goths (971) - Jurchens &#128355<br>Mysterious Case (987) - Britons &#128355<br>daitoudaguo (1077) - Berbers &#128355<br>frankocat (1093) - Wu &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=390999630&profileId=3860830'>Download &#128190;</a>",
+        "Team 1": "ibtip (1085) - Berbers &#128355<br>Nanox (1115) - Huns &#128355<br>tarleton25 (1050) - Vietnamese &#128355<br>Sir Monkey (987) - Khmer &#128355",
+        "Team 2": "H3adak3 (1064) - Spanish &#128355<br>HYUCK (1111) - Celts &#128355<br>mute old six (1073) - Shu &#128355<br>SeekyPeeky (1012) - Wei &#128355"
     }
 }
