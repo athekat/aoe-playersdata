@@ -2,25 +2,25 @@
     "Carpincho": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_megarandom.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=390773276&profileId=18795703'>Download &#128190;</a>",
-        "Team 1": "jjb707 (1219) - Ethiopians &#128128;<br>Yahms (1236) - Indians &#128128;<br>BOB LOBLAW (1222) - Vietnamese &#128128;<br>RED (1163) - Lithuanians &#128128;",
+        "Team 1": "jjb707 (1219) - Ethiopians &#128128;<br>Yahms (1236) - Jurchens &#128128;<br>BOB LOBLAW (1222) - Vietnamese &#128128;<br>RED (1163) - Lithuanians &#128128;",
         "Team 2": "Nanox (1119) - Hindustanis &#128081;<br>Carpincho (1272) - Mongols &#128081;<br>dicopatito (1233) - Armenians &#128081;<br>Bug (1172) - Portuguese &#128081;"
     },
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_megarandom.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=390773276&profileId=6237950'>Download &#128190;</a>",
-        "Team 1": "Yahms (1236) - Indians &#128128;<br>jjb707 (1219) - Ethiopians &#128128;<br>RED (1163) - Lithuanians &#128128;<br>BOB LOBLAW (1222) - Vietnamese &#128128;",
+        "Team 1": "Yahms (1236) - Jurchens &#128128;<br>jjb707 (1219) - Ethiopians &#128128;<br>RED (1163) - Lithuanians &#128128;<br>BOB LOBLAW (1222) - Vietnamese &#128128;",
         "Team 2": "Carpincho (1272) - Mongols &#128081;<br>Nanox (1119) - Hindustanis &#128081;<br>Bug (1172) - Portuguese &#128081;<br>dicopatito (1233) - Armenians &#128081;"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=390999630&profileId=11359565'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (987) - Khmer &#128355<br>ibtip (1085) - Berbers &#128355<br>Nanox (1115) - Huns &#128355<br>tarleton25 (1050) - Vietnamese &#128355",
-        "Team 2": "SeekyPeeky (1012) - Wei &#128355<br>H3adak3 (1064) - Spanish &#128355<br>HYUCK (1111) - Celts &#128355<br>mute old six (1073) - Shu &#128355"
+        "Team 1": "Sir Monkey (987) - Khmer &#128081;<br>ibtip (1085) - Berbers &#128081;<br>Nanox (1115) - Huns &#128081;<br>tarleton25 (1050) - Vietnamese &#128081;",
+        "Team 2": "SeekyPeeky (1012) - Wei &#128128;<br>H3adak3 (1064) - Spanish &#128128;<br>HYUCK (1111) - Celts &#128128;<br>mute old six (1073) - Shu &#128128;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=390999630&profileId=3860830'>Download &#128190;</a>",
-        "Team 1": "ibtip (1085) - Berbers &#128355<br>Nanox (1115) - Huns &#128355<br>tarleton25 (1050) - Vietnamese &#128355<br>Sir Monkey (987) - Khmer &#128355",
-        "Team 2": "H3adak3 (1064) - Spanish &#128355<br>HYUCK (1111) - Celts &#128355<br>mute old six (1073) - Shu &#128355<br>SeekyPeeky (1012) - Wei &#128355"
+        "Team 1": "ibtip (1085) - Berbers &#128081;<br>Nanox (1115) - Huns &#128081;<br>tarleton25 (1050) - Vietnamese &#128081;<br>Sir Monkey (987) - Khmer &#128081;",
+        "Team 2": "H3adak3 (1064) - Spanish &#128128;<br>HYUCK (1111) - Celts &#128128;<br>mute old six (1073) - Shu &#128128;<br>SeekyPeeky (1012) - Wei &#128128;"
     }
 }
