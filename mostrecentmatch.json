@@ -6,10 +6,10 @@
         "Team 2": "Nanox (1119) - Hindustanis &#128081;<br>Carpincho (1272) - Mongols &#128081;<br>dicopatito (1233) - Armenians &#128081;<br>Bug (1172) - Portuguese &#128081;"
     },
     "Dicopatito": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=391529792&profileId=1719718'>Download &#128190;</a>",
-        "Team 1": "dicopatito (1300) - Dravidians &#128355<br>\u5ff1\u5ff1 (1212) - Khitans &#128355<br>Sir Monkey (1023) - Vietnamese &#128355<br>fyerlang (1154) - Franks &#128355",
-        "Team 2": "\u524d\u4e09\u5341\u5206\u949f\u6ca1\u6709\u6211 (1262) - Goths &#128355<br>yo_ChuckDeezy (1190) - Wu &#128355<br>The_Valhalla (1229) - Huns &#128355<br>\u4e0d\u8def\u8def (1228) - Italians &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_megarandom.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=391538243&profileId=5023494'>Download &#128190;</a>",
+        "Team 1": "ZamSerg (1128) - Mongols &#128355<br>dicopatito (1259) - Armenians &#128355<br>corndog (1159) - Inca &#128355<br>Sir Monkey (1004) - Khmer &#128355",
+        "Team 2": "CuBeo (1138) - Vietnamese &#128355<br>gab0z (1112) - Wei &#128355<br>DaiMao (1163) - Mongols &#128355<br>Miffybaba (1121) - Spanish &#128355"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
@@ -18,9 +18,9 @@
         "Team 2": "Luxso (1069) - Sicilians &#128081;<br>Alessa (1018) - Persians &#128081;<br>\u6709\u66f8\u904e\u6c92\u5e15\u904e (1060) - Shu &#128081;<br>Alive (1051) - Huns &#128081;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=391529792&profileId=1680790'>Download &#128190;</a>",
-        "Team 1": "dicopatito (1300) - Dravidians &#128355<br>fyerlang (1154) - Franks &#128355<br>Sir Monkey (1023) - Vietnamese &#128355<br>\u5ff1\u5ff1 (1212) - Khitans &#128355",
-        "Team 2": "\u524d\u4e09\u5341\u5206\u949f\u6ca1\u6709\u6211 (1262) - Goths &#128355<br>\u4e0d\u8def\u8def (1228) - Italians &#128355<br>The_Valhalla (1229) - Huns &#128355<br>yo_ChuckDeezy (1190) - Wu &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_megarandom.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=391538243&profileId=5023494'>Download &#128190;</a>",
+        "Team 1": "ZamSerg (1128) - Mongols &#128355<br>corndog (1159) - Inca &#128355<br>Sir Monkey (1004) - Khmer &#128355<br>dicopatito (1259) - Armenians &#128355",
+        "Team 2": "CuBeo (1138) - Vietnamese &#128355<br>gab0z (1112) - Wei &#128355<br>DaiMao (1163) - Mongols &#128355<br>Miffybaba (1121) - Spanish &#128355"
     }
 }
