@@ -6,10 +6,10 @@
         "Team 2": "Nanox (1119) - Hindustanis &#128081;<br>Carpincho (1272) - Mongols &#128081;<br>dicopatito (1233) - Armenians &#128081;<br>Bug (1172) - Portuguese &#128081;"
     },
     "Dicopatito": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=391485513&profileId=6775956'>Download &#128190;</a>",
-        "Team 1": "all peacocks are the same (1308) - Slavs &#128128;<br>Intra; King of Swords (1290) - Jurchens &#128128;<br>Kasper (1284) - Teutons &#128128;",
-        "Team 2": "syaltamimi (1318) - Saracens &#128081;<br>dicopatito (1284) - Dravidians &#128081;<br>i'm Bina (1282) - Japanese &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=391529792&profileId=1719718'>Download &#128190;</a>",
+        "Team 1": "dicopatito (1300) - Dravidians &#128355<br>\u5ff1\u5ff1 (1212) - Khitans &#128355<br>Sir Monkey (1023) - Vietnamese &#128355<br>fyerlang (1154) - Franks &#128355",
+        "Team 2": "\u524d\u4e09\u5341\u5206\u949f\u6ca1\u6709\u6211 (1262) - Goths &#128355<br>yo_ChuckDeezy (1190) - Wu &#128355<br>The_Valhalla (1229) - Huns &#128355<br>\u4e0d\u8def\u8def (1228) - Italians &#128355"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
@@ -18,9 +18,9 @@
         "Team 2": "Luxso (1069) - Sicilians &#128081;<br>Alessa (1018) - Persians &#128081;<br>\u6709\u66f8\u904e\u6c92\u5e15\u904e (1060) - Shu &#128081;<br>Alive (1051) - Huns &#128081;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=391421013&profileId=12702771'>Download &#128190;</a>",
-        "Team 1": "Lancelot_ (1092) - Maya &#128128;<br>Sir Monkey (1037) - Vietnamese &#128128;<br>STEPBROTHER (1100) - Spanish &#128128;<br>Carnivore Gary (1069) - Wei &#128128;",
-        "Team 2": "rain (1100) - Hindustanis &#128081;<br>Guinai (1102) - Georgians &#128081;<br>Cerdo (1037) - Bengalis &#128081;<br>Senninho (1055) - Spanish &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=391529792&profileId=1680790'>Download &#128190;</a>",
+        "Team 1": "dicopatito (1300) - Dravidians &#128355<br>fyerlang (1154) - Franks &#128355<br>Sir Monkey (1023) - Vietnamese &#128355<br>\u5ff1\u5ff1 (1212) - Khitans &#128355",
+        "Team 2": "\u524d\u4e09\u5341\u5206\u949f\u6ca1\u6709\u6211 (1262) - Goths &#128355<br>\u4e0d\u8def\u8def (1228) - Italians &#128355<br>The_Valhalla (1229) - Huns &#128355<br>yo_ChuckDeezy (1190) - Wu &#128355"
     }
 }
