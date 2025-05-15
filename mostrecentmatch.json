@@ -12,15 +12,15 @@
         "Team 2": "Saaheb (1165) - Cumans &#128081;<br>Who cares (1263) - Dravidians &#128081;<br>dicopatito (1147) - Koreans &#128081;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=392850582&profileId=439001'>Download &#128190;</a>",
-        "Team 1": "Luigi (1038) - Cumans &#128355<br>JBURAS (1024) - Mongols &#128355<br>maguS (1046) - Georgians &#128355<br>Mario (956) - Japanese &#128355",
-        "Team 2": "RomaSaga (1040) - Turks &#128355<br>\u5475\u5475\u54d2 (1052) - Portuguese &#128355<br>Sir Monkey (994) - Malay &#128355<br>Nanox (1040) - Hindustanis &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_amazon_tunnels.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=392858932&profileId=2170967'>Download &#128190;</a>",
+        "Team 1": "Teutonic Order (1063) - Franks &#128081;<br>G3ck0 (1057) - Chinese &#128081;<br>Nanox (1055) - Turks &#128081;<br>Sir Monkey (1011) - Khmer &#128081;",
+        "Team 2": "\u8d3a\u77e5\u7ae0 (1061) - Jurchens &#128128;<br>rooncasique (1081) - Khitans &#128128;<br>Zizzle4879 (1030) - Khmer &#128128;<br>NitroX1955 (1040) - Teutons &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=392850582&profileId=439001'>Download &#128190;</a>",
-        "Team 1": "JBURAS (1024) - Mongols &#128355<br>Luigi (1038) - Cumans &#128355<br>maguS (1046) - Georgians &#128355<br>Mario (956) - Japanese &#128355",
-        "Team 2": "RomaSaga (1040) - Turks &#128355<br>\u5475\u5475\u54d2 (1052) - Portuguese &#128355<br>Sir Monkey (994) - Malay &#128355<br>Nanox (1040) - Hindustanis &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_amazon_tunnels.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=392858932&profileId=2170967'>Download &#128190;</a>",
+        "Team 1": "G3ck0 (1057) - Chinese &#128081;<br>Nanox (1055) - Turks &#128081;<br>Sir Monkey (1011) - Khmer &#128081;<br>Teutonic Order (1063) - Franks &#128081;",
+        "Team 2": "\u8d3a\u77e5\u7ae0 (1061) - Jurchens &#128128;<br>rooncasique (1081) - Khitans &#128128;<br>Zizzle4879 (1030) - Khmer &#128128;<br>NitroX1955 (1040) - Teutons &#128128;"
     }
 }
