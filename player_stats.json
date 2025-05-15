@@ -100,15 +100,15 @@
     "thexcarpincho": {
         "4": {
             "win": 10,
-            "losses": 7,
-            "rating": 1114,
-            "lastmatchdate": "01/05/2025"
+            "losses": 8,
+            "rating": 1095,
+            "lastmatchdate": "14/05/2025"
         },
         "3": {
-            "win": 14,
+            "win": 15,
             "losses": 13,
-            "rating": 1115,
-            "lastmatchdate": "01/05/2025"
+            "rating": 1130,
+            "lastmatchdate": "15/05/2025"
         }
     }
 }
