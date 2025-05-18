@@ -14,13 +14,13 @@
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=393396565&profileId=439001'>Download &#128190;</a>",
-        "Team 1": "lucagaggero (1055) - Goths &#128355<br>Maso93 (1081) - Ethiopians &#128355<br>torphur (1010) - Mongols &#128355<br>tinchoxD1932 (1056) - Franks &#128355",
-        "Team 2": "RomaSaga (1041) - Franks &#128355<br>Betin (1055) - Aztecs &#128355<br>Sir Monkey (1028) - Malay &#128355<br>Nanox (1087) - Hindustanis &#128355"
+        "Team 1": "lucagaggero (1055) - Goths &#128128;<br>Maso93 (1081) - Ethiopians &#128128;<br>torphur (1010) - Mongols &#128128;<br>tinchoxD1932 (1056) - Franks &#128128;",
+        "Team 2": "RomaSaga (1041) - Franks &#128081;<br>Betin (1055) - Aztecs &#128081;<br>Sir Monkey (1028) - Malay &#128081;<br>Nanox (1087) - Hindustanis &#128081;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=393396565&profileId=3330872'>Download &#128190;</a>",
-        "Team 1": "lucagaggero (1055) - Goths &#128355<br>tinchoxD1932 (1056) - Franks &#128355<br>torphur (1010) - Mongols &#128355<br>Maso93 (1081) - Ethiopians &#128355",
-        "Team 2": "RomaSaga (1041) - Franks &#128355<br>Nanox (1087) - Hindustanis &#128355<br>Sir Monkey (1028) - Malay &#128355<br>Betin (1055) - Aztecs &#128355"
+        "Team 1": "lucagaggero (1055) - Goths &#128128;<br>tinchoxD1932 (1056) - Franks &#128128;<br>torphur (1010) - Mongols &#128128;<br>Maso93 (1081) - Ethiopians &#128128;",
+        "Team 2": "RomaSaga (1041) - Franks &#128081;<br>Nanox (1087) - Hindustanis &#128081;<br>Sir Monkey (1028) - Malay &#128081;<br>Betin (1055) - Aztecs &#128081;"
     }
 }
