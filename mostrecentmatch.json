@@ -8,8 +8,8 @@
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=393514136&profileId=6237950'>Download &#128190;</a>",
-        "Team 1": "LenTezYi (979) - Persians &#128355<br>OFFICIAL POP SIMOK\u00c9 (1113) - Britons &#128355<br>sakk135 (1106) - Shu &#128355<br>Dartaw (1069) - Goths &#128355",
-        "Team 2": "526875959 (1145) - Byzantines &#128355<br>Sir Monkey (1063) - Khmer &#128355<br>Souvmarki (1111) - Persians &#128355<br>dicopatito (1117) - Koreans &#128355"
+        "Team 1": "LenTezYi (979) - Persians &#128128;<br>OFFICIAL POP SIMOK\u00c9 (1113) - Britons &#128128;<br>sakk135 (1106) - Shu &#128128;<br>Dartaw (1069) - Goths &#128128;",
+        "Team 2": "526875959 (1145) - Byzantines &#128081;<br>Sir Monkey (1063) - Khmer &#128081;<br>Souvmarki (1111) - Persians &#128081;<br>dicopatito (1117) - Koreans &#128081;"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
@@ -20,7 +20,7 @@
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=393514136&profileId=8874087'>Download &#128190;</a>",
-        "Team 1": "Dartaw (1069) - Goths &#128355<br>sakk135 (1106) - Shu &#128355<br>OFFICIAL POP SIMOK\u00c9 (1113) - Britons &#128355<br>LenTezYi (979) - Persians &#128355",
-        "Team 2": "Sir Monkey (1063) - Khmer &#128355<br>526875959 (1145) - Byzantines &#128355<br>dicopatito (1117) - Koreans &#128355<br>Souvmarki (1111) - Persians &#128355"
+        "Team 1": "Dartaw (1069) - Goths &#128128;<br>sakk135 (1106) - Shu &#128128;<br>OFFICIAL POP SIMOK\u00c9 (1113) - Britons &#128128;<br>LenTezYi (979) - Persians &#128128;",
+        "Team 2": "Sir Monkey (1063) - Khmer &#128081;<br>526875959 (1145) - Byzantines &#128081;<br>dicopatito (1117) - Koreans &#128081;<br>Souvmarki (1111) - Persians &#128081;"
     }
 }
