@@ -13,14 +13,14 @@
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=393396565&profileId=439001'>Download &#128190;</a>",
-        "Team 1": "lucagaggero (1055) - Goths &#128128;<br>Maso93 (1081) - Ethiopians &#128128;<br>torphur (1010) - Mongols &#128128;<br>tinchoxD1932 (1056) - Franks &#128128;",
-        "Team 2": "RomaSaga (1041) - Franks &#128081;<br>Betin (1055) - Aztecs &#128081;<br>Sir Monkey (1028) - Malay &#128081;<br>Nanox (1087) - Hindustanis &#128081;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=393931864&profileId=439001'>Download &#128190;</a>",
+        "Team 1": "JasminePronk (1099) - Franks &#128355<br>UxorialBadger60 (1087) - Bengalis &#128355<br>Thomas the Train (1131) - Byzantines &#128355<br>KingBubbles (1040) - Vikings &#128355",
+        "Team 2": "Sir Monkey (1079) - Malay &#128355<br>HideonBush (1100) - Bohemians &#128355<br>Cochiloco2000 (1092) - Slavs &#128355<br>Nanox (1101) - Hindustanis &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=393514136&profileId=8874087'>Download &#128190;</a>",
-        "Team 1": "Dartaw (1069) - Goths &#128128;<br>sakk135 (1106) - Shu &#128128;<br>OFFICIAL POP SIMOK\u00c9 (1113) - Britons &#128128;<br>LenTezYi (979) - Persians &#128128;",
-        "Team 2": "Sir Monkey (1063) - Khmer &#128081;<br>526875959 (1145) - Byzantines &#128081;<br>dicopatito (1117) - Koreans &#128081;<br>Souvmarki (1111) - Persians &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=393931864&profileId=4136928'>Download &#128190;</a>",
+        "Team 1": "KingBubbles (1040) - Vikings &#128355<br>JasminePronk (1099) - Franks &#128355<br>UxorialBadger60 (1087) - Bengalis &#128355<br>Thomas the Train (1131) - Byzantines &#128355",
+        "Team 2": "Nanox (1101) - Hindustanis &#128355<br>Sir Monkey (1079) - Malay &#128355<br>HideonBush (1100) - Bohemians &#128355<br>Cochiloco2000 (1092) - Slavs &#128355"
     }
 }
