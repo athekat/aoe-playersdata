@@ -14,13 +14,13 @@
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=394726159&profileId=439001'>Download &#128190;</a>",
-        "Team 1": "TVHG.DooM (1208) - Persians &#128355<br>aguspinguDash (None) - Dravidians &#128355<br>TVHG.Nitram Aoe | ESP (1275) - Cumans &#128355<br>TVHG.TheCuervo (1203) - Vietnamese &#128355",
-        "Team 2": "Sir Monkey (1044) - Vietnamese &#128355<br>UzuI (1485) - Khitans &#128355<br>Andresfcc (1173) - Tatars &#128355<br>Nanox (1059) - Huns &#128355"
+        "Team 1": "TVHG.DooM (1208) - Persians &#128081;<br>aguspinguDash (1074) - Dravidians &#128081;<br>TVHG.Nitram Aoe | ESP (1275) - Cumans &#128081;<br>TVHG.TheCuervo (1203) - Vietnamese &#128081;",
+        "Team 2": "Sir Monkey (1044) - Vietnamese &#128128;<br>UzuI (1485) - Khitans &#128128;<br>Andresfcc (1173) - Tatars &#128128;<br>Nanox (1059) - Huns &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=394726159&profileId=439001'>Download &#128190;</a>",
-        "Team 1": "aguspinguDash (None) - Dravidians &#128355<br>TVHG.Nitram Aoe | ESP (1275) - Cumans &#128355<br>TVHG.TheCuervo (1203) - Vietnamese &#128355<br>TVHG.DooM (1208) - Persians &#128355",
-        "Team 2": "UzuI (1485) - Khitans &#128355<br>Sir Monkey (1044) - Vietnamese &#128355<br>Andresfcc (1173) - Tatars &#128355<br>Nanox (1059) - Huns &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=394738669&profileId=243337'>Download &#128190;</a>",
+        "Team 1": "Elcubides (1348) - Huns &#128355<br>Banshee24 (1053) - Persians &#128355<br>Falcon Perez (1480) - Saracens &#128355<br>Tupamaro (1022) - Hindustanis &#128355",
+        "Team 2": "UzuI (1458) - Vikings &#128355<br>MANOSCHUECAS420 (1250) - Goths &#128355<br>Sir Monkey (1034) - Malay &#128355<br>wayan (1244) - Britons &#128355"
     }
 }
