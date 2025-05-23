@@ -12,15 +12,15 @@
         "Team 2": "dicopatito (1129) - Spanish &#128081;<br>Carpincho (1237) - Bohemians &#128081;<br>Nanox (1089) - Turks &#128081;<br>Sir Monkey (1044) - Khmer &#128081;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_amazon_tunnels.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=394707353&profileId=287088'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1053) - Khmer &#128355<br>UzuI (1512) - Burmese &#128355<br>Nanox (1069) - Turks &#128355<br>Senate (1189) - Bohemians &#128355",
-        "Team 2": "SHARK (1194) - Britons &#128355<br>Battle beast (1213) - Bohemians &#128355<br>Alemelo22 (1192) - Malay &#128355<br>KingGustavRed (1227) - Koreans &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=394726159&profileId=439001'>Download &#128190;</a>",
+        "Team 1": "TVHG.DooM (1208) - Persians &#128355<br>aguspinguDash (None) - Dravidians &#128355<br>TVHG.Nitram Aoe | ESP (1275) - Cumans &#128355<br>TVHG.TheCuervo (1203) - Vietnamese &#128355",
+        "Team 2": "Sir Monkey (1044) - Vietnamese &#128355<br>UzuI (1485) - Khitans &#128355<br>Andresfcc (1173) - Tatars &#128355<br>Nanox (1059) - Huns &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_amazon_tunnels.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=394707353&profileId=287088'>Download &#128190;</a>",
-        "Team 1": "UzuI (1512) - Burmese &#128355<br>Nanox (1069) - Turks &#128355<br>Senate (1189) - Bohemians &#128355<br>Sir Monkey (1053) - Khmer &#128355",
-        "Team 2": "SHARK (1194) - Britons &#128355<br>Battle beast (1213) - Bohemians &#128355<br>Alemelo22 (1192) - Malay &#128355<br>KingGustavRed (1227) - Koreans &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=394726159&profileId=439001'>Download &#128190;</a>",
+        "Team 1": "aguspinguDash (None) - Dravidians &#128355<br>TVHG.Nitram Aoe | ESP (1275) - Cumans &#128355<br>TVHG.TheCuervo (1203) - Vietnamese &#128355<br>TVHG.DooM (1208) - Persians &#128355",
+        "Team 2": "UzuI (1485) - Khitans &#128355<br>Sir Monkey (1044) - Vietnamese &#128355<br>Andresfcc (1173) - Tatars &#128355<br>Nanox (1059) - Huns &#128355"
     }
 }
