@@ -12,15 +12,15 @@
         "Team 2": "dicopatito (1129) - Spanish &#128081;<br>Carpincho (1237) - Bohemians &#128081;<br>Nanox (1089) - Turks &#128081;<br>Sir Monkey (1044) - Khmer &#128081;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395472651&profileId=1853721'>Download &#128190;</a>",
-        "Team 1": "Clearly (1147) - Italians &#128355<br>UzuI (1368) - Vikings &#128355<br>Sir Monkey (1036) - Khmer &#128355<br>Nanox (1021) - Turks &#128355",
-        "Team 2": "B\u4ed4 (1139) - Britons &#128355<br>marineEdgeLord (1125) - Koreans &#128355<br>Sqwintz (1152) - Cumans &#128355<br>Onizuka (1147) - Aztecs &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395479027&profileId=3323075'>Download &#128190;</a>",
+        "Team 1": "Firkrag (1102) - Malians &#128081;<br>f\u00e9monmax (1119) - Teutons &#128081;<br>Saul carvajal 9 (1155) - Khmer &#128081;<br>marineEdgeLord (1110) - Japanese &#128081;",
+        "Team 2": "Nanox (1042) - Malians &#128128;<br>Sir Monkey (1057) - Vietnamese &#128128;<br>UzuI (1375) - Khitans &#128128;<br>El azote (1122) - Hindustanis &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395472651&profileId=5213518'>Download &#128190;</a>",
-        "Team 1": "Nanox (1021) - Turks &#128355<br>Sir Monkey (1036) - Khmer &#128355<br>UzuI (1368) - Vikings &#128355<br>Clearly (1147) - Italians &#128355",
-        "Team 2": "Onizuka (1147) - Aztecs &#128355<br>Sqwintz (1152) - Cumans &#128355<br>marineEdgeLord (1125) - Koreans &#128355<br>B\u4ed4 (1139) - Britons &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395479027&profileId=903496'>Download &#128190;</a>",
+        "Team 1": "Firkrag (1102) - Malians &#128081;<br>marineEdgeLord (1110) - Japanese &#128081;<br>Saul carvajal 9 (1155) - Khmer &#128081;<br>f\u00e9monmax (1119) - Teutons &#128081;",
+        "Team 2": "Nanox (1042) - Malians &#128128;<br>El azote (1122) - Hindustanis &#128128;<br>UzuI (1375) - Khitans &#128128;<br>Sir Monkey (1057) - Vietnamese &#128128;"
     }
 }
