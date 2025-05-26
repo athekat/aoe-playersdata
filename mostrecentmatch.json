@@ -12,15 +12,15 @@
         "Team 2": "dicopatito (1129) - Spanish &#128081;<br>Carpincho (1237) - Bohemians &#128081;<br>Nanox (1089) - Turks &#128081;<br>Sir Monkey (1044) - Khmer &#128081;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_amazon_tunnels.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=394879625&profileId=15244681'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1085) - Khmer &#128128;<br>frago97 (1056) - Slavs &#128128;<br>CoskunKaya (1059) - Saracens &#128128;<br>Nanox (1070) - Turks &#128128;",
-        "Team 2": "up1056489 (1099) - Hindustanis &#128081;<br>Bloups3000 (1056) - Slavs &#128081;<br>kallinikospy (1095) - Britons &#128081;<br>Myrakaru (1070) - Turks &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395472651&profileId=1853721'>Download &#128190;</a>",
+        "Team 1": "Clearly (1147) - Italians &#128355<br>UzuI (1368) - Vikings &#128355<br>Sir Monkey (1036) - Khmer &#128355<br>Nanox (1021) - Turks &#128355",
+        "Team 2": "B\u4ed4 (1139) - Britons &#128355<br>marineEdgeLord (1125) - Koreans &#128355<br>Sqwintz (1152) - Cumans &#128355<br>Onizuka (1147) - Aztecs &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_amazon_tunnels.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=394879625&profileId=19593842'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1085) - Khmer &#128128;<br>frago97 (1056) - Slavs &#128128;<br>CoskunKaya (1059) - Saracens &#128128;<br>Nanox (1070) - Turks &#128128;",
-        "Team 2": "Bloups3000 (1056) - Slavs &#128081;<br>kallinikospy (1095) - Britons &#128081;<br>Myrakaru (1070) - Turks &#128081;<br>up1056489 (1099) - Hindustanis &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395472651&profileId=5213518'>Download &#128190;</a>",
+        "Team 1": "Nanox (1021) - Turks &#128355<br>Sir Monkey (1036) - Khmer &#128355<br>UzuI (1368) - Vikings &#128355<br>Clearly (1147) - Italians &#128355",
+        "Team 2": "Onizuka (1147) - Aztecs &#128355<br>Sqwintz (1152) - Cumans &#128355<br>marineEdgeLord (1125) - Koreans &#128355<br>B\u4ed4 (1139) - Britons &#128355"
     }
 }
