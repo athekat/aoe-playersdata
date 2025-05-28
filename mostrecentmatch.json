@@ -1,26 +1,26 @@
 {
     "Carpincho": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_amazon_tunnels.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=394159317&profileId=6237950'>Download &#128190;</a>",
-        "Team 1": "\u5c0f\u6218\u72fc (1023) - Poles &#128128;<br>dong (1194) - Bengalis &#128128;<br>woohoohoo (1049) - Teutons &#128128;<br>ggggidea (1209) - Romans &#128128;",
-        "Team 2": "Sir Monkey (1044) - Khmer &#128081;<br>Nanox (1089) - Turks &#128081;<br>Carpincho (1237) - Bohemians &#128081;<br>dicopatito (1129) - Spanish &#128081;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395771896&profileId=1205505'>Download &#128190;</a>",
+        "Team 1": "Carpincho (1250) - Bohemians &#128081;<br>Sir Monkey (1087) - Khmer &#128081;<br>Nanox (1059) - Hindustanis &#128081;<br>dicopatito (1159) - Burmese &#128081;",
+        "Team 2": "Alessa (1080) - Persians &#128128;<br>ZerohLife (1125) - Chinese &#128128;<br>Ehrcander (1103) - Magyars &#128128;<br>Luxso (1099) - Portuguese &#128128;"
     },
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_amazon_tunnels.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=394159317&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "ggggidea (1209) - Romans &#128128;<br>dong (1194) - Bengalis &#128128;<br>\u5c0f\u6218\u72fc (1023) - Poles &#128128;<br>woohoohoo (1049) - Teutons &#128128;",
-        "Team 2": "dicopatito (1129) - Spanish &#128081;<br>Carpincho (1237) - Bohemians &#128081;<br>Nanox (1089) - Turks &#128081;<br>Sir Monkey (1044) - Khmer &#128081;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395771896&profileId=19876540'>Download &#128190;</a>",
+        "Team 1": "Carpincho (1250) - Bohemians &#128081;<br>Sir Monkey (1087) - Khmer &#128081;<br>Nanox (1059) - Hindustanis &#128081;<br>dicopatito (1159) - Burmese &#128081;",
+        "Team 2": "Ehrcander (1103) - Magyars &#128128;<br>ZerohLife (1125) - Chinese &#128128;<br>Luxso (1099) - Portuguese &#128128;<br>Alessa (1080) - Persians &#128128;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395479027&profileId=3323075'>Download &#128190;</a>",
-        "Team 1": "Firkrag (1102) - Malians &#128081;<br>f\u00e9monmax (1119) - Teutons &#128081;<br>Saul carvajal 9 (1155) - Khmer &#128081;<br>marineEdgeLord (1110) - Japanese &#128081;",
-        "Team 2": "Nanox (1042) - Malians &#128128;<br>Sir Monkey (1057) - Vietnamese &#128128;<br>UzuI (1375) - Khitans &#128128;<br>El azote (1122) - Hindustanis &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_amazon_tunnels.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395771896&profileId=4115721'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1087) - Khmer &#128081;<br>Nanox (1059) - Hindustanis &#128081;<br>dicopatito (1159) - Burmese &#128081;<br>Carpincho (1250) - Bohemians &#128081;",
+        "Team 2": "Ehrcander (1103) - Magyars &#128128;<br>Luxso (1099) - Portuguese &#128128;<br>Alessa (1080) - Persians &#128128;<br>ZerohLife (1125) - Chinese &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395570906&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "Luxso (1090) - Huns &#128128;<br>VagabundoAR (1105) - Sicilians &#128128;<br>Ehrcander (1095) - Mongols &#128128;<br>Alessa (1068) - Persians &#128128;",
-        "Team 2": "SupermeSupreme (1142) - Franks &#128081;<br>Hululu (1033) - Huns &#128081;<br>Strigert (1058) - Koreans &#128081;<br>Sir Monkey (1044) - Vietnamese &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_amazon_tunnels.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395771896&profileId=19876540'>Download &#128190;</a>",
+        "Team 1": "Carpincho (1250) - Bohemians &#128081;<br>Sir Monkey (1087) - Khmer &#128081;<br>Nanox (1059) - Hindustanis &#128081;<br>dicopatito (1159) - Burmese &#128081;",
+        "Team 2": "ZerohLife (1125) - Chinese &#128128;<br>Ehrcander (1103) - Magyars &#128128;<br>Luxso (1099) - Portuguese &#128128;<br>Alessa (1080) - Persians &#128128;"
     }
 }
