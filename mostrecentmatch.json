@@ -7,9 +7,9 @@
     },
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395985778&profileId=6237950'>Download &#128190;</a>",
-        "Team 1": "Bogdanov (1189) - Khitans &#128355<br>President Trump (1147) - Ethiopians &#128355<br>legend (1195) - Bohemians &#128355<br>\u6d6a\u91cc\u4e2a\u6d6a (1212) - Hindustanis &#128355",
-        "Team 2": "H95 (1190) - Spanish &#128355<br>Sir Monkey (1126) - Malay &#128355<br>\u738b\u6d2a\u6587 (1149) - Persians &#128355<br>dicopatito (1185) - Lithuanians &#128355"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395990494&profileId=19456761'>Download &#128190;</a>",
+        "Team 1": "GranAguila (1205) - Bulgarians &#128128;<br>IBreak VII (1210) - Mongols &#128128;<br>CONANJD (1112) - Malay &#128128;",
+        "Team 2": "dicopatito (1201) - Armenians &#128081;<br>Sir Monkey (1145) - Persians &#128081;<br>Simon (1187) - Malay &#128081;"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
@@ -19,8 +19,8 @@
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395985778&profileId=11051478'>Download &#128190;</a>",
-        "Team 1": "legend (1195) - Bohemians &#128355<br>President Trump (1147) - Ethiopians &#128355<br>Bogdanov (1189) - Khitans &#128355<br>\u6d6a\u91cc\u4e2a\u6d6a (1212) - Hindustanis &#128355",
-        "Team 2": "Sir Monkey (1126) - Malay &#128355<br>H95 (1190) - Spanish &#128355<br>dicopatito (1185) - Lithuanians &#128355<br>\u738b\u6d2a\u6587 (1149) - Persians &#128355"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395990494&profileId=6237950'>Download &#128190;</a>",
+        "Team 1": "GranAguila (1205) - Bulgarians &#128128;<br>IBreak VII (1210) - Mongols &#128128;<br>CONANJD (1112) - Malay &#128128;",
+        "Team 2": "Simon (1187) - Malay &#128081;<br>Sir Monkey (1145) - Persians &#128081;<br>dicopatito (1201) - Armenians &#128081;"
     }
 }
