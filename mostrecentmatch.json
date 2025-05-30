@@ -6,21 +6,21 @@
         "Team 2": "Alessa (1080) - Persians &#128128;<br>ZerohLife (1125) - Chinese &#128128;<br>Ehrcander (1103) - Magyars &#128128;<br>Luxso (1099) - Portuguese &#128128;"
     },
     "Dicopatito": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395990494&profileId=19456761'>Download &#128190;</a>",
-        "Team 1": "GranAguila (1205) - Bulgarians &#128128;<br>IBreak VII (1210) - Mongols &#128128;<br>CONANJD (1112) - Malay &#128128;",
-        "Team 2": "dicopatito (1201) - Armenians &#128081;<br>Sir Monkey (1145) - Persians &#128081;<br>Simon (1187) - Malay &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_megarandom.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=396192472&profileId=2420946'>Download &#128190;</a>",
+        "Team 1": "Nanox (1073) - Huns &#128355<br>Sir Monkey (1146) - Ethiopians &#128355<br>dicopatito (1197) - Armenians &#128355",
+        "Team 2": "Light (1106) - Franks &#128355<br>Agron7 (1110) - Malians &#128355<br>Thiers1789 (1143) - Khmer &#128355"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395979528&profileId=2467313'>Download &#128190;</a>",
-        "Team 1": "dicopatito (1170) - Dravidians &#128081;<br>Nanox (1066) - Huns &#128081;<br>Sir Monkey (1108) - Khmer &#128081;",
-        "Team 2": "RoproX (1190) - Burgundians &#128128;<br>SHIOZEN (1157) - Chinese &#128128;<br>chrae (1125) - Huns &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_megarandom.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=396192472&profileId=796908'>Download &#128190;</a>",
+        "Team 1": "dicopatito (1197) - Armenians &#128355<br>Sir Monkey (1146) - Ethiopians &#128355<br>Nanox (1073) - Huns &#128355",
+        "Team 2": "Light (1106) - Franks &#128355<br>Thiers1789 (1143) - Khmer &#128355<br>Agron7 (1110) - Malians &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=395990494&profileId=6237950'>Download &#128190;</a>",
-        "Team 1": "GranAguila (1205) - Bulgarians &#128128;<br>IBreak VII (1210) - Mongols &#128128;<br>CONANJD (1112) - Malay &#128128;",
-        "Team 2": "Simon (1187) - Malay &#128081;<br>Sir Monkey (1145) - Persians &#128081;<br>dicopatito (1201) - Armenians &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_megarandom.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=396192472&profileId=796908'>Download &#128190;</a>",
+        "Team 1": "Nanox (1073) - Huns &#128355<br>dicopatito (1197) - Armenians &#128355<br>Sir Monkey (1146) - Ethiopians &#128355",
+        "Team 2": "Light (1106) - Franks &#128355<br>Thiers1789 (1143) - Khmer &#128355<br>Agron7 (1110) - Malians &#128355"
     }
 }
