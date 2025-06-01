@@ -6,10 +6,10 @@
         "Team 2": "Alessa (1080) - Persians &#128128;<br>ZerohLife (1125) - Chinese &#128128;<br>Ehrcander (1103) - Magyars &#128128;<br>Luxso (1099) - Portuguese &#128128;"
     },
     "Dicopatito": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_hideout.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=396227529&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "1 (1171) - Berbers &#128128;<br>n.diamond (1194) - Turks &#128128;<br>FinalScout (1190) - Dravidians &#128128;",
-        "Team 2": "SirT_J4SPION (1230) - Persians &#128081;<br>dicopatito (1178) - Burmese &#128081;<br>Sir Monkey (1141) - Khmer &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=396720559&profileId=2928565'>Download &#128190;</a>",
+        "Team 1": "Trev (1133) - Teutons &#128355<br>Coraje (1136) - Goths &#128355<br>Allen Walker (1121) - Byzantines &#128355",
+        "Team 2": "Sir Monkey (1159) - Persians &#128355<br>dicopatito (1194) - Armenians &#128355<br>\u51f1\u745eKary (1158) - Celts &#128355"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_lombardia.png' width='150rem' alt=''>",
@@ -18,9 +18,9 @@
         "Team 2": "Nanox (1064) - Hindustanis &#128081;<br>Sir Monkey (1127) - Persians &#128081;<br>Pol84 (1125) - Vikings &#128081;<br>dicopatito (1170) - Britons &#128081;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_hideout.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=396227529&profileId=6237950'>Download &#128190;</a>",
-        "Team 1": "n.diamond (1194) - Turks &#128128;<br>1 (1171) - Berbers &#128128;<br>FinalScout (1190) - Dravidians &#128128;",
-        "Team 2": "Sir Monkey (1141) - Khmer &#128081;<br>SirT_J4SPION (1230) - Persians &#128081;<br>dicopatito (1178) - Burmese &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=396720559&profileId=903496'>Download &#128190;</a>",
+        "Team 1": "Trev (1133) - Teutons &#128355<br>Coraje (1136) - Goths &#128355<br>Allen Walker (1121) - Byzantines &#128355",
+        "Team 2": "dicopatito (1194) - Armenians &#128355<br>\u51f1\u745eKary (1158) - Celts &#128355<br>Sir Monkey (1159) - Persians &#128355"
     }
 }
