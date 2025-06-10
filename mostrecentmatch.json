@@ -12,15 +12,15 @@
         "Team 2": "Lightning (1248) - Romans &#128128;<br>AeiRei (1277) - Byzantines &#128128;<br>BROKEN_PXO (1323) - Teutons &#128128;<br>miihua (1243) - Hindustanis &#128128;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=397383943&profileId=19568473'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1159) - Malay &#128081;<br>alanthekat (1170) - Wei &#128081;<br>Nanox (1102) - Hindustanis &#128081;<br>dicopatito (1239) - Armenians &#128081;",
-        "Team 2": "[RZ] Kanjhin (1215) - Portuguese &#128128;<br>Colonel Bernie Sanders (1179) - Teutons &#128128;<br>[RZ] MAGR0 (1218) - Khmer &#128128;<br>walter_berrutto (1159) - Portuguese &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=398954288&profileId=7568743'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1160) - Khmer &#128355<br>sherryspk (1156) - Vietnamese &#128355<br>Nanox (1108) - Huns &#128355<br>Xianni (1185) - Spanish &#128355",
+        "Team 2": "Flowrida (1176) - Celts &#128355<br>Yunus emre AOE2 (1188) - Huns &#128355<br>Sarco (1107) - Goths &#128355<br>Barbarossa (1136) - Slavs &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=397383943&profileId=3410440'>Download &#128190;</a>",
-        "Team 1": "dicopatito (1239) - Armenians &#128081;<br>Sir Monkey (1159) - Malay &#128081;<br>Nanox (1102) - Hindustanis &#128081;<br>alanthekat (1170) - Wei &#128081;",
-        "Team 2": "[RZ] Kanjhin (1215) - Portuguese &#128128;<br>walter_berrutto (1159) - Portuguese &#128128;<br>[RZ] MAGR0 (1218) - Khmer &#128128;<br>Colonel Bernie Sanders (1179) - Teutons &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=398954288&profileId=7560373'>Download &#128190;</a>",
+        "Team 1": "sherryspk (1156) - Vietnamese &#128355<br>Sir Monkey (1160) - Khmer &#128355<br>Xianni (1185) - Spanish &#128355<br>Nanox (1108) - Huns &#128355",
+        "Team 2": "Yunus emre AOE2 (1188) - Huns &#128355<br>Flowrida (1176) - Celts &#128355<br>Barbarossa (1136) - Slavs &#128355<br>Sarco (1107) - Goths &#128355"
     }
 }
