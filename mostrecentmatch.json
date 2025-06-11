@@ -13,14 +13,14 @@
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=398954288&profileId=7568743'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1160) - Khmer &#128128;<br>sherryspk (1156) - Vietnamese &#128128;<br>Nanox (1108) - Huns &#128128;<br>Xianni (1185) - Spanish &#128128;",
-        "Team 2": "Flowrida (1176) - Celts &#128081;<br>Yunus emre AOE2 (1188) - Huns &#128081;<br>Sarco (1107) - Goths &#128081;<br>Barbarossa (1136) - Slavs &#128081;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=398980676&profileId=3063329'>Download &#128190;</a>",
+        "Team 1": "UpbeatDervid (1049) - Spanish &#128355<br>BurleyBoy (1128) - Mongols &#128355<br>Sir Monkey (1144) - Persians &#128355<br>Nanox (1094) - Huns &#128355",
+        "Team 2": "Guifml (1063) - Cumans &#128355<br>Absurdo! (1136) - Huns &#128355<br>G3ck0 (1074) - Tatars &#128355<br>Honey_Badger (1125) - Japanese &#128355"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_african_clearing.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=398954288&profileId=7560373'>Download &#128190;</a>",
-        "Team 1": "sherryspk (1156) - Vietnamese &#128128;<br>Sir Monkey (1160) - Khmer &#128128;<br>Xianni (1185) - Spanish &#128128;<br>Nanox (1108) - Huns &#128128;",
-        "Team 2": "Yunus emre AOE2 (1188) - Huns &#128081;<br>Flowrida (1176) - Celts &#128081;<br>Barbarossa (1136) - Slavs &#128081;<br>Sarco (1107) - Goths &#128081;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=398980676&profileId=12009860'>Download &#128190;</a>",
+        "Team 1": "BurleyBoy (1128) - Mongols &#128355<br>Sir Monkey (1144) - Persians &#128355<br>Nanox (1094) - Huns &#128355<br>UpbeatDervid (1049) - Spanish &#128355",
+        "Team 2": "Absurdo! (1136) - Huns &#128355<br>G3ck0 (1074) - Tatars &#128355<br>Honey_Badger (1125) - Japanese &#128355<br>Guifml (1063) - Cumans &#128355"
     }
 }
