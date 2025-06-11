@@ -14,13 +14,13 @@
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=399135121&profileId=15075450'>Download &#128190;</a>",
-        "Team 1": "The 14th (1149) - Inca &#128355<br>Nanox (1130) - Franks &#128355<br>Sir Monkey (1172) - Khmer &#128355<br>00gieB0ogie (1130) - Jurchens &#128355",
-        "Team 2": "Ghost (1145) - Lithuanians &#128355<br>B.D (1141) - Turks &#128355<br>jomanuel28 (1143) - Italians &#128355<br>zoku (1156) - Persians &#128355"
+        "Team 1": "The 14th (1149) - Inca &#128128;<br>Nanox (1130) - Franks &#128128;<br>Sir Monkey (1172) - Khmer &#128128;<br>00gieB0ogie (1130) - Jurchens &#128128;",
+        "Team 2": "Ghost (1145) - Lithuanians &#128081;<br>B.D (1141) - Turks &#128081;<br>jomanuel28 (1143) - Italians &#128081;<br>zoku (1156) - Persians &#128081;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=399135121&profileId=9648857'>Download &#128190;</a>",
-        "Team 1": "00gieB0ogie (1130) - Jurchens &#128355<br>The 14th (1149) - Inca &#128355<br>Sir Monkey (1172) - Khmer &#128355<br>Nanox (1130) - Franks &#128355",
-        "Team 2": "B.D (1141) - Turks &#128355<br>Ghost (1145) - Lithuanians &#128355<br>zoku (1156) - Persians &#128355<br>jomanuel28 (1143) - Italians &#128355"
+        "Team 1": "00gieB0ogie (1130) - Jurchens &#128128;<br>The 14th (1149) - Inca &#128128;<br>Sir Monkey (1172) - Khmer &#128128;<br>Nanox (1130) - Franks &#128128;",
+        "Team 2": "B.D (1141) - Turks &#128081;<br>Ghost (1145) - Lithuanians &#128081;<br>zoku (1156) - Persians &#128081;<br>jomanuel28 (1143) - Italians &#128081;"
     }
 }
