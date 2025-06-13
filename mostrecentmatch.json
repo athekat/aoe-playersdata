@@ -12,15 +12,15 @@
         "Team 2": "Lightning (1248) - Romans &#128128;<br>AeiRei (1277) - Byzantines &#128128;<br>BROKEN_PXO (1323) - Teutons &#128128;<br>miihua (1243) - Hindustanis &#128128;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=399197763&profileId=9682736'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1152) - Vietnamese &#128081;<br>Nanox (1115) - Huns &#128081;<br>Emanuel (1190) - Japanese &#128081;<br>EagleSpinner (1171) - Romans &#128081;",
-        "Team 2": "rubenb (1182) - Italians &#128128;<br>Cuchillo (1193) - Spanish &#128128;<br>\u4e86\u4e0d\u8d77\u7684\u827e\u65af\u6bd4 (1214) - Goths &#128128;<br>CyDeska| El otro (1251) - Georgians &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=399398062&profileId=21832404'>Download &#128190;</a>",
+        "Team 1": "sunillin (1169) - Aztecs &#128128;<br>Sir Monkey (1181) - Malay &#128128;<br>Nanox (1164) - Franks &#128128;<br>\u5929\u624d\u5c0f\u706b\u9f99 (1220) - Celts &#128128;",
+        "Team 2": "fixitagain (1158) - Mongols &#128081;<br>i_WaNt_Da_GoLd (1172) - Poles &#128081;<br>Bug Spencer (1170) - Burgundians &#128081;<br>Yukkkki (1149) - Inca &#128081;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=399201217&profileId=11261565'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1184) - Vietnamese &#128128;<br>[GDL] La Destripadora (1085) - Chinese &#128128;<br>coverme (1035) - Goths &#128128;<br>diaulocarajo3636 (1141) - Spanish &#128128;",
-        "Team 2": "BEHELIT (1195) - Armenians &#128081;<br>EXILE | A6D2 (1213) - Persians &#128081;<br>EarthQuark (1038) - Shu &#128081;<br>\u6709\u70b9b\u6570\u5427\uff0c\u597d\u597d\u73a9 (1158) - Wu &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=399398062&profileId=21832404'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1181) - Malay &#128128;<br>Nanox (1164) - Franks &#128128;<br>\u5929\u624d\u5c0f\u706b\u9f99 (1220) - Celts &#128128;<br>sunillin (1169) - Aztecs &#128128;",
+        "Team 2": "i_WaNt_Da_GoLd (1172) - Poles &#128081;<br>Bug Spencer (1170) - Burgundians &#128081;<br>fixitagain (1158) - Mongols &#128081;<br>Yukkkki (1149) - Inca &#128081;"
     }
 }
