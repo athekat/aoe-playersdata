@@ -1,38 +1,10 @@
 {
-    "dicopato": {
-        "3": {
-            "win": 329,
-            "losses": 298,
-            "rating": 1517,
-            "lastmatchdate": "26/04/2025"
-        },
-        "4": {
-            "win": 123,
-            "losses": 88,
-            "rating": 1377,
-            "lastmatchdate": "29/07/2023"
-        }
-    },
-    "dicopatito": {
-        "4": {
-            "win": 679,
-            "losses": 559,
-            "rating": 1270,
-            "lastmatchdate": "04/06/2025"
-        },
-        "3": {
-            "win": 364,
-            "losses": 341,
-            "rating": 1506,
-            "lastmatchdate": "08/10/2024"
-        }
-    },
     "sir_monkey": {
         "4": {
             "win": 1470,
-            "losses": 1591,
-            "rating": 1116,
-            "lastmatchdate": "15/06/2025"
+            "losses": 1592,
+            "rating": 1103,
+            "lastmatchdate": "17/06/2025"
         },
         "3": {
             "win": 3,
@@ -44,9 +16,9 @@
     "nanox": {
         "4": {
             "win": 1050,
-            "losses": 1198,
-            "rating": 1106,
-            "lastmatchdate": "15/06/2025"
+            "losses": 1199,
+            "rating": 1093,
+            "lastmatchdate": "17/06/2025"
         },
         "3": {
             "win": 7,
@@ -81,20 +53,6 @@
             "losses": 13,
             "rating": 1260,
             "lastmatchdate": "27/10/2024"
-        }
-    },
-    "emo": {
-        "3": {
-            "win": 1,
-            "losses": 2,
-            "rating": 962,
-            "lastmatchdate": "21/05/2020"
-        },
-        "4": {
-            "win": 4,
-            "losses": 1,
-            "rating": 1001,
-            "lastmatchdate": "19/05/2020"
         }
     },
     "thexcarpincho": {

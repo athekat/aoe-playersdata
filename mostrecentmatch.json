@@ -13,14 +13,14 @@
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=399911324&profileId=9642411'>Download &#128190;</a>",
-        "Team 1": "Nanox (1089) - Franks &#128081;<br>Sir Monkey (1100) - Malay &#128081;<br>CMCHJK (1097) - Shu &#128081;<br>ARM-Dahua (1121) - Poles &#128081;",
-        "Team 2": "\u9e8b\u4e86\u9e7f\u7684\u732b (1144) - Portuguese &#128128;<br>\u6e21\u9e26 (1088) - Mongols &#128128;<br>marcowearsprada (1109) - Lithuanians &#128128;<br>\u660e\u5929\u662f\u6674\u5929 (1080) - Spanish &#128128;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=400477309&profileId=1819465'>Download &#128190;</a>",
+        "Team 1": "\u963f\u6839\u5ef7\u5f6d\u4e8e\u664f (1124) - Wei &#128355<br>Ruiko (1231) - Persians &#128355<br>2749935937 (1071) - Khmer &#128355<br>Galeras (1119) - Spanish &#128355",
+        "Team 2": "Lang Syne (1103) - Slavs &#128355<br>Sir Monkey (1103) - Malay &#128355<br>Nanox (1093) - Hindustanis &#128355<br>Max_Pad_Ctba (1089) - Wu &#128355"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=399911324&profileId=11270696'>Download &#128190;</a>",
-        "Team 1": "ARM-Dahua (1121) - Poles &#128081;<br>CMCHJK (1097) - Shu &#128081;<br>Sir Monkey (1100) - Malay &#128081;<br>Nanox (1089) - Franks &#128081;",
-        "Team 2": "\u9e8b\u4e86\u9e7f\u7684\u732b (1144) - Portuguese &#128128;<br>\u660e\u5929\u662f\u6674\u5929 (1080) - Spanish &#128128;<br>marcowearsprada (1109) - Lithuanians &#128128;<br>\u6e21\u9e26 (1088) - Mongols &#128128;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=400477309&profileId=439001'>Download &#128190;</a>",
+        "Team 1": "2749935937 (1071) - Khmer &#128355<br>\u963f\u6839\u5ef7\u5f6d\u4e8e\u664f (1124) - Wei &#128355<br>Galeras (1119) - Spanish &#128355<br>Ruiko (1231) - Persians &#128355",
+        "Team 2": "Max_Pad_Ctba (1089) - Wu &#128355<br>Lang Syne (1103) - Slavs &#128355<br>Sir Monkey (1103) - Malay &#128355<br>Nanox (1093) - Hindustanis &#128355"
     }
 }
