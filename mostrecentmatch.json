@@ -14,13 +14,13 @@
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=401581057&profileId=9419716'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1083) - Ethiopians &#128355<br>Nanox (1092) - Franks &#128355<br>King Albi V. (1060) - Goths &#128355<br>France (1103) - Huns &#128355",
-        "Team 2": "Pedrogm91 (1064) - Byzantines &#128355<br>DauerBauer (1030) - Franks &#128355<br>Ak.c0lt (1113) - Hindustanis &#128355<br>Kikito (1078) - Britons &#128355"
+        "Team 1": "Sir Monkey (1083) - Ethiopians &#128081;<br>Nanox (1092) - Franks &#128081;<br>King Albi V. (1060) - Goths &#128081;<br>France (1103) - Huns &#128081;",
+        "Team 2": "Pedrogm91 (1064) - Byzantines &#128128;<br>DauerBauer (1030) - Franks &#128128;<br>Ak.c0lt (1113) - Hindustanis &#128128;<br>Kikito (1078) - Britons &#128128;"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=401581057&profileId=3726773'>Download &#128190;</a>",
-        "Team 1": "France (1103) - Huns &#128355<br>Nanox (1092) - Franks &#128355<br>Sir Monkey (1083) - Ethiopians &#128355<br>King Albi V. (1060) - Goths &#128355",
-        "Team 2": "Pedrogm91 (1064) - Byzantines &#128355<br>DauerBauer (1030) - Franks &#128355<br>Kikito (1078) - Britons &#128355<br>Ak.c0lt (1113) - Hindustanis &#128355"
+        "Team 1": "France (1103) - Huns &#128081;<br>Nanox (1092) - Franks &#128081;<br>Sir Monkey (1083) - Ethiopians &#128081;<br>King Albi V. (1060) - Goths &#128081;",
+        "Team 2": "Pedrogm91 (1064) - Byzantines &#128128;<br>DauerBauer (1030) - Franks &#128128;<br>Kikito (1078) - Britons &#128128;<br>Ak.c0lt (1113) - Hindustanis &#128128;"
     }
 }
