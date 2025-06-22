@@ -12,15 +12,15 @@
         "Team 2": "Lightning (1248) - Romans &#128128;<br>AeiRei (1277) - Byzantines &#128128;<br>BROKEN_PXO (1323) - Teutons &#128128;<br>miihua (1243) - Hindustanis &#128128;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=401563441&profileId=851647'>Download &#128190;</a>",
-        "Team 1": "[Gaucho] Carlos Messina (1136) - Sicilians &#128355<br>Nanox (1124) - Hindustanis &#128355<br>Sir Monkey (1115) - Malay &#128355<br>triantadeli (1127) - Goths &#128355",
-        "Team 2": "Gilber (1159) - Turks &#128355<br>KillerINSTIC (1112) - Britons &#128355<br>mamrh135 (1115) - Gurjaras &#128355<br>ZeaLot (1088) - Khmer &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=401581057&profileId=9419716'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1083) - Ethiopians &#128355<br>Nanox (1092) - Franks &#128355<br>King Albi V. (1060) - Goths &#128355<br>France (1103) - Huns &#128355",
+        "Team 2": "Pedrogm91 (1064) - Byzantines &#128355<br>DauerBauer (1030) - Franks &#128355<br>Ak.c0lt (1113) - Hindustanis &#128355<br>Kikito (1078) - Britons &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=401563441&profileId=851647'>Download &#128190;</a>",
-        "Team 1": "triantadeli (1127) - Goths &#128355<br>[Gaucho] Carlos Messina (1136) - Sicilians &#128355<br>Nanox (1124) - Hindustanis &#128355<br>Sir Monkey (1115) - Malay &#128355",
-        "Team 2": "Gilber (1159) - Turks &#128355<br>KillerINSTIC (1112) - Britons &#128355<br>mamrh135 (1115) - Gurjaras &#128355<br>ZeaLot (1088) - Khmer &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_oasis.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=401581057&profileId=3726773'>Download &#128190;</a>",
+        "Team 1": "France (1103) - Huns &#128355<br>Nanox (1092) - Franks &#128355<br>Sir Monkey (1083) - Ethiopians &#128355<br>King Albi V. (1060) - Goths &#128355",
+        "Team 2": "Pedrogm91 (1064) - Byzantines &#128355<br>DauerBauer (1030) - Franks &#128355<br>Kikito (1078) - Britons &#128355<br>Ak.c0lt (1113) - Hindustanis &#128355"
     }
 }
