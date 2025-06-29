@@ -12,15 +12,15 @@
         "Team 2": "Lightning (1248) - Romans &#128128;<br>AeiRei (1277) - Byzantines &#128128;<br>BROKEN_PXO (1323) - Teutons &#128128;<br>miihua (1243) - Hindustanis &#128128;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_glade.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403075919&profileId=67467'>Download &#128190;</a>",
-        "Team 1": "Spicer (929) - Romans &#128355<br>Darkham (1010) - Koreans &#128355<br>Runtime (1185) - Portuguese &#128355<br>berserker-latko (1196) - Cumans &#128355",
-        "Team 2": "Nanox (1119) - Franks &#128355<br>Sir Monkey (1094) - Khmer &#128355<br>ChaaaaK (1095) - Jurchens &#128355<br>zachhalil (1089) - Khitans &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_fortress.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403086793&profileId=5197881'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1109) - Khmer &#128355<br>Bigg_Bull (1084) - Mongols &#128355<br>rafter (1051) - Vietnamese &#128355<br>Nanox (1133) - Hindustanis &#128355",
+        "Team 2": "Zargon (1081) - Teutons &#128355<br>jaozinn (1083) - Burgundians &#128355<br>Ar373 (1058) - Armenians &#128355<br>Tzilacatzin (1101) - Britons &#128355"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_glade.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403075919&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "berserker-latko (1196) - Cumans &#128355<br>Spicer (929) - Romans &#128355<br>Runtime (1185) - Portuguese &#128355<br>Darkham (1010) - Koreans &#128355",
-        "Team 2": "Nanox (1119) - Franks &#128355<br>ChaaaaK (1095) - Jurchens &#128355<br>zachhalil (1089) - Khitans &#128355<br>Sir Monkey (1094) - Khmer &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_fortress.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403086793&profileId=5197881'>Download &#128190;</a>",
+        "Team 1": "rafter (1051) - Vietnamese &#128355<br>Bigg_Bull (1084) - Mongols &#128355<br>Sir Monkey (1109) - Khmer &#128355<br>Nanox (1133) - Hindustanis &#128355",
+        "Team 2": "Zargon (1081) - Teutons &#128355<br>Ar373 (1058) - Armenians &#128355<br>jaozinn (1083) - Burgundians &#128355<br>Tzilacatzin (1101) - Britons &#128355"
     }
 }
