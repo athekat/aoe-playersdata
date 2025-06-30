@@ -6,10 +6,10 @@
         "Team 2": "Alessa (1080) - Persians &#128128;<br>ZerohLife (1125) - Chinese &#128128;<br>Ehrcander (1103) - Magyars &#128128;<br>Luxso (1099) - Portuguese &#128128;"
     },
     "Dicopatito": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_megarandom.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403161232&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "elPreto (1236) - Huns &#128355<br>FrNkyboy (1251) - Vietnamese &#128355<br>Lonach (1165) - Saracens &#128355",
-        "Team 2": "dicopatito (1264) - Britons &#128355<br>\u83dc\u9e1f\u7684\u5929\u5802 (1263) - Lithuanians &#128355<br>Sir Monkey (1123) - Khmer &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403166629&profileId=16915798'>Download &#128190;</a>",
+        "Team 1": "The_Father_92 (1563) - Bohemians &#128355<br>ZEAN430 (None) - Persians &#128355<br>sagoro1 (870) - Huns &#128355<br>fabricioantonio1 (1135) - Goths &#128355",
+        "Team 2": "dicopatito (1239) - Armenians &#128355<br>anhdeptraibd (1165) - Huns &#128355<br>Sir Monkey (1116) - Khmer &#128355<br>thetoastaoe (1212) - Saracens &#128355"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
@@ -18,9 +18,9 @@
         "Team 2": "Sir Monkey (1119) - Khmer &#128128;<br>Nanox (1107) - Huns &#128128;<br>dicopatito (1273) - Italians &#128128;<br>JonBlack (1118) - Japanese &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_megarandom.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403161232&profileId=6237950'>Download &#128190;</a>",
-        "Team 1": "elPreto (1236) - Huns &#128355<br>FrNkyboy (1251) - Vietnamese &#128355<br>Lonach (1165) - Saracens &#128355",
-        "Team 2": "Sir Monkey (1123) - Khmer &#128355<br>\u83dc\u9e1f\u7684\u5929\u5802 (1263) - Lithuanians &#128355<br>dicopatito (1264) - Britons &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403166629&profileId=15772275'>Download &#128190;</a>",
+        "Team 1": "fabricioantonio1 (1135) - Goths &#128355<br>ZEAN430 (None) - Persians &#128355<br>sagoro1 (870) - Huns &#128355<br>The_Father_92 (1563) - Bohemians &#128355",
+        "Team 2": "Sir Monkey (1116) - Khmer &#128355<br>dicopatito (1239) - Armenians &#128355<br>thetoastaoe (1212) - Saracens &#128355<br>anhdeptraibd (1165) - Huns &#128355"
     }
 }
