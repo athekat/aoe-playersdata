@@ -6,21 +6,21 @@
         "Team 2": "Alessa (1080) - Persians &#128128;<br>ZerohLife (1125) - Chinese &#128128;<br>Ehrcander (1103) - Magyars &#128128;<br>Luxso (1099) - Portuguese &#128128;"
     },
     "Dicopatito": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_fortress.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403135502&profileId=3831458'>Download &#128190;</a>",
-        "Team 1": "DS_LaeB (1223) - Mongols &#128355<br>Sir Monkey (1113) - Khmer &#128355<br>Nanox (1099) - Franks &#128355<br>dicopatito (1282) - Koreans &#128355",
-        "Team 2": "No_one_watch_your_TTV (1093) - Persians &#128355<br>Mortiz (1211) - Wei &#128355<br>edgardo (1203) - Hindustanis &#128355<br>URAKILLES (1210) - Khmer &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403147305&profileId=8915640'>Download &#128190;</a>",
+        "Team 1": "1012163679 (1172) - Wu &#128081;<br>[KDS] MEHEE (1113) - Tatars &#128081;<br>DarkClonus (1109) - Bulgarians &#128081;<br>byzmaster (1165) - Khitans &#128081;",
+        "Team 2": "Sir Monkey (1119) - Khmer &#128128;<br>Nanox (1107) - Huns &#128128;<br>dicopatito (1273) - Italians &#128128;<br>JonBlack (1118) - Japanese &#128128;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_fortress.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403135502&profileId=3831458'>Download &#128190;</a>",
-        "Team 1": "DS_LaeB (1223) - Mongols &#128355<br>Sir Monkey (1113) - Khmer &#128355<br>Nanox (1099) - Franks &#128355<br>dicopatito (1282) - Koreans &#128355",
-        "Team 2": "No_one_watch_your_TTV (1093) - Persians &#128355<br>Mortiz (1211) - Wei &#128355<br>edgardo (1203) - Hindustanis &#128355<br>URAKILLES (1210) - Khmer &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403147305&profileId=8915640'>Download &#128190;</a>",
+        "Team 1": "byzmaster (1165) - Khitans &#128081;<br>1012163679 (1172) - Wu &#128081;<br>[KDS] MEHEE (1113) - Tatars &#128081;<br>DarkClonus (1109) - Bulgarians &#128081;",
+        "Team 2": "Sir Monkey (1119) - Khmer &#128128;<br>Nanox (1107) - Huns &#128128;<br>dicopatito (1273) - Italians &#128128;<br>JonBlack (1118) - Japanese &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_fortress.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403135502&profileId=5704780'>Download &#128190;</a>",
-        "Team 1": "DS_LaeB (1223) - Mongols &#128355<br>Sir Monkey (1113) - Khmer &#128355<br>Nanox (1099) - Franks &#128355<br>dicopatito (1282) - Koreans &#128355",
-        "Team 2": "Mortiz (1211) - Wei &#128355<br>edgardo (1203) - Hindustanis &#128355<br>URAKILLES (1210) - Khmer &#128355<br>No_one_watch_your_TTV (1093) - Persians &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403147305&profileId=8915640'>Download &#128190;</a>",
+        "Team 1": "byzmaster (1165) - Khitans &#128081;<br>1012163679 (1172) - Wu &#128081;<br>[KDS] MEHEE (1113) - Tatars &#128081;<br>DarkClonus (1109) - Bulgarians &#128081;",
+        "Team 2": "Sir Monkey (1119) - Khmer &#128128;<br>Nanox (1107) - Huns &#128128;<br>dicopatito (1273) - Italians &#128128;<br>JonBlack (1118) - Japanese &#128128;"
     }
 }

@@ -15,9 +15,9 @@
     },
     "dicopatito": {
         "4": {
-            "win": 680,
-            "losses": 559,
-            "rating": 1282,
+            "win": 681,
+            "losses": 561,
+            "rating": 1251,
             "lastmatchdate": "30/06/2025"
         },
         "3": {
@@ -29,9 +29,9 @@
     },
     "sir_monkey": {
         "4": {
-            "win": 1482,
-            "losses": 1603,
-            "rating": 1113,
+            "win": 1483,
+            "losses": 1605,
+            "rating": 1104,
             "lastmatchdate": "30/06/2025"
         },
         "3": {
@@ -43,10 +43,10 @@
     },
     "nanox": {
         "4": {
-            "win": 1060,
-            "losses": 1208,
-            "rating": 1099,
-            "lastmatchdate": "29/06/2025"
+            "win": 1061,
+            "losses": 1210,
+            "rating": 1092,
+            "lastmatchdate": "30/06/2025"
         },
         "3": {
             "win": 7,
