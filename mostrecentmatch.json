@@ -13,14 +13,14 @@
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403147305&profileId=8915640'>Download &#128190;</a>",
-        "Team 1": "byzmaster (1165) - Khitans &#128081;<br>1012163679 (1172) - Wu &#128081;<br>[KDS] MEHEE (1113) - Tatars &#128081;<br>DarkClonus (1109) - Bulgarians &#128081;",
-        "Team 2": "Sir Monkey (1119) - Khmer &#128128;<br>Nanox (1107) - Huns &#128128;<br>dicopatito (1273) - Italians &#128128;<br>JonBlack (1118) - Japanese &#128128;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403546607&profileId=401462'>Download &#128190;</a>",
+        "Team 1": "_NandO (1114) - Wu &#128081;<br>Nanox (1095) - Huns &#128081;<br>Sir Monkey (1134) - Khmer &#128081;<br>help.me.fleet (1249) - Vietnamese &#128081;",
+        "Team 2": "DAN (1086) - Malay &#128128;<br>liuchang85501 (1042) - Sicilians &#128128;<br>BRAZILBIKINI (1196) - Bengalis &#128128;<br>LavarBall (1218) - Wu &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403166629&profileId=15772275'>Download &#128190;</a>",
-        "Team 1": "fabricioantonio1 (1114) - Goths &#128128;<br>ZEAN430 (1235) - Persians &#128128;<br>sagoro1 (870) - Huns &#128128;<br>The_Father_92 (1535) - Bohemians &#128128;",
-        "Team 2": "Sir Monkey (1116) - Khmer &#128081;<br>dicopatito (1239) - Armenians &#128081;<br>thetoastaoe (1228) - Saracens &#128081;<br>anhdeptraibd (1165) - Huns &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403546607&profileId=5897011'>Download &#128190;</a>",
+        "Team 1": "_NandO (1114) - Wu &#128081;<br>help.me.fleet (1249) - Vietnamese &#128081;<br>Sir Monkey (1134) - Khmer &#128081;<br>Nanox (1095) - Huns &#128081;",
+        "Team 2": "LavarBall (1218) - Wu &#128128;<br>BRAZILBIKINI (1196) - Bengalis &#128128;<br>liuchang85501 (1042) - Sicilians &#128128;<br>DAN (1086) - Malay &#128128;"
     }
 }
