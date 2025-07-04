@@ -13,14 +13,14 @@
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403896773&profileId=3996467'>Download &#128190;</a>",
-        "Team 1": "Riderelph (1108) - Burgundians &#128081;<br>Nanox (1132) - Hindustanis &#128081;<br>Sir Monkey (1190) - Khmer &#128081;<br>Julianm93 (1121) - Britons &#128081;",
-        "Team 2": "Moritzbrandy (870) - Britons &#128128;<br>unzelfunzel (1094) - Teutons &#128128;<br>Blind Archer (1093) - Italians &#128128;<br>thriftypete (990) - Aztecs &#128128;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403921588&profileId=20088550'>Download &#128190;</a>",
+        "Team 1": "Dante18 (1171) - Hindustanis &#128355<br>Samsito (1249) - Mongols &#128355<br>marcelofabian (1062) - Italians &#128355<br>PVS | Claud1us_ (1140) - Bohemians &#128355",
+        "Team 2": "leira2236 (1109) - Malay &#128355<br>Nanox (1143) - Hindustanis &#128355<br>Sir Monkey (1198) - Khmer &#128355<br>DesNoguns (1225) - Lithuanians &#128355"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403896773&profileId=1900403'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1190) - Khmer &#128081;<br>Julianm93 (1121) - Britons &#128081;<br>Nanox (1132) - Hindustanis &#128081;<br>Riderelph (1108) - Burgundians &#128081;",
-        "Team 2": "thriftypete (990) - Aztecs &#128128;<br>Moritzbrandy (870) - Britons &#128128;<br>Blind Archer (1093) - Italians &#128128;<br>unzelfunzel (1094) - Teutons &#128128;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403921588&profileId=15693626'>Download &#128190;</a>",
+        "Team 1": "Samsito (1249) - Mongols &#128355<br>PVS | Claud1us_ (1140) - Bohemians &#128355<br>marcelofabian (1062) - Italians &#128355<br>Dante18 (1171) - Hindustanis &#128355",
+        "Team 2": "Nanox (1143) - Hindustanis &#128355<br>DesNoguns (1225) - Lithuanians &#128355<br>Sir Monkey (1198) - Khmer &#128355<br>leira2236 (1109) - Malay &#128355"
     }
 }
