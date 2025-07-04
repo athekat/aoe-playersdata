@@ -6,10 +6,10 @@
         "Team 2": "Alessa (1080) - Persians &#128128;<br>ZerohLife (1125) - Chinese &#128128;<br>Ehrcander (1103) - Magyars &#128128;<br>Luxso (1099) - Portuguese &#128128;"
     },
     "Dicopatito": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_steppe.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403789927&profileId=5045996'>Download &#128190;</a>",
-        "Team 1": "DARK LORD KUNAL (1283) - Khitans &#128081;<br>CantStopWontStopGameStop (1287) - Malay &#128081;<br>\u0968\u0930\u093e \u092c\u093e\u091c\u0940\u0930\u093e\u0935 (1312) - Slavs &#128081;",
-        "Team 2": "dicopatito (1259) - Armenians &#128128;<br>I can't speak English (1218) - Aztecs &#128128;<br>\u7cbe\u9510\u6295\u77db\u624b (1186) - Wei &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_fortress.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403967173&profileId=10763429'>Download &#128190;</a>",
+        "Team 1": "Rush me \u5c31\u54c8\u4f60 (1273) - Byzantines &#128355<br>52521 (1214) - Poles &#128355<br>dicopatito (1228) - Koreans &#128355<br>Sir Monkey (1182) - Khmer &#128355",
+        "Team 2": "\u963f\u6587 (1247) - Goths &#128355<br>chymkuckuz (1167) - Vietnamese &#128355<br>gab0z (1180) - Mongols &#128355<br>\u7ef4\u4ed6\u547dC (1191) - Spanish &#128355"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_steppe.png' width='150rem' alt=''>",
@@ -18,9 +18,9 @@
         "Team 2": "OWL | Dr. Jesucristotl II (1086) - Magyars &#128128;<br>Jumilka5029 (1171) - Gurjaras &#128128;<br>OWL | Acsai (1235) - Aztecs &#128128;<br>Spacepope4949 (1176) - Mongols &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_glade.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403959803&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "Roba Ni\u00f1os45 (1343) - Vietnamese &#128081;<br>KbzaSFC (1266) - Georgians &#128081;<br>Keif (1340) - Burmese &#128081;<br>\u0130mparator \u0130lletyus (1209) - Mongols &#128081;",
-        "Team 2": "Rocky (1220) - Italians &#128128;<br>GichtSchorsch (1238) - Bohemians &#128128;<br>Currentmob1 (1221) - Persians &#128128;<br>Sir Monkey (1209) - Khmer &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_fortress.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403967173&profileId=3430463'>Download &#128190;</a>",
+        "Team 1": "dicopatito (1228) - Koreans &#128355<br>Sir Monkey (1182) - Khmer &#128355<br>52521 (1214) - Poles &#128355<br>Rush me \u5c31\u54c8\u4f60 (1273) - Byzantines &#128355",
+        "Team 2": "\u963f\u6587 (1247) - Goths &#128355<br>\u7ef4\u4ed6\u547dC (1191) - Spanish &#128355<br>chymkuckuz (1167) - Vietnamese &#128355<br>gab0z (1180) - Mongols &#128355"
     }
 }
