@@ -8,8 +8,8 @@
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_fortress.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403967173&profileId=10763429'>Download &#128190;</a>",
-        "Team 1": "Rush me \u5c31\u54c8\u4f60 (1273) - Byzantines &#128355<br>52521 (1214) - Poles &#128355<br>dicopatito (1228) - Koreans &#128355<br>Sir Monkey (1182) - Khmer &#128355",
-        "Team 2": "\u963f\u6587 (1247) - Goths &#128355<br>chymkuckuz (1167) - Vietnamese &#128355<br>gab0z (1180) - Mongols &#128355<br>\u7ef4\u4ed6\u547dC (1191) - Spanish &#128355"
+        "Team 1": "Rush me \u5c31\u54c8\u4f60 (1273) - Byzantines &#128081;<br>52521 (1214) - Poles &#128081;<br>dicopatito (1228) - Koreans &#128081;<br>Sir Monkey (1182) - Khmer &#128081;",
+        "Team 2": "\u963f\u6587 (1247) - Goths &#128128;<br>chymkuckuz (1167) - Vietnamese &#128128;<br>gab0z (1180) - Mongols &#128128;<br>\u7ef4\u4ed6\u547dC (1191) - Spanish &#128128;"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_steppe.png' width='150rem' alt=''>",
@@ -20,7 +20,7 @@
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_fortress.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=403967173&profileId=3430463'>Download &#128190;</a>",
-        "Team 1": "dicopatito (1228) - Koreans &#128355<br>Sir Monkey (1182) - Khmer &#128355<br>52521 (1214) - Poles &#128355<br>Rush me \u5c31\u54c8\u4f60 (1273) - Byzantines &#128355",
-        "Team 2": "\u963f\u6587 (1247) - Goths &#128355<br>\u7ef4\u4ed6\u547dC (1191) - Spanish &#128355<br>chymkuckuz (1167) - Vietnamese &#128355<br>gab0z (1180) - Mongols &#128355"
+        "Team 1": "dicopatito (1228) - Koreans &#128081;<br>Sir Monkey (1182) - Khmer &#128081;<br>52521 (1214) - Poles &#128081;<br>Rush me \u5c31\u54c8\u4f60 (1273) - Byzantines &#128081;",
+        "Team 2": "\u963f\u6587 (1247) - Goths &#128128;<br>\u7ef4\u4ed6\u547dC (1191) - Spanish &#128128;<br>chymkuckuz (1167) - Vietnamese &#128128;<br>gab0z (1180) - Mongols &#128128;"
     }
 }
