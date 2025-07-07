@@ -8,8 +8,8 @@
     "Dicopatito": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=404685843&profileId=9817007'>Download &#128190;</a>",
-        "Team 1": "Veritas of the Dark (1253) - Koreans &#128355<br>Sir Monkey (1201) - Vietnamese &#128355<br>dicopatito (1357) - Spanish &#128355",
-        "Team 2": "Monkey Shoulder (1235) - Chinese &#128355<br>SteenyNL (1270) - Vikings &#128355<br>SemperBlender (1218) - Wu &#128355"
+        "Team 1": "Veritas of the Dark (1253) - Koreans &#128128;<br>Sir Monkey (1201) - Vietnamese &#128128;<br>dicopatito (1357) - Spanish &#128128;",
+        "Team 2": "Monkey Shoulder (1235) - Chinese &#128081;<br>SteenyNL (1270) - Vikings &#128081;<br>SemperBlender (1234) - Wu &#128081;"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_steppe.png' width='150rem' alt=''>",
@@ -20,7 +20,7 @@
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
         "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=404685843&profileId=18728164'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1201) - Vietnamese &#128355<br>dicopatito (1357) - Spanish &#128355<br>Veritas of the Dark (1253) - Koreans &#128355",
-        "Team 2": "SteenyNL (1270) - Vikings &#128355<br>SemperBlender (1218) - Wu &#128355<br>Monkey Shoulder (1235) - Chinese &#128355"
+        "Team 1": "Sir Monkey (1201) - Vietnamese &#128128;<br>dicopatito (1357) - Spanish &#128128;<br>Veritas of the Dark (1253) - Koreans &#128128;",
+        "Team 2": "SteenyNL (1270) - Vikings &#128081;<br>SemperBlender (1234) - Wu &#128081;<br>Monkey Shoulder (1235) - Chinese &#128081;"
     }
 }
