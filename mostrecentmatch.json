@@ -12,15 +12,15 @@
         "Team 2": "Monkey Shoulder (1235) - Chinese &#128081;<br>SteenyNL (1270) - Vikings &#128081;<br>SemperBlender (1234) - Wu &#128081;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=404841979&profileId=10974948'>Download &#128190;</a>",
-        "Team 1": "GardenScapesPro (1116) - Magyars &#128128;<br>JBEN52 (1182) - Britons &#128128;<br>LastAmbitions (1063) - Khmer &#128128;<br>Humansandwich (1246) - Celts &#128128;",
-        "Team 2": "BSGA. No M!cr0 (1179) - Inca &#128081;<br>Nanox (1131) - Byzantines &#128081;<br>Sir Monkey (1155) - Poles &#128081;<br>BSGA. Gone (1179) - Ethiopians &#128081;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=405244618&profileId=15751227'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1103) - Khmer &#128081;<br>[BuluC]Not_the_Viper (1246) - Franks &#128081;<br>Nanox (1148) - Hindustanis &#128081;<br>\u5e7d\u7075 (1215) - Huns &#128081;",
+        "Team 2": "SayHeyBoomer! (1215) - Malay &#128128;<br>Sepherxs (1097) - Burgundians &#128128;<br>AraGun (1204) - Japanese &#128128;<br>will_evans (1119) - Mongols &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=405234978&profileId=11890096'>Download &#128190;</a>",
-        "Team 1": "llamalord (1149) - Mongols &#128355<br>TacticPlatypus (1051) - Poles &#128355<br>Seifer (1164) - Britons &#128355<br>Great Commander (1177) - Romans &#128355",
-        "Team 2": "Sir Monkey (1118) - Khmer &#128355<br>matheuschmelo (1135) - Goths &#128355<br>Dr_muerte_23 (1121) - Armenians &#128355<br>Sky_\u4e8c\u54e5 (1125) - Lithuanians &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=405244618&profileId=6202738'>Download &#128190;</a>",
+        "Team 1": "\u5e7d\u7075 (1215) - Huns &#128081;<br>Sir Monkey (1103) - Khmer &#128081;<br>[BuluC]Not_the_Viper (1246) - Franks &#128081;<br>Nanox (1148) - Hindustanis &#128081;",
+        "Team 2": "AraGun (1204) - Japanese &#128128;<br>will_evans (1119) - Mongols &#128128;<br>SayHeyBoomer! (1215) - Malay &#128128;<br>Sepherxs (1097) - Burgundians &#128128;"
     }
 }
