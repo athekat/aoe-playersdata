@@ -13,14 +13,14 @@
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=405244618&profileId=15751227'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1103) - Khmer &#128081;<br>[BuluC]Not_the_Viper (1246) - Franks &#128081;<br>Nanox (1148) - Hindustanis &#128081;<br>\u5e7d\u7075 (1215) - Huns &#128081;",
-        "Team 2": "SayHeyBoomer! (1215) - Malay &#128128;<br>Sepherxs (1097) - Burgundians &#128128;<br>AraGun (1204) - Japanese &#128128;<br>will_evans (1119) - Mongols &#128128;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=405430580&profileId=1569601'>Download &#128190;</a>",
+        "Team 1": "alfoo (1130) - Bohemians &#128355<br>anousmade (1115) - Ethiopians &#128355<br>LoneWolf (1125) - Persians &#128355<br>Obladee (1139) - Magyars &#128355",
+        "Team 2": "Sir Monkey (1148) - Khmer &#128355<br>laughingman (1129) - Britons &#128355<br>Nanox (1180) - Hindustanis &#128355<br>LUCAS 1200 (1145) - Magyars &#128355"
     },
     "SirMonkey": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=405413090&profileId=22781792'>Download &#128190;</a>",
-        "Team 1": "CarrotTopChaos (1149) - Gurjaras &#128355<br>carcaage (1118) - Berbers &#128355<br>Zizzle4879 (1137) - Cumans &#128355<br>GADDAR (1134) - Franks &#128355",
-        "Team 2": "Dexter (1109) - Bengalis &#128355<br>Sir Monkey (1132) - Khmer &#128355<br>Bot Vladimir (1110) - Goths &#128355<br>Mamoot (None) - Huns &#128355"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=405430580&profileId=1569601'>Download &#128190;</a>",
+        "Team 1": "LoneWolf (1125) - Persians &#128355<br>Obladee (1139) - Magyars &#128355<br>anousmade (1115) - Ethiopians &#128355<br>alfoo (1130) - Bohemians &#128355",
+        "Team 2": "laughingman (1129) - Britons &#128355<br>Nanox (1180) - Hindustanis &#128355<br>Sir Monkey (1148) - Khmer &#128355<br>LUCAS 1200 (1145) - Magyars &#128355"
     }
 }
