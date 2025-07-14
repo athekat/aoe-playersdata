@@ -12,15 +12,15 @@
         "Team 2": "Coca_Cola_Without_Ice (1354) - Italians &#128081;<br>The Milkman (1365) - Spanish &#128081;<br>dicopatito (1324) - Armenians &#128081;<br>Elite Rizz Master (1351) - Dravidians &#128081;"
     },
     "Nanox": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=406130160&profileId=22747470'>Download &#128190;</a>",
-        "Team 1": "Pachegol (1081) - Hindustanis &#128355<br>Kikelot (1069) - Bulgarians &#128355<br>Aioria (1098) - Goths &#128355<br>BlackPanter (1192) - Bohemians &#128355",
-        "Team 2": "nic0 (1020) - Saracens &#128355<br>Nanox (1128) - Hindustanis &#128355<br>Sir Monkey (1082) - Khmer &#128355<br>ValkriaN (1178) - Cumans &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=406143895&profileId=439001'>Download &#128190;</a>",
+        "Team 1": "RustBuckets (1088) - Saracens &#128128;<br>Rata Pre\u00f1adora (1045) - Goths &#128128;<br>Kago Mizore (1055) - Teutons &#128128;<br>gerardo.campos (1096) - Franks &#128128;",
+        "Team 2": "Rocky (1091) - Bohemians &#128081;<br>Q8.Rasheed2 (1070) - Franks &#128081;<br>Sir Monkey (1069) - Khmer &#128081;<br>Nanox (1109) - Turks &#128081;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=406130160&profileId=439001'>Download &#128190;</a>",
-        "Team 1": "BlackPanter (1192) - Bohemians &#128355<br>Aioria (1098) - Goths &#128355<br>Kikelot (1069) - Bulgarians &#128355<br>Pachegol (1081) - Hindustanis &#128355",
-        "Team 2": "ValkriaN (1178) - Cumans &#128355<br>Sir Monkey (1082) - Khmer &#128355<br>nic0 (1020) - Saracens &#128355<br>Nanox (1128) - Hindustanis &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=406143895&profileId=2307736'>Download &#128190;</a>",
+        "Team 1": "Rata Pre\u00f1adora (1045) - Goths &#128128;<br>Kago Mizore (1055) - Teutons &#128128;<br>gerardo.campos (1096) - Franks &#128128;<br>RustBuckets (1088) - Saracens &#128128;",
+        "Team 2": "Q8.Rasheed2 (1070) - Franks &#128081;<br>Sir Monkey (1069) - Khmer &#128081;<br>Nanox (1109) - Turks &#128081;<br>Rocky (1091) - Bohemians &#128081;"
     }
 }
