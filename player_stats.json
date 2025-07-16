@@ -29,10 +29,10 @@
     },
     "sir_monkey": {
         "4": {
-            "win": 1526,
+            "win": 1528,
             "losses": 1650,
-            "rating": 1059,
-            "lastmatchdate": "15/07/2025"
+            "rating": 1091,
+            "lastmatchdate": "16/07/2025"
         },
         "3": {
             "win": 3,
@@ -43,10 +43,10 @@
     },
     "nanox": {
         "4": {
-            "win": 1073,
+            "win": 1075,
             "losses": 1223,
-            "rating": 1068,
-            "lastmatchdate": "15/07/2025"
+            "rating": 1098,
+            "lastmatchdate": "16/07/2025"
         },
         "3": {
             "win": 7,
