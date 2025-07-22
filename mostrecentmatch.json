@@ -13,14 +13,14 @@
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=406738217&profileId=903496'>Download &#128190;</a>",
-        "Team 1": "Pandari8 (1128) - Goths &#128081;<br>SargentMaravilla (1152) - Japanese &#128081;<br>Real Montaraz del Norte (1134) - Huns &#128081;<br>TheroZeuS (1147) - Mongols &#128081;",
-        "Team 2": "Nanox (1115) - Huns &#128128;<br>SirR1ko (1097) - Franks &#128128;<br>\u8001\u5b50\u4e0d\u5922\u8774\u8776\u5922\u5976\u6cb9\u6d3e (1088) - Dravidians &#128128;<br>Sir Monkey (1091) - Khmer &#128128;"
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=407829250&profileId=439001'>Download &#128190;</a>",
+        "Team 1": "Joneto (1105) - Huns &#128128;<br>Chacalitoo (1107) - Japanese &#128128;<br>Viejo_MULA (1049) - Italians &#128128;<br>NeO (998) - Vietnamese &#128128;",
+        "Team 2": "Sir Monkey (988) - Vietnamese &#128081;<br>Komodo3000 (1061) - Spanish &#128081;<br>Ryukuro-Tsubarashi (1079) - Khmer &#128081;<br>Nanox (1113) - Huns &#128081;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=407660413&profileId=17810858'>Download &#128190;</a>",
-        "Team 1": "\u5091\u5927 (1006) - Britons &#128081;<br>JsTM || jhuniorlmv (962) - Vikings &#128081;<br>rose (981) - Celts &#128081;<br>nV Lineker (1000) - Cumans &#128081;",
-        "Team 2": "Sir Monkey (985) - Khmer &#128128;<br>\u5df4\u54c6 (1001) - Hindustanis &#128128;<br>thenewt7 (972) - Teutons &#128128;<br>asturon35 (976) - Slavs &#128128;"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_nomad.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=407829250&profileId=903496'>Download &#128190;</a>",
+        "Team 1": "NeO (998) - Vietnamese &#128128;<br>Viejo_MULA (1049) - Italians &#128128;<br>Chacalitoo (1107) - Japanese &#128128;<br>Joneto (1105) - Huns &#128128;",
+        "Team 2": "Nanox (1113) - Huns &#128081;<br>Ryukuro-Tsubarashi (1079) - Khmer &#128081;<br>Komodo3000 (1061) - Spanish &#128081;<br>Sir Monkey (988) - Vietnamese &#128081;"
     }
 }
