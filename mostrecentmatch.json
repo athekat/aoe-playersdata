@@ -6,10 +6,10 @@
         "Team 2": "Alessa (1080) - Persians &#128128;<br>ZerohLife (1125) - Chinese &#128128;<br>Ehrcander (1103) - Magyars &#128128;<br>Luxso (1099) - Portuguese &#128128;"
     },
     "Dicopatito": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_hideout.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=408248472&profileId=19436955'>Download &#128190;</a>",
-        "Team 1": "Sir Monkey (1060) - Khmer &#128355<br>Lil' Linguini (1220) - Franks &#128355<br>dicopatito (1302) - Malay &#128355",
-        "Team 2": "Salo III (1233) - Bengalis &#128355<br>IAnn7 (1207) - Georgians &#128355<br>cn2024 (1204) - Italians &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=408253255&profileId=4585778'>Download &#128190;</a>",
+        "Team 1": "Sir Monkey (1077) - Khmer &#128355<br>To AoE or not to AoE? (1243) - Berbers &#128355<br>dicopatito (1299) - Armenians &#128355",
+        "Team 2": "\u7194\u5ca9\u7206\u9e21\u86cb (1216) - Italians &#128355<br>CoMi (GER) (1272) - Aztecs &#128355<br>DerGeileBimser (1195) - Persians &#128355"
     },
     "Nanox": {
         "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_black-forest.png' width='150rem' alt=''>",
@@ -18,9 +18,9 @@
         "Team 2": "DobleP (972) - Bohemians &#128128;<br>Triceratops (971) - Khmer &#128128;<br>LA MAQUINA SANCHEZ (936) - Goths &#128128;<br>Set (960) - Persians &#128128;"
     },
     "SirMonkey": {
-        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_hideout.png' width='150rem' alt=''>",
-        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=408248472&profileId=5902234'>Download &#128190;</a>",
-        "Team 1": "Lil' Linguini (1220) - Franks &#128355<br>Sir Monkey (1060) - Khmer &#128355<br>dicopatito (1302) - Malay &#128355",
-        "Team 2": "IAnn7 (1207) - Georgians &#128355<br>cn2024 (1204) - Italians &#128355<br>Salo III (1233) - Bengalis &#128355"
+        "LastMatch": "<img src='https://frontend.cdn.aoe2companion.com/public/aoe2/de/maps/rm_arena.png' width='150rem' alt=''>",
+        "DownloadRecLink": "<a class='align-self-center link-light link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover' href='https://aoe.ms/replay/?gameId=408253255&profileId=4572053'>Download &#128190;</a>",
+        "Team 1": "To AoE or not to AoE? (1243) - Berbers &#128355<br>Sir Monkey (1077) - Khmer &#128355<br>dicopatito (1299) - Armenians &#128355",
+        "Team 2": "DerGeileBimser (1195) - Persians &#128355<br>\u7194\u5ca9\u7206\u9e21\u86cb (1216) - Italians &#128355<br>CoMi (GER) (1272) - Aztecs &#128355"
     }
 }
