@@ -10,15 +10,11 @@ jobs:
       - name: Run Python script
         run: |
           python getPlayerInfo.py
-      - name: Run Python recentmatch script
-        run: |
-          python getLastMatch.py
       - name: Commit changes
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
           git add lastUpdated.txt
-          git add mostrecentmatch.json
           git add player_stats.json
           git commit -m "Update date to $(date +%Y-%m-%d)" || echo "No changes to commit"
       - name: Push changes
