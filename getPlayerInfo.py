@@ -10,6 +10,7 @@ today = datetime.datetime.now().strftime("%d-%m-%Y, %H:%M:%S")
 player_urls = {
     "dicopato": "https://aoe-api.worldsedgelink.com/community/leaderboard/GetPersonalStat?title=age2&profile_names=[%22/steam/76561198118459931%22]",
     "dicopatito": "https://aoe-api.worldsedgelink.com/community/leaderboard/GetPersonalStat?title=age2&profile_names=[%22/steam/76561199195740571%22]",
+    "pato350z": "https://aoe-api.worldsedgelink.com/community/leaderboard/GetPersonalStat?title=age2&profile_names=[%22/steam/76561198774258334%22]",
     "sir_monkey": "https://aoe-api.worldsedgelink.com/community/leaderboard/GetPersonalStat?title=age2&profile_names=[%22/steam/76561198163778606%22]",
     "nanox": "https://aoe-api.worldsedgelink.com/community/leaderboard/GetPersonalStat?title=age2&profile_names=[%22/steam/76561198191637438%22]",
     "alanthekat": "https://aoe-api.worldsedgelink.com/community/leaderboard/GetPersonalStat?title=age2&profile_names=[%22/steam/76561198153797281%22]",
