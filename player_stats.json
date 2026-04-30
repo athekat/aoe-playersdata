@@ -13,6 +13,34 @@
             "lastmatchdate": "29/07/2023"
         }
     },
+    "dicopatito": {
+        "4": {
+            "win": 874,
+            "losses": 716,
+            "rating": 1466,
+            "lastmatchdate": "21/10/2025"
+        },
+        "3": {
+            "win": 364,
+            "losses": 341,
+            "rating": 1506,
+            "lastmatchdate": "08/10/2024"
+        }
+    },
+    "pato350z": {
+        "3": {
+            "win": 57,
+            "losses": 30,
+            "rating": 1534,
+            "lastmatchdate": "15/01/2026"
+        },
+        "4": {
+            "win": 23,
+            "losses": 11,
+            "rating": 1288,
+            "lastmatchdate": "07/12/2025"
+        }
+    },
     "sir_monkey": {
         "4": {
             "win": 1892,
