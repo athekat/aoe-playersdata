@@ -27,11 +27,25 @@
             "lastmatchdate": "08/10/2024"
         }
     },
+    "pato350z": {
+        "3": {
+            "win": 57,
+            "losses": 30,
+            "rating": 1534,
+            "lastmatchdate": "15/01/2026"
+        },
+        "4": {
+            "win": 23,
+            "losses": 11,
+            "rating": 1288,
+            "lastmatchdate": "07/12/2025"
+        }
+    },
     "sir_monkey": {
         "4": {
             "win": 1955,
-            "losses": 2073,
-            "rating": 1159,
+            "losses": 2074,
+            "rating": 1142,
             "lastmatchdate": "09/05/2026"
         },
         "3": {
