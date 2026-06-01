@@ -43,9 +43,9 @@
     },
     "sir_monkey": {
         "4": {
-            "win": 2098,
-            "losses": 2230,
-            "rating": 1011,
+            "win": 2100,
+            "losses": 2233,
+            "rating": 989,
             "lastmatchdate": "01/06/2026"
         },
         "3": {
@@ -58,9 +58,9 @@
     "nanox": {
         "4": {
             "win": 1221,
-            "losses": 1387,
-            "rating": 1033,
-            "lastmatchdate": "31/05/2026"
+            "losses": 1389,
+            "rating": 993,
+            "lastmatchdate": "01/06/2026"
         },
         "3": {
             "win": 9,
