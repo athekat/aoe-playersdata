@@ -35,18 +35,18 @@
             "lastmatchdate": "15/01/2026"
         },
         "4": {
-            "win": 65,
+            "win": 67,
             "losses": 46,
-            "rating": 1289,
-            "lastmatchdate": "31/10/2026"
+            "rating": 1317,
+            "lastmatchdate": "01/11/2026"
         }
     },
     "sir_monkey": {
         "4": {
-            "win": 2543,
+            "win": 2545,
             "losses": 2655,
-            "rating": 1142,
-            "lastmatchdate": "31/10/2026"
+            "rating": 1183,
+            "lastmatchdate": "01/11/2026"
         },
         "3": {
             "win": 3,
