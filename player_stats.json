@@ -35,18 +35,18 @@
             "lastmatchdate": "15/01/2026"
         },
         "4": {
-            "win": 78,
-            "losses": 49,
-            "rating": 1401,
-            "lastmatchdate": "11/11/2026"
+            "win": 81,
+            "losses": 50,
+            "rating": 1419,
+            "lastmatchdate": "14/11/2026"
         }
     },
     "sir_monkey": {
         "4": {
-            "win": 2579,
-            "losses": 2689,
-            "rating": 1183,
-            "lastmatchdate": "13/11/2026"
+            "win": 2582,
+            "losses": 2692,
+            "rating": 1196,
+            "lastmatchdate": "14/11/2026"
         },
         "3": {
             "win": 9,
@@ -58,9 +58,9 @@
     "nanox": {
         "4": {
             "win": 1412,
-            "losses": 1580,
-            "rating": 1192,
-            "lastmatchdate": "13/11/2026"
+            "losses": 1581,
+            "rating": 1179,
+            "lastmatchdate": "14/11/2026"
         },
         "3": {
             "win": 9,
@@ -71,10 +71,10 @@
     },
     "alanthekat": {
         "4": {
-            "win": 71,
-            "losses": 44,
-            "rating": 1306,
-            "lastmatchdate": "11/11/2026"
+            "win": 74,
+            "losses": 45,
+            "rating": 1333,
+            "lastmatchdate": "14/11/2026"
         },
         "3": {
             "win": 29,
